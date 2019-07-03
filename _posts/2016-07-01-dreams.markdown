@@ -4,7 +4,7 @@ title:      "Privacy Policy of Rosillo Labs"
 date:       2019-07-03 07:00:00
 author:     "Daniel Rosillo"
 header-img: "img/post-bg-02.jpg"
-categories: Start Bootstrap
+categories: Legal
 ---
 <div align="justify">
  <h2>Privacy Policy</h2> <p> Rosillo Labs built their apps as a Free app. This SERVICE is provided by
@@ -52,7 +52,6 @@ categories: Start Bootstrap
                     this page periodically for any changes. I will notify you of any changes by posting
                     the new Privacy Policy on this page. These changes are effective immediately after they are posted on
                     this page.
-                  </p> <p><strong>Contact Us</strong></p> <p>If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact
-                    me at danielrosillo@protonmail.com.
+                  </p> <p><strong>Contact Us</strong></p> <p>If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact at danielrosillo@protonmail.com.
                 
 </div>
