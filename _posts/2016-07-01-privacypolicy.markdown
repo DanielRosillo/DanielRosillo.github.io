@@ -54,4 +54,3 @@ categories: Legal
                     this page.
                   </p> <p><strong>Contact Us</strong></p> <p>If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact at danielrosillo@protonmail.com.
                 
-</div>
