@@ -3,7 +3,7 @@ layout:     post
 title:      "Delysid ANN Perceptron Multicapa en JAVA IA"
 date:       2019-07-03 07:00:00
 author:     "Daniel Rosillo"
-header-img: "img/post-bg-02.jpg"
+header-img: "img/delysid.jpg"
 categories: Inteligencia Artificial 
 ---
 <div class="separator" style="clear: both; text-align: center;">
@@ -115,4 +115,3 @@ Rafael Alberto Moreno Parra 2016. Redes Neuronales parte 1.<br />
 <br />
 Fraternalmente Daniel Rosillo .&#8217;.;
 <div style='clear: both;'></div>
-</div>
