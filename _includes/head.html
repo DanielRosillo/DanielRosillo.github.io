@@ -7,8 +7,17 @@
     <meta name="description" content="Rosillo Labs is a software development studio. We develop apps and software with the more high quality available in Android,C#, and more.">
     <link rel="canonical" href="https://danielrosillo.github.io"/>
 
-    <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+    <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title><!-- Global site tag (gtag.js) - Google Analytics -->
+   
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-143262290-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
 
+      gtag('config', 'UA-143262290-1');
+    </script>
+    
     <!-- Bootstrap Core CSS -->
     <link rel="stylesheet" href="/vendor/bootstrap/css/bootstrap.min.css" type="text/css">
 
