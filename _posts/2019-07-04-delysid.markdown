@@ -37,7 +37,7 @@ Problema de Juguete: Aprender Tablas Lógicas.
 <br />
 
 <br />
-El perceptrón simple por sí mismo puede resolver problemas cuya separabilidad lineal sea única, esto funciona para algunas de las tablas de verdad, cuya característica intrínseca es esta, pero existen otras cuya complejidad aumenta y dejan de ser linealmente separables. La explicación es evidente si observamos sus puntos dentro de un plano catesiano.<br />
+El perceptrón simple por sí mismo puede resolver problemas cuya separabilidad lineal sea única, esto funciona para algunas de las tablas de verdad, cuya característica intrínseca es esta, pero existen otras cuya complejidad aumenta y dejan de ser linealmente separables. La explicación es evidente si observamos sus puntos dentro de un plano cartesiano.<br />
 
 <div class="separator" style="clear: both; text-align: center;">
 <a href="https://3.bp.blogspot.com/-ydHs7bn4JCY/W8sC3kosl7I/AAAAAAAAAkM/72dlEyi4_0sWqlUK8ei42gOiAAxR4dkaQCLcBGAs/s1600/DELYSIDANN03.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="237" data-original-width="484" height="156" src="https://3.bp.blogspot.com/-ydHs7bn4JCY/W8sC3kosl7I/AAAAAAAAAkM/72dlEyi4_0sWqlUK8ei42gOiAAxR4dkaQCLcBGAs/s320/DELYSIDANN03.jpg" width="320" /></a></div>
