@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Delysid ANN Perceptron Multicapa en JAVA IA"
+title:      "Delysid ANN Perceptrón Multicapa en JAVA IA"
 date:       2019-07-03 07:00:00
 author:     "Daniel Rosillo"
 header-img: "img/delysid.jpg"
