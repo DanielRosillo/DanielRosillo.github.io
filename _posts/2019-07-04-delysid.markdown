@@ -15,7 +15,7 @@ En esta ocasión les comparto las estructuras para modelar una red neuronal y en
 <b>ESPECIFICACIONES DEL AGENTE</b><br />
 <br />
 &nbsp;&nbsp;&nbsp; &#8226; CONEXIONISTA.<br />
-&nbsp;&nbsp;&nbsp; &#8226; PERCEPTRON MULTICAPA.<br />
+&nbsp;&nbsp;&nbsp; &#8226; PERCEPTRÓN MULTICAPA.<br />
 &nbsp;&nbsp;&nbsp; &#8226; APRENDIZAJE SUPERVISADO.<br />
 &nbsp;&nbsp;&nbsp; &#8226; FEED-FORWARD.<br />
 <br />
@@ -55,7 +55,7 @@ Para la interpretación del resultado bastara con evaluar alguna de las salidas,
 &nbsp;&nbsp;&nbsp; &#8226; La salida tiene un valor &gt; 0.5, se interpretará el resultado como 1.<br />
 &nbsp;&nbsp;&nbsp; &#8226; En caso de ser &lt; 0.5 la salida se interpreta como 0.<br />
 <br />
-Imagine cada nodo de la red como una pequeña factoría de números, una función; la salida final es dependiente de los pesos de sus neuronas vecinas(interconectadas) y el umbral de la neurona, por tanto, diremos que cada que una neurona converge: <br />procesa sus datos y aplica una función de activación que da como resultado una salida numérica que pasa a ser el valor entrada de sus neuronas vecinas, así hasta llegar a la última capa, en donde la salida se interpretara de forma binaria.<br /><br />Si la salida final de la red le permita al agente responder correctamente a los estímulos (que son las entradas de la tabla) diremos que esos números convergen y resuelven al problema.<br />Encontrar la combinación de números correcta &#8220;armónica&#8221; es complicado, una de las formas conocidas para ajustar estos números es mediante el algoritmo de backpropagation. Que básicamente hace, que cada que la red converge (lo que se traduce como converger todas las neuronas de la red en base a las percepciones del agente), ajusta los pesos y umbrales de acuerdo a varios criterios matemáticos.<br /><br /><b>EJEMPLO - REPRESENTACIÓN &amp;&amp; IMPLEMENTACIÓN</b><br /><br /><b>Representación</b><br /><br />Se puede instanciar a un agente de la siguiente forma:</0><br />
+Imagine cada nodo de la red como una pequeña factoría de números, una función; la salida final es dependiente de los pesos de sus neuronas vecinas(interconectadas) y el umbral de la neurona, por tanto, diremos que cada que una neurona converge: <br />procesa sus datos y aplica una función de activación que da como resultado una salida numérica que pasa a ser el valor entrada de sus neuronas vecinas, así hasta llegar a la última capa, en donde la salida se interpretara de forma binaria.<br /><br />Si la salida final de la red le permita al agente responder correctamente a los estímulos (que son las entradas de la tabla) diremos que esos números convergen y resuelven al problema.<br />Encontrar la combinación de números correcta &#8220;armónica&#8221; es complicado, una de las formas conocidas para ajustar estos números es mediante el algoritmo de backpropagation. Que básicamente hace, que cada que la red trate de converger (lo que se traduce como converger todas las neuronas de la red en base a las percepciones del agente), ajustara los pesos y los umbrales de acuerdo a varios criterios matemáticos.<br /><br /><b>EJEMPLO - REPRESENTACIÓN &amp;&amp; IMPLEMENTACIÓN</b><br /><br /><b>Representación</b><br /><br />Se puede instanciar a un agente de la siguiente forma:<br />
 <br />
 <div class="separator" style="clear: both; text-align: center;">
 <a href="https://2.bp.blogspot.com/-aqR0Qfh5vTQ/W8sEoSy49UI/AAAAAAAAAks/BtCm8rBiRT0z8InTshcvccJu-n9WL-15wCLcBGAs/s1600/DELYSIDANN06.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="50" data-original-width="526" src="https://2.bp.blogspot.com/-aqR0Qfh5vTQ/W8sEoSy49UI/AAAAAAAAAks/BtCm8rBiRT0z8InTshcvccJu-n9WL-15wCLcBGAs/s1600/DELYSIDANN06.jpg" /></a></div>
@@ -98,7 +98,7 @@ En azul la salida verdadera de la tabla y en rojo la respuesta del agente al est
 <br />
 Si desea escalar las estructuras considerar:<br />
 <br />
-&nbsp;&nbsp;&nbsp; &#8226; El algoritmo de Backpropagation<br />
+&nbsp;&nbsp;&nbsp; &#8226; El algoritmo de Backpropagation.<br />
 &nbsp;&nbsp;&nbsp; &#8226; La manera de percibir los estímulos del agente.<br />
 &nbsp;&nbsp;&nbsp; &#8226; Procesamiento.<br />
 <br />
