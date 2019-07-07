@@ -6,7 +6,7 @@ author:     "Daniel Rosillo"
 header-img: "img/Cherry.jpg"
 categories: Inteligencia Artificial 
 ---
-<div class='post-body entry-content'>
+<div style="text-align: justify;">
 Implementaciones sobre búsqueda no informada en JAVA, usando un enfoque funcional<br />
 <br />
 <div class="separator" style="clear: both; text-align: center;">
@@ -153,6 +153,6 @@ Jose Luis Iglesias Feria<br />
 <br />
 <div style="text-align: right;">
 <i>FRATERNALMENTE :</i></div>
-<div style="text-align: right;">
+<div>
 <i>&nbsp;&nbsp;&nbsp; DANIEL ROSILLO .'.</i><br />
 <br />
