@@ -1,12 +1,11 @@
 ---
 layout:     post
-title:      "Delysid ANN Perceptrón Multicapa en JAVA IA"
+title:      "Delysid ANN - Perceptrón Multicapa en JAVA"
 date:       2019-07-03 07:00:00
 author:     "Daniel Rosillo"
 header-img: "img/delysid.jpg"
 categories: Inteligencia Artificial 
 ---
-<div align="justify">
 <a href="https://4.bp.blogspot.com/-JzFvWQhtIMc/W8sA9LyPSZI/AAAAAAAAAj8/Lcf1Q6WG2bE0MDJ7MRiZ4dc0al19CZCnwCLcBGAs/s1600/DELYSIDANN01.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="919" data-original-width="1299" height="452" src="https://4.bp.blogspot.com/-JzFvWQhtIMc/W8sA9LyPSZI/AAAAAAAAAj8/Lcf1Q6WG2bE0MDJ7MRiZ4dc0al19CZCnwCLcBGAs/s640/DELYSIDANN01.jpg" width="640" /></a></div>
 <a href="https://github.com/DanielRosillo/Delysid-ANN" target="_blank">https://github.com/DanielRosillo/Delysid-ANN</a><br />
 <br />
