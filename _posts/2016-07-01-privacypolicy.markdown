@@ -52,5 +52,5 @@ categories: Legal
                     this page periodically for any changes. I will notify you of any changes by posting
                     the new Privacy Policy on this page. These changes are effective immediately after they are posted on
                     this page.
-                  </p> <p><strong>Contact Us</strong></p> <p>If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact at danielrosillo@protonmail.com.
+                  </p> <p><strong>Contact Us</strong></p> <p>If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact at danielrosillodev@protonmail.com.
                 
