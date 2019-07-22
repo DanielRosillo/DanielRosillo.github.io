@@ -54,9 +54,9 @@ Estos arreglos de palabras (Totem y Hint) serán usados para construir una contr
 <a href="https://3.bp.blogspot.com/-Uyu4VRburlM/XJvlVkLUEPI/AAAAAAAAArk/IG_HfzPQqZAAgZF-tEyeSAKp9oOY1bbRACLcBGAs/s1600/highbox4.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="366" data-original-width="885" src="https://3.bp.blogspot.com/-Uyu4VRburlM/XJvlVkLUEPI/AAAAAAAAArk/IG_HfzPQqZAAgZF-tEyeSAKp9oOY1bbRACLcBGAs/s640/highbox4.png" width="530" /></a></div>
 <br />
 Análisis de seguridad arrojado por password.es al inspeccionar una contraseña genera con Highbox en el modo High.<br />
-<b><br />Ventajas</b><br />
+<b><br />Features</b><br />
 <br />
-No tendrá que recordar contraseñas largas y complejas nunca más, ya que es más fácil recordar sus totems, estos son frases o cualquier texto o palabra que configure.
+&#8226;&nbsp;&nbsp;&nbsp; No tendrá que recordar contraseñas largas y complejas nunca más, ya que es más fácil recordar sus totems, estos son frases o cualquier texto o palabra que configure.
 <br>
 &#8226;&nbsp;&nbsp;&nbsp; Es posible utilizar el mismo Tótem para todas las cuentas, y obtener contraseñas diferentes para cada una solo con variar el contenido de la hint.
 <br>
