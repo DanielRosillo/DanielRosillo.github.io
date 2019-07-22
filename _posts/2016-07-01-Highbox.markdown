@@ -19,8 +19,7 @@ Bajo esta premisa funciona Highbox, un sistema gestor de contraseñas que utiliz
 Higbox es el único administrador de contraseñas para tus cuentas de internet en la PlayStore que jamás guardara sus preciadas contraseñas en bases de datos, en su lugar, estas serán generadas solo cuando se les necesite de manera dinámica.
 <br />
 <br />
-<h1>&#191;Cómo funciona?<br /></h1>
-<b>
+<h1><b>&#191;Cómo funciona?<br /></h1>
 <br />
 1.- Para registrar una nueva cuenta, navegue hasta la sección “Push”, ahí se le pedirá que asocie una pista (Hint), a su cuenta que puede ser una palabra u oración del largo y contenido que se desee, esta se guardara junto a los demás datos de la cuenta. (Email, nombre de usuario, etc.)
 <br><br>
