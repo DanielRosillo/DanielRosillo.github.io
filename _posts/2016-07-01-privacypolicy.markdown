@@ -6,7 +6,7 @@ author:     "Daniel Rosillo"
 header-img: "img/post-bg-02.jpg"
 categories: Legal
 ---
-<div align="justify">
+<div style="text-align: justify;">
  <h2>Privacy Policy</h2> <p> Rosillo Labs built their apps as a Free app. This SERVICE is provided by
                     Rosillo Labs at no cost and is intended for use as is.
                   </p> <p>This page is used to inform visitors regarding my policies with the collection, use, and disclosure
