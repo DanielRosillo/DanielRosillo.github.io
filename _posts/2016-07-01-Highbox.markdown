@@ -3,7 +3,7 @@ layout:     post
 title:      "Highbox - Administra tus contraseñas sin guardarlas "
 date:       2019-07-21 23:17:40
 author:     "Daniel Rosillo"
-header-img: "img/post-bg-02.jpg"
+header-img: "img/high.jpg"
 categories: Software
 ---
 <div style="text-align: justify;">
