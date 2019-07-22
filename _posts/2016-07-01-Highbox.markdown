@@ -22,12 +22,12 @@ Higbox es el único administrador de contraseñas para tus cuentas de internet e
 <b>&#191;Cómo funciona?<br />
 <br />
 1.- Para registrar una nueva cuenta, navegue hasta la sección “Push”, ahí se le pedirá que asocie una pista (Hint), a su cuenta que puede ser una palabra u oración del largo y contenido que se desee, esta se guardara junto a los demás datos de la cuenta. (Email, nombre de usuario, etc.)
-<br>
+<br><br>
 2.- Dentro del mismo formulario asociara un Totem, un tótem es una palabra o frase cuyo objetivo es representar una contraseña, esta frase o palabra no se guardará en memoria y es del tamaño y contenido que desee, esta será la llave principal que le permitirá obtener su contraseña en futuras consultas. 
-<br>
+<br><br>
 3.- Guarde la cuenta, y este par de palabras generara una contraseña altamente compleja, luego de esto, debe registrar esta como su nueva contraseña en el sitio web en cuestión. 
 ¡Es todo!
-
+<br>
 <br>
 <a name='more'></a><br />
 <div class="separator" style="clear: both; text-align: center;">
@@ -75,15 +75,12 @@ No tendrá que recordar contraseñas largas y complejas nunca más, ya que es m�
 <br>
 &#8226;&nbsp;&nbsp;&nbsp; Funciona en modo Offline. 
 
-<br>
+<br><br>
 Highbox está disponible de forma gratuita en la Playstore y solo requiere Android 8 o superior.<br />
  <div class="badges">
                     <a class="badge-link" href="https://play.google.com/store/apps/details?id=com.bookmanager.danielrosillo.bookmanager&hl=es_419"><img src="/img/google-play-badge.svg" alt=""></a>
                      </div>
-                     <br>
-                     <a class="badge-link"><img src="/img/qr.png" alt=""></a>
-                    
-                    </div>
+              
                     <br>
 <i>Fraternalmente Daniel Rosillo;</i>
 <div style='clear: both;'></div>
