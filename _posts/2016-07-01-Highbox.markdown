@@ -8,29 +8,41 @@ categories: Software
 ---
 <div style="text-align: justify;">
 <div class='post-body entry-content'>
-Hoy en día, la continua globalización marca la pauta del día a día, y el ámbito de la seguridad no ha sido la excepción, registrarse en un sitio, ya sea para obtener un servicio o acceso a cierta información, es algo bastante común, y a su vez el avance tecnológico exige contraseñas cada vez más complejas, la clásica contraseña de 8 caracteres es a día de hoy obsoleta, otro problema constante es administrar las diferentes contraseñas para cada sitio. Es aquí donde un administrador de contraseñas se vuelve fundamental.<br />
+¿Le sería más fácil recordar palabras en lugar de contraseñas?
+
+Bajo esta premisa funciona Highbox, un sistema gestor de contraseñas que utiliza un cifrado asimétrico de palabras para generar contraseñas, así nunca tendrás que guardarlas en ningún lugar nunca más. 
+<br />
 <div class="separator" style="clear: both; text-align: center;">
 <a href="https://3.bp.blogspot.com/-ZC5GRVaf6_s/XJvko54kElI/AAAAAAAAArQ/y4YSTOHO-SwFmwBK2PMzxNzENOogbzlZQCLcBGAs/s1600/highbox1.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="431" data-original-width="885" src="https://3.bp.blogspot.com/-ZC5GRVaf6_s/XJvko54kElI/AAAAAAAAArQ/y4YSTOHO-SwFmwBK2PMzxNzENOogbzlZQCLcBGAs/s640/highbox1.png" width="530" /></a></div>
 <br />
-Highbox es un administrador de contraseñas gratuito, que no almacena contraseñas, en su lugar son generadas automáticamente mediante un algoritmo matemático, esto lo vuelve bastante conveniente ya que solo se guarda información referente al inicio de sesión como: sitio web, email, teléfono, entre otros, además de utilizar la sincronización en la nube mediante una cuenta de Google para realizar respaldos, por lo que es fácil recuperar la información en todo momento.<br />
+Higbox es el único administrador de contraseñas para tus cuentas de internet en la PlayStore que jamás guardara sus preciadas contraseñas en bases de datos, en su lugar, estas serán generadas solo cuando se les necesite de manera dinámica.
 <br />
-<b>&#191;Cómo funciona?<br />&#8226;&nbsp;&nbsp;&nbsp; PUSH(AGREGAR UNA BOX)<br />&#8226;&nbsp;&nbsp;&nbsp; POP(SACAR UNA BOX)</b><br />
 <br />
-Highbox maneja el concepto de Box para referirse a las cuentas del usuario, así que cuando se agrega una Box lo único que se necesita hacer para configurarla es crear es un &#8220;Totem&#8221;, un tótem es una palabra o frase que es elegida por el usuario para representar su contraseña, ésta nunca será guardada en memoria y el largo o su contenido depende de la elección del usuario. Acompañando a su tótem, se introduce una &#8220;Hint&#8221; o pista, ésta si es almacenada y es básicamente otro juego de palabras escogido por el usuario que es utilizado como referencia para no olvidar el Tótem en futuras consultas. La Hint le dice al usuario cuál podría ser el Tótem, pero claro esto no debe ser explícito.<br />
+<b>&#191;Cómo funciona?<br />
+<br />
+1.- Para registrar una nueva cuenta, navegue hasta la sección “Push”, ahí se le pedirá que asocie una pista (Hint), a su cuenta que puede ser una palabra u oración del largo y contenido que se desee, esta se guardara junto a los demás datos de la cuenta. (Email, nombre de usuario, etc.)
+2.- Dentro del mismo formulario asociara un Totem, un tótem es una palabra o frase cuyo objetivo es representar una contraseña, esta frase o palabra no se guardará en memoria y es del tamaño y contenido que desee, esta será la llave principal que le permitirá obtener su contraseña en futuras consultas. 
+3.- Guarde la cuenta, y este par de palabras generara una contraseña altamente compleja, luego de esto, debe registrar esta como su nueva contraseña en el sitio web en cuestión. 
+¡Es todo!
+
+<br />
 <a name='more'></a><br />
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://2.bp.blogspot.com/-NCHFzUWNDWQ/XJvk9Eo7nvI/AAAAAAAAArY/3fWRHH184EYfhEhNTVLNtJfOmDpyiJwBgCLcBGAs/s1600/highbox2.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="572" data-original-width="410" height="320" src="https://2.bp.blogspot.com/-NCHFzUWNDWQ/XJvk9Eo7nvI/AAAAAAAAArY/3fWRHH184EYfhEhNTVLNtJfOmDpyiJwBgCLcBGAs/s320/highbox2.png" width="229" /></a></div>
+<a href="https://pbs.twimg.com/media/D8l5cIMXoAArMCk?format=jpg&name=medium" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="572" data-original-width="410" height="320" src="https://pbs.twimg.com/media/D8l5cIMXoAArMCk?format=jpg&name=medium" width="229" /></a></div>
 <br />
-Estos arreglos de palabras serán usados para construir una contraseña. Mientras se agrega una Box se puede observar la vista previa de la contraseña que se creará, esta cambia según los juegos de palabras ingresados e incluye el modo &#8220;High&#8221; para construir contraseñas más complejas que el algoritmo por defecto, después de agregar &#8221;Push&#8221; la Box se copiará automáticamente la nueva contraseña al portapapeles por lo cual es necesario ir al sitio web en cuestión y cambiar nuestra contraseña actual por la nueva.<br />
+El objetivo es que, cada que desee consultar la contraseña, ingrese el totem de la primera vez, hecho esto, algoritmos matemáticos altamente especializados generaran siempre la misma contraseña, si responde como la primera vez, de lo contrario devolverá cualquier otra contraseña, para realizar este proceso solo necesita hacer usar la opción Incantation dentro de la cuenta. 
+La “Hint” o pista, es utilizada como referencia para recordar su totem en futuras consultas. La hint le dice cuál podría ser el totem, pero claro esto no debe ser explícito.
+
+MAS ALLÁ DE LO CONVENCIONAL
+Los gestores de contraseñas comunes se limitan a cifrar y generar una contraseña maestra de sus cuentas, esto los vuelve caóticos y poco intuitivos, en Highbox esto no es necesario, sus contraseñas viven en su mente, ya que son palabras que solo usted conoce.
+
 <br />
-&#161;Es todo!<br />
-<br />
-Cada vez que el usuario necesite consultar su contraseña, volverá a la Box y realizara una &#8220;Incantation&#8221;, en donde se le preguntara su tótem y se le mostrara la Hint asociada, si se responde con el Totem de la primera vez, se generara la misma contraseña de lo contrario obtendrá cualquier otra.<br />
 <br />
 <div class="separator" style="clear: both; text-align: center;">
 <a href="https://4.bp.blogspot.com/-oHeT1UoSHs0/XJvlMrlK_cI/AAAAAAAAArc/NCspJ7mtTjYIreFWVTRz8Xnw8ZevJVwBgCLcBGAs/s1600/highbox3.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="385" data-original-width="462" height="266" src="https://4.bp.blogspot.com/-oHeT1UoSHs0/XJvlMrlK_cI/AAAAAAAAArc/NCspJ7mtTjYIreFWVTRz8Xnw8ZevJVwBgCLcBGAs/s320/highbox3.png" width="320" /></a></div>
 <br />
-Desde el Home principal el usuario puede realizar &#8220;Incantations&#8221; para consultar las contraseñas de sus cuentas, solo basta con tocar la cuenta deseada.<br />
+Estos arreglos de palabras(Totem y Hint) serán usados para construir una contraseña. Mientras se agrega una cuneta se puede observar la vista previa de la contraseña que se creará, esta cambia según los juegos de palabras ingresados e incluye el modo “High” y “Cloudy”, para construir contraseñas más complejas que el algoritmo por defecto, después de agregar la cuenta se copiará automáticamente la nueva contraseña al portapapeles por lo cual es necesario ir al sitio web en cuestión y cambiar nuestra contraseña actual por la nueva.
+<br />
 <br />
 <div class="separator" style="clear: both; text-align: center;">
 <a href="https://3.bp.blogspot.com/-Uyu4VRburlM/XJvlVkLUEPI/AAAAAAAAArk/IG_HfzPQqZAAgZF-tEyeSAKp9oOY1bbRACLcBGAs/s1600/highbox4.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="366" data-original-width="885" src="https://3.bp.blogspot.com/-Uyu4VRburlM/XJvlVkLUEPI/AAAAAAAAArk/IG_HfzPQqZAAgZF-tEyeSAKp9oOY1bbRACLcBGAs/s640/highbox4.png" width="530" /></a></div>
@@ -38,11 +50,17 @@ Desde el Home principal el usuario puede realizar &#8220;Incantations&#8221; par
 Análisis de seguridad arrojado por password.es al inspeccionar una contraseña genera con Highbox en el modo High.<br />
 <b><br />Ventajas</b><br />
 <br />
-&#8226;&nbsp;&nbsp;&nbsp; No tendrá que recordar contraseñas largas y complejas nunca más, ya que es más fácil recordar sus Totems, estos son frases o cualquier palabra que el usuario configure.<br />
-&#8226;&nbsp;&nbsp;&nbsp; Es posible utilizar el mismo tótem para todas las boxes y obtener contraseñas diferentes para cada una solo con variar el contenido de la Hint.<br />
-&#8226;&nbsp;&nbsp;&nbsp; No utiliza una base de datos para las contraseñas, sino que genera una contraseña cada vez que la necesitamos.<br />
-&#8226;&nbsp;&nbsp;&nbsp; Toda la información se almacena en la cuenta Google sincronizada.<br />
-&#8226;&nbsp;&nbsp;&nbsp; Funciona en modo Offline.<br />
+No tendrá que recordar contraseñas largas y complejas nunca más, ya que es más fácil recordar sus totems, estos son frases o cualquier texto o palabra que configure.
+•    Es posible utilizar el mismo Tótem para todas las cuentas, y obtener contraseñas diferentes para cada una solo con variar el contenido de la hint.
+•    No utiliza una base de datos para las contraseñas, solo las genera cuando las necesita.
+•    Toda la información se almacena en su cuenta Google sincronizada.
+•    Funciona en modo Offline.
+•    Soporte de huellas dactilares.
+•    Exporte e importe sus cuentas en formato JSON.
+•    No utiliza una base de datos para las contraseñas, sino que genera una contraseña cada vez que la necesitamos.
+•    Toda la información se almacena en la cuenta Google sincronizada.
+•    Funciona en modo Offline. 
+
 <br />
 Highbox está disponible de forma gratuita en la Playstore y solo requiere Android 8 o superior.<br />
 <a href="https://play.google.com/store/apps/details?id=com.bookmanager.danielrosillo.bookmanager">https://play.google.com/store/apps/details?id=com.bookmanager.danielrosillo.bookmanager</a><br />
