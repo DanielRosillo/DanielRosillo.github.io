@@ -37,8 +37,9 @@ Higbox es el único administrador de contraseñas para tus cuentas de internet e
 <br>
 El objetivo es que, cada que desee consultar la contraseña, ingrese el totem de la primera vez, hecho esto, algoritmos matemáticos altamente especializados generaran siempre la misma contraseña, si responde como la primera vez, de lo contrario devolverá cualquier otra contraseña, para realizar este proceso solo necesita hacer usar la opción Incantation dentro de la cuenta. 
 La “Hint” o pista, es utilizada como referencia para recordar su totem en futuras consultas. La hint le dice cuál podría ser el totem, pero claro esto no debe ser explícito.
+<br><br>
+<h2>MAS ALLÁ DE LO CONVENCIONAL</h2>
 <br>
-MAS ALLÁ DE LO CONVENCIONAL
 Los gestores de contraseñas comunes se limitan a cifrar y generar una contraseña maestra de sus cuentas, esto los vuelve caóticos y poco intuitivos, en Highbox esto no es necesario, sus contraseñas viven en su mente, ya que son palabras que solo usted conoce.
 
 <br />
