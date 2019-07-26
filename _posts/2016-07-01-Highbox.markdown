@@ -29,8 +29,8 @@ Higbox es el único administrador de contraseñas para tus cuentas de internet e
 <br>
 <a name='more'></a><br />
 <div class="separator" style="clear: both; text-align: center;">
-<img src="https://pbs.twimg.com/media/D8l5cIMXoAArMCk?format=jpg&name=medium""
-
+<img src="https://pbs.twimg.com/media/D8l5cIMXoAArMCk?format=jpg&name=medium">
+</div>
 <br/>
 <br>
 El objetivo es que, cada que desee consultar la contraseña, ingrese el totem de la primera vez, hecho esto, algoritmos matemáticos altamente especializados generaran siempre la misma contraseña, si responde como la primera vez, de lo contrario devolverá cualquier otra, para realizar este proceso solo necesita usar la opción Incantation dentro de la cuenta. 
