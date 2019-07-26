@@ -11,8 +11,6 @@ categories: Software
 <br>
 <p>¿Le sería más fácil recordar palabras en lugar de contraseñas?, bajo esta premisa funciona Highbox, un sistema gestor de contraseñas que utiliza un cifrado asimétrico de palabras para generarlas. 
 <br>
-</div>
-
 <div class="separator" style="clear: both; text-align: center;">
 <a href="https://3.bp.blogspot.com/-ZC5GRVaf6_s/XJvko54kElI/AAAAAAAAArQ/y4YSTOHO-SwFmwBK2PMzxNzENOogbzlZQCLcBGAs/s640/highbox1.png" imageanchor="1"  style="text-align: center;"><img border="0" data-original-height="431" data-original-width="885" src="https://3.bp.blogspot.com/-ZC5GRVaf6_s/XJvko54kElI/AAAAAAAAArQ/y4YSTOHO-SwFmwBK2PMzxNzENOogbzlZQCLcBGAs/s640/highbox1.png" width="530" /></a>
 </div>
@@ -42,7 +40,7 @@ categories: Software
 <br><br>
 <h2>MAS ALLÁ DE LO CONVENCIONAL</h2>
 <br>
-Los gestores de contraseñas comunes se limitan a cifrar y generar una contraseña maestra de sus cuentas, esto los vuelve caóticos y poco intuitivos, en Highbox esto no es necesario, sus contraseñas viven en su mente, ya que son palabras que solo usted conoce.
+<p>Los gestores de contraseñas comunes se limitan a cifrar y generar una contraseña maestra de sus cuentas, esto los vuelve caóticos y poco intuitivos, en Highbox esto no es necesario, sus contraseñas viven en su mente, ya que son palabras que solo usted conoce.
 
 <br />
 <br />
@@ -58,7 +56,7 @@ Los gestores de contraseñas comunes se limitan a cifrar y generar una contrase�
 <p>Análisis de seguridad arrojado por password.es al inspeccionar una contraseña genera con Highbox en el modo High.<br />
 <h2>FEATURES</h2>
 <br />
-&#8226;&nbsp;&nbsp;&nbsp;No tendrá que recordar contraseñas largas y complejas nunca más, ya que es más fácil recordar sus totems, estos son frases o cualquier texto o palabra que configure.
+<p>&#8226;&nbsp;&nbsp;&nbsp;No tendrá que recordar contraseñas largas y complejas nunca más, ya que es más fácil recordar sus totems, estos son frases o cualquier texto o palabra que configure.
 <br>
 &#8226;&nbsp;&nbsp;&nbsp;Es posible utilizar el mismo Tótem para todas las cuentas, y obtener contraseñas diferentes para cada una solo con variar el contenido de la hint.
 <br>
