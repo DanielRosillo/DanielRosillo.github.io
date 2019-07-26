@@ -9,7 +9,7 @@ categories: Software
 <div style="text-align: justify;">
 <div class='post-body entry-content'>
 <br>
-¿Le sería más fácil recordar palabras en lugar de contraseñas?, bajo esta premisa funciona Highbox, un sistema gestor de contraseñas que utiliza un cifrado asimétrico de palabras para generarlas. 
+<p>¿Le sería más fácil recordar palabras en lugar de contraseñas?, bajo esta premisa funciona Highbox, un sistema gestor de contraseñas que utiliza un cifrado asimétrico de palabras para generarlas. 
 <br>
 </div>
 
@@ -18,7 +18,7 @@ categories: Software
 </div>
 
 <br />
-Higbox es el único administrador de contraseñas para tus cuentas de internet en la PlayStore que jamás guardara sus preciadas contraseñas en bases de datos, en su lugar, estas serán generadas solo cuando se les necesite de manera dinámica.
+<p>Higbox es el único administrador de contraseñas para tus cuentas de internet en la PlayStore que jamás guardara sus preciadas contraseñas en bases de datos, en su lugar, estas serán generadas solo cuando se les necesite de manera dinámica.
 <br>
 <br>
 <h2>¿Cómo funciona?</h2>
@@ -37,7 +37,7 @@ Higbox es el único administrador de contraseñas para tus cuentas de internet e
 </div>
 <br/>
 <br>
-El objetivo es que, cada que desee consultar la contraseña, ingrese el totem de la primera vez, hecho esto, algoritmos matemáticos altamente especializados generaran siempre la misma contraseña, si responde como la primera vez, de lo contrario devolverá cualquier otra, para realizar este proceso solo necesita usar la opción Incantation dentro de la cuenta. 
+<p>El objetivo es que, cada que desee consultar la contraseña, ingrese el totem de la primera vez, hecho esto, algoritmos matemáticos altamente especializados generaran siempre la misma contraseña, si responde como la primera vez, de lo contrario devolverá cualquier otra, para realizar este proceso solo necesita usar la opción Incantation dentro de la cuenta. 
 <br>La “Hint” o pista, es utilizada como referencia para recordar su totem en futuras consultas. La hint le dice cuál podría ser el totem, pero claro esto no debe ser explícito.
 <br><br>
 <h2>MAS ALLÁ DE LO CONVENCIONAL</h2>
@@ -49,13 +49,13 @@ Los gestores de contraseñas comunes se limitan a cifrar y generar una contrase�
 <div class="separator" style="clear: both; text-align: center;">
 <a href="https://4.bp.blogspot.com/-oHeT1UoSHs0/XJvlMrlK_cI/AAAAAAAAArc/NCspJ7mtTjYIreFWVTRz8Xnw8ZevJVwBgCLcBGAs/s1600/highbox3.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="385" data-original-width="462" height="266" src="https://4.bp.blogspot.com/-oHeT1UoSHs0/XJvlMrlK_cI/AAAAAAAAArc/NCspJ7mtTjYIreFWVTRz8Xnw8ZevJVwBgCLcBGAs/s320/highbox3.png" width="320" /></a></div>
 <br />
-Estos arreglos de palabras (Totem y Hint) serán usados para construir una contraseña. Mientras se agrega una cuenta se puede observar la vista previa de la contraseña que se creará, esta cambia según los juegos de palabras ingresados e incluye el modo “High” y “Cloudy”, para construir contraseñas más complejas que el algoritmo por defecto, después de agregar la cuenta se copiará automáticamente la nueva contraseña al portapapeles por lo cual es necesario ir al sitio web en cuestión y cambiar nuestra contraseña actual por la nueva.
+<p>Estos arreglos de palabras (Totem y Hint) serán usados para construir una contraseña. Mientras se agrega una cuenta se puede observar la vista previa de la contraseña que se creará, esta cambia según los juegos de palabras ingresados e incluye el modo “High” y “Cloudy”, para construir contraseñas más complejas que el algoritmo por defecto, después de agregar la cuenta se copiará automáticamente la nueva contraseña al portapapeles por lo cual es necesario ir al sitio web en cuestión y cambiar nuestra contraseña actual por la nueva.
 <br />
 <br />
 <div class="separator" style="clear: both; text-align: center;">
 <a href="https://3.bp.blogspot.com/-Uyu4VRburlM/XJvlVkLUEPI/AAAAAAAAArk/IG_HfzPQqZAAgZF-tEyeSAKp9oOY1bbRACLcBGAs/s1600/highbox4.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="366" data-original-width="885" src="https://3.bp.blogspot.com/-Uyu4VRburlM/XJvlVkLUEPI/AAAAAAAAArk/IG_HfzPQqZAAgZF-tEyeSAKp9oOY1bbRACLcBGAs/s640/highbox4.png" width="530" /></a></div>
 <br />
-Análisis de seguridad arrojado por password.es al inspeccionar una contraseña genera con Highbox en el modo High.<br />
+<p>Análisis de seguridad arrojado por password.es al inspeccionar una contraseña genera con Highbox en el modo High.<br />
 <h2>FEATURES</h2>
 <br />
 &#8226;&nbsp;&nbsp;&nbsp;No tendrá que recordar contraseñas largas y complejas nunca más, ya que es más fácil recordar sus totems, estos son frases o cualquier texto o palabra que configure.
