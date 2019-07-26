@@ -11,17 +11,17 @@ categories: Software
 <br>
 ¿Le sería más fácil recordar palabras en lugar de contraseñas?, bajo esta premisa funciona Highbox, un sistema gestor de contraseñas que utiliza un cifrado asimétrico de palabras para generarlas. 
 <br>
-</div>
+
 
 <div class="separator" style="clear: both; text-align: center;">
 <a href="https://3.bp.blogspot.com/-ZC5GRVaf6_s/XJvko54kElI/AAAAAAAAArQ/y4YSTOHO-SwFmwBK2PMzxNzENOogbzlZQCLcBGAs/s640/highbox1.png" imageanchor="1"  style="text-align: center;"><img border="0" data-original-height="431" data-original-width="885" src="https://3.bp.blogspot.com/-ZC5GRVaf6_s/XJvko54kElI/AAAAAAAAArQ/y4YSTOHO-SwFmwBK2PMzxNzENOogbzlZQCLcBGAs/s640/highbox1.png" width="530" /></a>
-</div>
+
 <br />
 Higbox es el único administrador de contraseñas para tus cuentas de internet en la PlayStore que jamás guardara sus preciadas contraseñas en bases de datos, en su lugar, estas serán generadas solo cuando se les necesite de manera dinámica.
 <br>
 <br>
-<b>&#191;Cómo funciona?<br />
-<br />
+<h2>&#191;¿Cómo funciona?<h2>
+<br>
 1.- Para registrar una nueva cuenta, navegue hasta la sección “Push”, ahí se le pedirá que asocie una pista (Hint), a su cuenta que puede ser una palabra u oración del largo y contenido que se desee, esta se guardara junto a los demás datos de la cuenta. (Email, nombre de usuario, etc.)
 <br><br>
 2.- Dentro del mismo formulario asociara un Totem, un totem es una palabra o frase cuyo objetivo es representar una contraseña, esta frase o palabra no se guardará en memoria y es del tamaño y contenido que desee, esta será la llave principal que le permitirá obtener la contraseña en futuras consultas. 
