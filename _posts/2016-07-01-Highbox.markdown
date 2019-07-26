@@ -29,7 +29,7 @@ Higbox es el único administrador de contraseñas para tus cuentas de internet e
 <br>
 <a name='more'></a><br />
 <div class="separator" style="clear: both; text-align: center;">
-<img src="https://pbs.twimg.com/media/D8l5cIMXoAArMCk?format=jpg&name=medium">
+<a href="https://pbs.twimg.com/media/D8l5cIMXoAArMCk?format=jpg&name=medium" imageanchor="1"  style="text-align: center;"><img border="0" data-original-height="431" data-original-width="885" src="https://pbs.twimg.com/media/D8l5cIMXoAArMCk?format=jpg&name=medium" width="530" /></a>
 </div>
 <br/>
 <br>
