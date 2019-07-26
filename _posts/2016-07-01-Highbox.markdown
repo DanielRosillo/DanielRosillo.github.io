@@ -23,7 +23,7 @@ Higbox es el único administrador de contraseñas para tus cuentas de internet e
 <br>
 <h2>¿Cómo funciona?</h2>
 <br>
-1.- Para registrar una nueva cuenta, navegue hasta la sección “Push”, ahí se le pedirá que asocie una pista (Hint), a su cuenta que puede ser una palabra u oración del largo y contenido que se desee, esta se guardara junto a los demás datos de la cuenta. (Email, nombre de usuario, etc.)
+<p>1.- Para registrar una nueva cuenta, navegue hasta la sección “Push”, ahí se le pedirá que asocie una pista (Hint), a su cuenta que puede ser una palabra u oración del largo y contenido que se desee, esta se guardara junto a los demás datos de la cuenta. (Email, nombre de usuario, etc.)
 <br><br>
 2.- Dentro del mismo formulario asociara un Totem, un totem es una palabra o frase cuyo objetivo es representar una contraseña, esta frase o palabra no se guardará en memoria y es del tamaño y contenido que desee, esta será la llave principal que le permitirá obtener la contraseña en futuras consultas. 
 <br><br>
