@@ -71,13 +71,14 @@ categories: Software
 &#8226;&nbsp;&nbsp;&nbsp;Exporte e importe sus cuentas en formato JSON.
 <br>
 <br><br>
- <p>Highbox is available for Android 8 or Higher Download now to get started!</p>
-                <div class="badges">
+Highbox está disponible de forma gratuita en la Playstore y solo requiere Android 8 o superior.<br />
+ <div class="badges">
                     <a class="badge-link" href="https://play.google.com/store/apps/details?id=com.bookmanager.danielrosillo.bookmanager&hl=es_419"><img src="/img/google-play-badge.svg" alt=""></a>
+                     </div>
+                 <br>
+                 
+                     <a class="badge-link" aling="center"><img src="/img/qr.png" alt=""></a>
                     
-                     <br>
-                     <a class="badge-link"><img src="/img/qr.png" alt=""></a>
-                    
-                </div>
+                    <br>
 <i>Fraternalmente Daniel Rosillo;</i>
 <div style='clear: both;'></div>
