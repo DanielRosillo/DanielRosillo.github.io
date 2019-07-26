@@ -16,7 +16,7 @@ categories: Software
 </div>
 
 <br />
-<p>Higbox es el único administrador de contraseñas para tus cuentas de internet en la PlayStore que jamás guardara sus preciadas contraseñas en bases de datos, en su lugar, estas serán generadas solo cuando se les necesite de manera dinámica.
+<p>Higbox es el único administrador de contraseñas para tus cuentas de internet en la PlayStore que, jamás guardara sus preciadas contraseñas en bases de datos, en su lugar, estas serán generadas solo cuando se les necesite de manera dinámica.
 <br>
 <br>
 <h2>¿Cómo funciona?</h2>
@@ -25,7 +25,7 @@ categories: Software
 <br><br>
 2.- Dentro del mismo formulario asociara un Totem, un totem es una palabra o frase cuyo objetivo es representar la contraseña de la cuenta, esta frase o palabra no se guardará en memoria y es del tamaño y contenido que desee, esta será la llave principal que le permitirá obtener la contraseña en futuras consultas, así que asegúrate que sea una palabra que solo tu conozcas. 
 <br><br>
-3.- Guarde la cuenta, y este par de palabras generara una contraseña altamente compleja, luego de esto, debe registrar esta como su nueva contraseña en el sitio web en cuestión. 
+3.- Guarde la cuenta, y este par de palabras generara una contraseña altamente compleja, luego de esto debe registrar esta como su nueva contraseña en el sitio web en cuestión. 
 <br>
 ¡Es todo!
 <br>
@@ -36,11 +36,11 @@ categories: Software
 </div>
 <br/>
 <br>
-<p>El objetivo es que, cada que desee consultar la contraseña, ingrese el totem de la primera vez, hecho esto, algoritmos matemáticos altamente especializados generaran siempre la misma contraseña, si responde como la primera vez, de lo contrario devolverá cualquier otra, para realizar este proceso solo necesita usar la opción Incantation dentro de la cuenta. 
+<p>El objetivo es que, cada que desee consultar la contraseña ingrese el totem de la primera vez, hecho esto algoritmos matemáticos altamente especializados generaran siempre la misma contraseña, si responde como la primera vez, de lo contrario devolverá cualquier otra, para realizar este proceso solo necesita usar la opción Incantation dentro de la cuenta. 
 <br>
 <br>
 Los arreglos de palabras (Totem y Hint) que asocia a cada cuenta son usados para construir la contraseña.
-<br><br>La “Hint” o pista, es utilizada como referencia para recordar su totem en futuras consultas. La hint le dice cuál podría ser el totem, pero claro esto no debe ser explícito.
+<br><br>La “Hint” o pista, es utilizada como referencia para recordar su totem en futuras consultas. 
 <br><br>
 <h2>MAS ALLÁ DE LO CONVENCIONAL</h2>
 <br>
@@ -51,7 +51,7 @@ Los arreglos de palabras (Totem y Hint) que asocia a cada cuenta son usados para
 <div class="separator" style="clear: both; text-align: center;">
 <a href="https://4.bp.blogspot.com/-oHeT1UoSHs0/XJvlMrlK_cI/AAAAAAAAArc/NCspJ7mtTjYIreFWVTRz8Xnw8ZevJVwBgCLcBGAs/s1600/highbox3.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="385" data-original-width="462" height="266" src="https://4.bp.blogspot.com/-oHeT1UoSHs0/XJvlMrlK_cI/AAAAAAAAArc/NCspJ7mtTjYIreFWVTRz8Xnw8ZevJVwBgCLcBGAs/s320/highbox3.png" width="320" /></a></div>
 <br />
-<p>Mientras se agrega una cuenta se puede observar la vista previa de la contraseña que se creará, esta cambia según los juegos de palabras ingresados e incluye el modo “High” y “Cloudy”, para construir contraseñas más complejas que el algoritmo por defecto, después de agregar la cuenta se copiará automáticamente la nueva contraseña al portapapeles por lo cual es necesario ir al sitio web en cuestión y cambiar nuestra contraseña actual por la nueva.
+<p>Mientras se agrega una cuenta se puede observar la vista previa de la contraseña que se creará, esta cambia según los juegos de palabras ingresados e incluye el modo “High” y “Cloudy”, para construir contraseñas más complejas que el algoritmo por defecto, después de agregar la cuenta. automáticamente se copiara la nueva contraseña al portapapeles, por lo cual es necesario ir al sitio web en cuestión y cambiar nuestra contraseña actual por la nueva.
 <br />
 <br />
 <div class="separator" style="clear: both; text-align: center;">
@@ -62,7 +62,7 @@ Los arreglos de palabras (Totem y Hint) que asocia a cada cuenta son usados para
 <br />
 <p>&#8226;&nbsp;&nbsp;&nbsp;No tendrá que recordar contraseñas largas y complejas nunca más, ya que es más fácil recordar sus totems, estos son frases o cualquier texto o palabra que configure.
 <br>
-&#8226;&nbsp;&nbsp;&nbsp;Es posible utilizar el mismo Tótem para todas las cuentas, y obtener contraseñas diferentes para cada una solo con variar el contenido de la hint.
+&#8226;&nbsp;&nbsp;&nbsp;Es posible utilizar el mismo Tótem para todas las cuentas y obtener contraseñas diferentes para cada una solo con variar el contenido de la hint.
 <br>
 &#8226;&nbsp;&nbsp;&nbsp;No utiliza una base de datos para las contraseñas, solo las genera cuando las necesita.
 <br>
