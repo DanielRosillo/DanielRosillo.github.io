@@ -36,7 +36,7 @@ categories: Software
 <br/>
 <br>
 <p>El objetivo es que, cada que desee consultar la contraseña, ingrese el totem de la primera vez, hecho esto, algoritmos matemáticos altamente especializados generaran siempre la misma contraseña, si responde como la primera vez, de lo contrario devolverá cualquier otra, para realizar este proceso solo necesita usar la opción Incantation dentro de la cuenta. 
-<br>La “Hint” o pista, es utilizada como referencia para recordar su totem en futuras consultas. La hint le dice cuál podría ser el totem, pero claro esto no debe ser explícito.
+<br><br>La “Hint” o pista, es utilizada como referencia para recordar su totem en futuras consultas. La hint le dice cuál podría ser el totem, pero claro esto no debe ser explícito.
 <br><br>
 <h2>MAS ALLÁ DE LO CONVENCIONAL</h2>
 <br>
