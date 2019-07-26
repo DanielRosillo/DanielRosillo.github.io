@@ -11,8 +11,8 @@ categories: Software
 <br>
 ¿Le sería más fácil recordar palabras en lugar de contraseñas?, bajo esta premisa funciona Highbox, un sistema gestor de contraseñas que utiliza un cifrado asimétrico de palabras para generarlas. 
 <br>
-
-<a href="https://3.bp.blogspot.com/-ZC5GRVaf6_s/XJvko54kElI/AAAAAAAAArQ/y4YSTOHO-SwFmwBK2PMzxNzENOogbzlZQCLcBGAs/s1600/highbox1.png" imageanchor="1"  style="text-align: center;"><img border="0" data-original-height="431" data-original-width="885" src="https://3.bp.blogspot.com/-ZC5GRVaf6_s/XJvko54kElI/AAAAAAAAArQ/y4YSTOHO-SwFmwBK2PMzxNzENOogbzlZQCLcBGAs/s640/highbox1.png" width="530" /></a></div>
+</div>
+<a href="https://3.bp.blogspot.com/-ZC5GRVaf6_s/XJvko54kElI/AAAAAAAAArQ/y4YSTOHO-SwFmwBK2PMzxNzENOogbzlZQCLcBGAs/s1600/highbox1.png" imageanchor="1"  style="text-align: center;"><img border="0" data-original-height="431" data-original-width="885" src="https://3.bp.blogspot.com/-ZC5GRVaf6_s/XJvko54kElI/AAAAAAAAArQ/y4YSTOHO-SwFmwBK2PMzxNzENOogbzlZQCLcBGAs/s640/highbox1.png" width="530" /></a>
 <br />
 Higbox es el único administrador de contraseñas para tus cuentas de internet en la PlayStore que jamás guardara sus preciadas contraseñas en bases de datos, en su lugar, estas serán generadas solo cuando se les necesite de manera dinámica.
 <br>
