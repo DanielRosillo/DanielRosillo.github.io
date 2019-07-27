@@ -60,10 +60,10 @@ Crear un estado<br>
 </blockquote>
 <p>Funciones Bioinspiradas<br />
 <ul>
-<p>li><span style="font-family: &quot;courier new&quot; , &quot;courier&quot; , monospace;">Flourish -&gt; Floresca un estado en otro.</span></li>
-<li><span style="font-family: &quot;courier new&quot; , &quot;courier&quot; , monospace;">Wither -&gt; <p>Elimine un estado.</span></li>
-<li><span style="font-family: &quot;courier new&quot; , &quot;courier&quot; , monospace;">Flush -&gt; <p>Limpie el espacio de estados.</span></li>
-<li><span style="font-family: &quot;courier new&quot; , &quot;courier&quot; , monospace;">Size -&gt; <p>Tamaño del espacio de estados.</span></li>
+li><span style="font-family: &quot;courier new&quot; , &quot;courier&quot; , monospace;">Flourish -&gt; Floresca un estado en otro.</span></li>
+<li><span style="font-family: &quot;courier new&quot; , &quot;courier&quot; , monospace;">Wither -&gt; Elimine un estado.</span></li>
+<li><span style="font-family: &quot;courier new&quot; , &quot;courier&quot; , monospace;">Flush -&gt; Limpie el espacio de estados.</span></li>
+<li><span style="font-family: &quot;courier new&quot; , &quot;courier&quot; , monospace;">Size -&gt; Tamaño del espacio de estados.</span></li>
 <li><span style="font-family: &quot;courier new&quot; , &quot;courier&quot; , monospace;">onList -&gt; <p>Representación matricial del árbol. </span></li>
 </ul>
 <p>Funciones de Contexto<br />
