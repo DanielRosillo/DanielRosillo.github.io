@@ -7,14 +7,14 @@ header-img: "img/Cherry.jpg"
 categories: Inteligencia Artificial 
 ---
 <div style="text-align: justify;">
-Implementaciones sobre búsqueda no informada en JAVA, usando un enfoque funcional<br />
+<p>Implementaciones sobre búsqueda no informada en JAVA, usando un enfoque funcional<br />
 <br />
 <div class="separator" style="clear: both; text-align: center;">
 <a href="https://4.bp.blogspot.com/-nPFEWcK61xE/W0IrLcbEO6I/AAAAAAAAAV4/66yxYk8Z_UsU9pCFGzQFX37xtgEy9vRUgCLcBGAs/s1600/cherry_vida.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1132" data-original-width="1600" src="https://4.bp.blogspot.com/-nPFEWcK61xE/W0IrLcbEO6I/AAAAAAAAAV4/66yxYk8Z_UsU9pCFGzQFX37xtgEy9vRUgCLcBGAs/s640/cherry_vida.jpg" width="530" /></a></div>
 <br />
 <span style="font-size: large;"><b>Terminología</b></span><br />
 <br />
-&nbsp;&nbsp;&nbsp; Node -&gt; Una estructura de datos que tiene lugar en el árbol;<br />
+&nbsp;&nbsp;&nbsp; Node -&gt;<p> Una estructura de datos que tiene lugar en el árbol;<br />
 &nbsp;&nbsp;&nbsp; Actions -&gt; Estados alcanzables desde algún estado cualquiera;<br />
 &nbsp;&nbsp;&nbsp; Root -&gt; Nodo top u origen del árbol;<br />
 &nbsp;&nbsp;&nbsp; Origin -&gt; Estado origen de algún estado cualquiera;<br />
@@ -27,7 +27,7 @@ Implementaciones sobre búsqueda no informada en JAVA, usando un enfoque funcion
 <br />
 <span style="font-size: large;"><b>Concepto</b></span><br />
 <br />
-Los arboles son estructuras de datos complejas que nos permiten modelar el mundo, siguiendo ciertas restricciones adaptadas de la propia naturaleza del problema.<br />
+Las estructuras lógicas de tipo "Árbol", nos permiten modelar soluciones a problemas, donde lo que se busca el la mejor solución de un conjunto de posibles estados.<br />
 <br />
 Una simple representación de un árbol puede ser la siguiente:<br />
 <br />
@@ -38,12 +38,14 @@ Los arboles con los que trabajaremos contienen una raíz destacada la cual es el
 <span style="font-size: large;"><b>Representación</b></span><br />
 <br />
 Crear un estado<br />
+<blockquote>
 <span style="font-family: &quot;courier new&quot; , &quot;courier&quot; , monospace;"><br /></span>
 <span style="font-family: &quot;courier new&quot; , &quot;courier&quot; , monospace;">Node state = new Node(&#8220;State&#8221;,1);</span><br />
 <span style="font-family: &quot;courier new&quot; , &quot;courier&quot; , monospace;">Crear un Árbol de soluciones</span><br />
 <span style="font-family: &quot;courier new&quot; , &quot;courier&quot; , monospace;">Node A = new Node(&#8220;A&#8221;,1);</span><br />
 <span style="font-family: &quot;courier new&quot; , &quot;courier&quot; , monospace;">Tree tree = new Tree(A,&#8221;goal&#8221;,&#8221;name&#8221;);</span><br />
 <br />
+</blockquote>
 Asignar estados&#8230;<br />
 <br />
 <span style="font-family: &quot;courier new&quot; , &quot;courier&quot; , monospace;">Node B = new Node(&#8220;B&#8221;,1);</span><br />
