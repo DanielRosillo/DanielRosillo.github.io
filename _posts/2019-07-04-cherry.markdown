@@ -12,7 +12,7 @@ categories: Inteligencia Artificial
 <div class="separator" style="clear: both; text-align: center;">
 <a href="https://4.bp.blogspot.com/-nPFEWcK61xE/W0IrLcbEO6I/AAAAAAAAAV4/66yxYk8Z_UsU9pCFGzQFX37xtgEy9vRUgCLcBGAs/s1600/cherry_vida.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1132" data-original-width="1600" src="https://4.bp.blogspot.com/-nPFEWcK61xE/W0IrLcbEO6I/AAAAAAAAAV4/66yxYk8Z_UsU9pCFGzQFX37xtgEy9vRUgCLcBGAs/s640/cherry_vida.jpg" width="530" /></a></div>
 <br />
-<span style="font-size: large;"><b>Terminología</b></span><br />
+<h2><span style="font-size: large;"><b>TERMINOLOGÍA</b></span><br /></h2>
 <br />
 <p>&nbsp;&nbsp;&nbsp; Node -&gt; Una estructura de datos que tiene lugar en el árbol;<br />
 &nbsp;&nbsp;&nbsp; Actions -&gt; Estados alcanzables desde algún estado cualquiera;<br />
@@ -25,7 +25,7 @@ categories: Inteligencia Artificial
 &nbsp;&nbsp;&nbsp; Source -&gt; Representación matricial de algún estado;<br />
 &nbsp;&nbsp;&nbsp; State -&gt; Estado a priori;<br />
 <br />
-<span style="font-size: large;"><b>Concepto</b></span><br />
+<h2><span style="font-size: large;"><b>CONTEXTO</b></span><br /></h2>
 <br />
 <p>Las estructuras lógicas de tipo "Árbol", nos permiten modelar soluciones a problemas, donde lo que se busca el la mejor solución de un conjunto de posibles estados.<br />
 <br />
@@ -35,7 +35,7 @@ Una simple representación de un árbol puede ser la siguiente:<br />
 <a href="https://2.bp.blogspot.com/-Ml89HAbkd7I/W0Iqx83FL5I/AAAAAAAAAVw/Sil4jumcpEglhmTu4Ckg9SNJGmZEZzojwCLcBGAs/s1600/Cherry-Star01.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="272" data-original-width="442" src="https://2.bp.blogspot.com/-Ml89HAbkd7I/W0Iqx83FL5I/AAAAAAAAAVw/Sil4jumcpEglhmTu4Ckg9SNJGmZEZzojwCLcBGAs/s1600/Cherry-Star01.png" /></a></div>
 <p>Los arboles con los que trabajaremos contienen una raíz destacada la cual es el origen del estado, por lo cual solo hay un camino origen asociado a un estado viniendo desde otro.<br />
 <a name='more'></a><br />
-<span style="font-size: large;"><b>Representación</b></span><br />
+<h2><span style="font-size: large;"><b>Representación</b></span><br /></h2>
 <br />
 Crear un estado<br>
 <blockquote>
@@ -46,7 +46,7 @@ Crear un estado<br>
 <span style="font-family: &quot;courier new&quot; , &quot;courier&quot; , monospace;">Tree tree = new Tree(A,&#8221;goal&#8221;,&#8221;name&#8221;);</span><br />
 <br />
 </blockquote>
-Asignar estados&#8230;<br />
+<p>Asignar estados&#8230;<br />
 <br />
 <blockquote>
 <span style="font-family: &quot;courier new&quot; , &quot;courier&quot; , monospace;">Node B = new Node(&#8220;B&#8221;,1);</span><br />
@@ -58,7 +58,7 @@ Asignar estados&#8230;<br />
 <span style="font-family: &quot;courier new&quot; , &quot;courier&quot; , monospace;">tree.flourish(A,D);</span><br />
 <br />
 </blockquote>
-Funciones Bioinspiradas<br />
+<p>Funciones Bioinspiradas<br />
 <ul>
 <li><span style="font-family: &quot;courier new&quot; , &quot;courier&quot; , monospace;">Flourish -&gt; Floresca un estado en otro.</span></li>
 <li><span style="font-family: &quot;courier new&quot; , &quot;courier&quot; , monospace;">Wither -&gt; Elimine un estado.</span></li>
@@ -83,13 +83,13 @@ Listas de Trabajo<br />
 <li>&nbsp;&nbsp;&nbsp; SORT</li>
 </ul>
 <br />
-<b>Ejemplo implementando A*</b><br />
+<h2><b>EJEMPLO IMPLEMENTANDO A*</b><br /></h2>
 <br />
-Es posible modelar el problema de juguete conocido del juego puzzle 8, en el cual se busca llegar de un estado inicial a otro, en el menor número de movimientos posibles.<br />
+<p>Es posible modelar el problema de juguete conocido del juego puzzle 8, en el cual se busca llegar de un estado inicial a otro, en el menor número de movimientos posibles.<br />
 <br />
-<span style="font-size: large;"><b>Análisis</b></span><br />
+<h2><span style="font-size: large;"><b>ANÁLISIS</b></span><br /><h2>
 <br />
-La representación a priori del problema es la posición de las fichas respecto al estado final, esta información por si misma nos permite alcanzar una solución puesto que, si el orden de las fichas es igual al del estado objetivo, hemos encontrado la solución, Solo basta con representar cada estado como una matriz y tomar el espacio vacío como valor &#8220;0&#8221;.<br />
+<p>La representación a priori del problema es la posición de las fichas respecto al estado final, esta información por si misma nos permite alcanzar una solución puesto que, si el orden de las fichas es igual al del estado objetivo, hemos encontrado la solución, Solo basta con representar cada estado como una matriz y tomar el espacio vacío como valor &#8220;0&#8221;.<br />
 <br />
 Es preciso notar la intima relación que existe, si obtuviéramos coordenadas arbitrarias respecto a un eje en cada posición y las comparáramos, esta relación nos permite aplicar una las heurísticas más famosas de este problema, la heurística de Manhattan.<br />
 <br />
