@@ -114,14 +114,13 @@ El estado final es M, representado por {1,2,3,8,0,4,7,6,5}<br />
 <br />
 La función de evaluación será el valor de la heurística + coste, que en este caso lo definiremos como el nivel del estado en el árbol.<br />
 <br />
-<span style="font-size: large;"><b>Test - Implementacion</b></span><br />
 <br />
 <b>Aplicando el algoritmo A*</b><br />
 <br />
 <div class="separator" style="clear: both; text-align: center;">
 <a href="https://3.bp.blogspot.com/-RINTEttJSwM/W0Is557WFgI/AAAAAAAAAWU/5Ex5ZasSUqMU2QnGq0Is_aDiWj7Hy0P2QCLcBGAs/s1600/Cherry-Star04.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="152" data-original-width="254" src="https://3.bp.blogspot.com/-RINTEttJSwM/W0Is557WFgI/AAAAAAAAAWU/5Ex5ZasSUqMU2QnGq0Is_aDiWj7Hy0P2QCLcBGAs/s1600/Cherry-Star04.png" /></a></div>
 <br />
-<p>&nbsp;&nbsp;&nbsp; A*, es óptimamente eficiente, esto significa que no existe otro algoritmo que expanda menos nodos antes de encontrar la solución, esta demás decir que es completo y óptimo.<br />
+<p>&nbsp;&nbsp;&nbsp;A*, es óptimamente eficiente, esto significa que no existe otro algoritmo que expanda menos nodos antes de encontrar la solución, esta demás decir que es completo y óptimo.<br />
 <br />
 Comparado con otros algoritmos de búsqueda no Informada..<br />
 <br />
@@ -135,11 +134,11 @@ Comparado con otros algoritmos de búsqueda no Informada..<br />
 <br />
 <span style="font-size: large;"><b>Conclusiones</b></span><br />
 <br />
-Las estructuras aquí mostradas son escalables a cualquier tipo de problema en la vida real y ofrecen una buena base para generar un modelo solución, los algoritmos con los que cuenta, son usados hoy en día para resolver muchas cosas dentro de la informática, en especial A*, desde juegos de rol, hasta predicciones financieras en wall-street.<br />
+<p>Las estructuras aquí mostradas son escalables a cualquier tipo de problema en la vida real y ofrecen una buena base para generar un modelo solución, los algoritmos con los que cuenta, son usados hoy en día para resolver muchas cosas dentro de la informática, en especial A*, desde juegos de rol, hasta predicciones financieras en wall-street.<br />
 <br />
 <span style="font-size: large;"><b>Mas allá de la IA&#8230;</b></span><br />
 <br />
-Es responsabilidad del analista la correcta abstracción del entorno para una óptima implementación. Tener la capacidad de imaginar el comportamiento de los agentes de acuerdo a sus propias percepciones y el problema en si mismo, permitirá modelar objetos, que en la realidad serán artilugios matemáticos de esa intima relacion del analista y el problema, estas heurísticas serán la esencia de la solución, al final una inteligencia optima no solo es fruto de un estupendo algoritmo de búsqueda, sino también de la imaginación del desarrollador.<br />
+<p>Es responsabilidad del analista la correcta abstracción del entorno para una óptima implementación. Tener la capacidad de imaginar el comportamiento de los agentes de acuerdo a sus propias percepciones y el problema en si mismo, permitirá modelar objetos, que en la realidad serán artilugios matemáticos de esa intima relacion del analista y el problema, estas heurísticas serán la esencia de la solución, al final una inteligencia optima no solo es fruto de un estupendo algoritmo de búsqueda, sino también de la imaginación del desarrollador.<br />
 <br />
 <b>REPOSITORIO GITHUB &amp;&amp; EJEMPLO</b><br />
 <br />
@@ -147,16 +146,16 @@ Es responsabilidad del analista la correcta abstracción del entorno para una ó
 <br />
 <b>REFERENCIAS</b><br />
 <br />
-Russell, S., Norving, P. 2010. Artificial Intelligence A modern Approach. Third Edition. Pearson Education.<br />
+<p>Russell, S., Norving, P. 2010. Artificial Intelligence A modern Approach. Third Edition. Pearson Education.<br />
 <br />
-Sara El-Sayed El-Metwally<br />
+<p>Sara El-Sayed El-Metwally<br />
 &nbsp;&nbsp;&nbsp; <a href="https://www.codeproject.com/articles/203828/ai-simple-implementation-of-uninformed-search-stra">https://www.codeproject.com/articles/203828/ai-simple-implementation-of-uninformed-search-stra</a><br />
 <br />
-Jose Luis Iglesias Feria<br />
+<p>Jose Luis Iglesias Feria<br />
 &nbsp;&nbsp;&nbsp; <a href="https://descubriendolaia.blogspot.com/">https://descubriendolaia.blogspot.com/</a><br />
 <br />
 <div style="text-align: right;">
-<i>FRATERNALMENTE :</i></div>
+FRATERNALMENTE :</div>
 <div>
-<i>&nbsp;&nbsp;&nbsp; DANIEL ROSILLO .'.</i><br />
+<i>&nbsp;&nbsp;&nbsp; DANIEL ROSILLO;</i><br />
 <br />
