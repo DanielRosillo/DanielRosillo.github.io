@@ -7,7 +7,7 @@ header-img: "img/Cherry.jpg"
 categories: Inteligencia Artificial 
 ---
 <div style="text-align: justify;">
-<p>Implementaciones sobre búsqueda no informada en JAVA, usando un enfoque funcional<br />
+<p>Implementaciones sobre búsqueda no informada en JAVA, usando un enfoque funcional.<br />
 <br />
 <div class="separator" style="clear: both; text-align: center;">
 <a href="https://4.bp.blogspot.com/-nPFEWcK61xE/W0IrLcbEO6I/AAAAAAAAAV4/66yxYk8Z_UsU9pCFGzQFX37xtgEy9vRUgCLcBGAs/s1600/cherry_vida.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1132" data-original-width="1600" src="https://4.bp.blogspot.com/-nPFEWcK61xE/W0IrLcbEO6I/AAAAAAAAAV4/66yxYk8Z_UsU9pCFGzQFX37xtgEy9vRUgCLcBGAs/s640/cherry_vida.jpg" width="530" /></a></div>
@@ -16,13 +16,13 @@ categories: Inteligencia Artificial
 <br />
 <p>&nbsp;&nbsp;&nbsp; Node -&gt; Una estructura de datos que tiene lugar en el árbol;<br />
 &nbsp;&nbsp;&nbsp; Actions -&gt; Estados alcanzables desde algún estado cualquiera;<br />
-&nbsp;&nbsp;&nbsp; Root -&gt; Nodo top u origen del árbol;<br />
-&nbsp;&nbsp;&nbsp; Origin -&gt; Estado origen de algún estado cualquiera;<br />
+&nbsp;&nbsp;&nbsp; Root -&gt; Nodo origen del árbol;<br />
+&nbsp;&nbsp;&nbsp; Origin -&gt; Estado origen, de algún estado cualquiera;<br />
 &nbsp;&nbsp;&nbsp; Final -&gt; Estado sin acciones posibles;<br />
-&nbsp;&nbsp;&nbsp; Level -&gt; Nivel del estado por defecto root = 0;<br />
+&nbsp;&nbsp;&nbsp; Level -&gt; Nivel del estado, por defecto root = 0;<br />
 &nbsp;&nbsp;&nbsp; Tree -&gt; Estructura que modela los estados del problema;<br />
-&nbsp;&nbsp;&nbsp; Cost -&gt; Costo para llegar a ese estado desde el inicio;<br />
-&nbsp;&nbsp;&nbsp; Source -&gt; Representación matricial de algún estado;<br />
+&nbsp;&nbsp;&nbsp; Cost -&gt; Costo para llegar a ese estado, desde el inicio;<br />
+&nbsp;&nbsp;&nbsp; Source -&gt; Representación matricial del estado;<br />
 &nbsp;&nbsp;&nbsp; State -&gt; Estado a priori;<br />
 <br />
 <h2>CONTEXTO</h2>
@@ -89,7 +89,7 @@ Una simple representación de un árbol puede ser la siguiente:<br />
 <br />
 <h2><span style="font-size: large;"><b>ANÁLISIS</b></span><br /></h2>
 <br />
-<p>La representación a priori del problema es la posición de las fichas respecto al estado final, esta información por si misma nos permite alcanzar una solución puesto que, si el orden de las fichas es igual al del estado objetivo, hemos encontrado la solución solo basta con representar cada estado como una matriz y tomar el espacio vacío como valor &#8220;0&#8221;.<br />
+<p>La representación a priori del problema es la posición de las fichas respecto al estado final, esta información por si misma nos permite alcanzar una solución, puesto que si el orden de las fichas es igual al del estado objetivo, hemos encontrado la solución solo basta con representar cada estado como una matriz y tomar el espacio vacío como valor &#8220;0&#8221;.<br />
 <br />
 Es preciso notar la intima relación que existe si, obtuviéramos las coordenadas arbitrarias respecto a un eje para cada posición y las comparáramos, esta relación nos permite aplicar una las heurísticas más famosas de este problema, la heurística de Manhattan.<br />
 <br />
@@ -138,7 +138,7 @@ Comparado con otros algoritmos de búsqueda no Informada..<br />
 <br />
 <span style="font-size: large;"><b>Mas allá de la IA&#8230;</b></span>
 <br />
-<p>Es responsabilidad del analista la correcta abstracción del entorno para una óptima implementación. Tener la capacidad de imaginar el comportamiento de los agentes de acuerdo a sus propias percepciones y el problema en si mismo, permitirá modelar objetos, que en la realidad serán artilugios matemáticos de esa intima relacion del analista y el problema, estas heurísticas serán la esencia de la solución, al final una inteligencia optima no solo es fruto de un estupendo algoritmo de búsqueda, sino también de la imaginación del desarrollador.<br />
+<p>Es responsabilidad del analista la correcta abstracción del entorno para una óptima implementación. Tener la capacidad de imaginar el comportamiento de los agentes de acuerdo a sus propias percepciones y el problema en si mismo, permitirá modelar objetos, que en la realidad serán artilugios matemáticos de esa intima relacion del analista y el problema, estas heurísticas serán la esencia de la solución, al final una inteligencia optima no solo es fruto de un estupendo algoritmo de búsqueda.<br />
 <br />
 <b>REPOSITORIO GITHUB &amp;&amp; EJEMPLO</b><br />
 <br />
