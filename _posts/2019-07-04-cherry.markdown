@@ -60,13 +60,13 @@ Crear un estado<br>
 </blockquote>
 <p>Funciones Bioinspiradas<br />
 <ul>
-<li><span style="font-family: &quot;courier new&quot; , &quot;courier&quot; , monospace;">Flourish -&gt; Floresca un estado en otro.</span></li>
-<li><span style="font-family: &quot;courier new&quot; , &quot;courier&quot; , monospace;">Wither -&gt; Elimine un estado.</span></li>
-<li><span style="font-family: &quot;courier new&quot; , &quot;courier&quot; , monospace;">Flush -&gt; Limpie el espacio de estados.</span></li>
-<li><span style="font-family: &quot;courier new&quot; , &quot;courier&quot; , monospace;">Size -&gt; Tamaño del espacio de estados.</span></li>
-<li><span style="font-family: &quot;courier new&quot; , &quot;courier&quot; , monospace;">onList -&gt; Representación matricial del árbol. </span></li>
+<p>li><span style="font-family: &quot;courier new&quot; , &quot;courier&quot; , monospace;">Flourish -&gt; Floresca un estado en otro.</span></li>
+<li><span style="font-family: &quot;courier new&quot; , &quot;courier&quot; , monospace;">Wither -&gt; <p>Elimine un estado.</span></li>
+<li><span style="font-family: &quot;courier new&quot; , &quot;courier&quot; , monospace;">Flush -&gt; <p>Limpie el espacio de estados.</span></li>
+<li><span style="font-family: &quot;courier new&quot; , &quot;courier&quot; , monospace;">Size -&gt; <p>Tamaño del espacio de estados.</span></li>
+<li><span style="font-family: &quot;courier new&quot; , &quot;courier&quot; , monospace;">onList -&gt; <p>Representación matricial del árbol. </span></li>
 </ul>
-Funciones de Contexto<br />
+<p>Funciones de Contexto<br />
 <ul>
 <li><span style="font-family: &quot;courier new&quot; , &quot;courier&quot; , monospace;">A*</span></li>
 <li><span style="font-family: &quot;courier new&quot; , &quot;courier&quot; , monospace;">BFS</span></li>
@@ -76,18 +76,18 @@ Funciones de Contexto<br />
 <li><span style="font-family: &quot;courier new&quot; , &quot;courier&quot; , monospace;">IDS</span></li>
 <li><span style="font-family: &quot;courier new&quot; , &quot;courier&quot; , monospace;">BS</span></li>
 </ul>
-Listas de Trabajo<br />
+<p>Listas de Trabajo<br />
 <ul>
 <li>&nbsp;&nbsp;&nbsp; FIFO</li>
 <li>&nbsp;&nbsp;&nbsp; LIFO</li>
 <li>&nbsp;&nbsp;&nbsp; SORT</li>
 </ul>
 <br />
-<h2><b>EJEMPLO IMPLEMENTANDO A*</b><br /></h2>
+<h2>EJEMPLO IMPLEMENTANDO A*<br /></h2>
 <br />
 <p>Es posible modelar el problema de juguete conocido del juego puzzle 8, en el cual se busca llegar de un estado inicial a otro, en el menor número de movimientos posibles.<br />
 <br />
-<h2><span style="font-size: large;"><b>ANÁLISIS</b></span><br /><h2>
+<h2><span style="font-size: large;"><b>ANÁLISIS</b></span><br /></h2>
 <br />
 <p>La representación a priori del problema es la posición de las fichas respecto al estado final, esta información por si misma nos permite alcanzar una solución puesto que, si el orden de las fichas es igual al del estado objetivo, hemos encontrado la solución, Solo basta con representar cada estado como una matriz y tomar el espacio vacío como valor &#8220;0&#8221;.<br />
 <br />
