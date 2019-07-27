@@ -12,7 +12,7 @@ categories: Inteligencia Artificial
 <div class="separator" style="clear: both; text-align: center;">
 <a href="https://4.bp.blogspot.com/-nPFEWcK61xE/W0IrLcbEO6I/AAAAAAAAAV4/66yxYk8Z_UsU9pCFGzQFX37xtgEy9vRUgCLcBGAs/s1600/cherry_vida.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1132" data-original-width="1600" src="https://4.bp.blogspot.com/-nPFEWcK61xE/W0IrLcbEO6I/AAAAAAAAAV4/66yxYk8Z_UsU9pCFGzQFX37xtgEy9vRUgCLcBGAs/s640/cherry_vida.jpg" width="530" /></a></div>
 <br />
-<h2><span style="font-size: large;"><b>TERMINOLOGÍA</b></span><br /></h2>
+<h2>TERMINOLOGÍA</h2>
 <br />
 <p>&nbsp;&nbsp;&nbsp; Node -&gt; Una estructura de datos que tiene lugar en el árbol;<br />
 &nbsp;&nbsp;&nbsp; Actions -&gt; Estados alcanzables desde algún estado cualquiera;<br />
@@ -25,7 +25,7 @@ categories: Inteligencia Artificial
 &nbsp;&nbsp;&nbsp; Source -&gt; Representación matricial de algún estado;<br />
 &nbsp;&nbsp;&nbsp; State -&gt; Estado a priori;<br />
 <br />
-<h2><span style="font-size: large;"><b>CONTEXTO</b></span><br /></h2>
+<h2>CONTEXTO</h2>
 <br />
 <p>Las estructuras lógicas de tipo "Árbol", nos permiten modelar soluciones a problemas, donde lo que se busca el la mejor solución de un conjunto de posibles estados.<br />
 <br />
@@ -35,7 +35,7 @@ Una simple representación de un árbol puede ser la siguiente:<br />
 <a href="https://2.bp.blogspot.com/-Ml89HAbkd7I/W0Iqx83FL5I/AAAAAAAAAVw/Sil4jumcpEglhmTu4Ckg9SNJGmZEZzojwCLcBGAs/s1600/Cherry-Star01.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="272" data-original-width="442" src="https://2.bp.blogspot.com/-Ml89HAbkd7I/W0Iqx83FL5I/AAAAAAAAAVw/Sil4jumcpEglhmTu4Ckg9SNJGmZEZzojwCLcBGAs/s1600/Cherry-Star01.png" /></a></div>
 <p>Los arboles con los que trabajaremos contienen una raíz destacada la cual es el origen del estado, por lo cual solo hay un camino origen asociado a un estado viniendo desde otro.<br />
 <a name='more'></a><br />
-<h2><span style="font-size: large;"><b>Representación</b></span><br /></h2>
+<h2>Representación</h2>
 <br />
 Crear un estado<br>
 <blockquote>
