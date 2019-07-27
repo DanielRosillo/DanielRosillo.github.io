@@ -1,7 +1,7 @@
 # Site settings
 title: Rosillo Labs
 email: DanielRosillo@protonmail.com
-description: Rosillo Labs is a development studio of software.
+description: Rosillo Labs is a software studio.
 
 baseurl: "" # the subpath of your site, e.g. /blog/ (If you use organization leave empty)
 url: "https://DanielRosillo.github.io" # the base hostname & protocol for your site
