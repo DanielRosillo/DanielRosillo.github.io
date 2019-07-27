@@ -136,7 +136,7 @@ Comparado con otros algoritmos de búsqueda no Informada..<br />
 <br />
 <p>Las estructuras aquí mostradas son escalables a cualquier tipo de problema en la vida real y ofrecen una buena base para generar un modelo solución, los algoritmos con los que cuenta, son usados hoy en día para resolver muchas cosas dentro de la informática, en especial A*, desde juegos de rol, hasta predicciones financieras en wall-street.<br />
 <br />
-<span style="font-size: large;"><b>Mas allá de la IA&#8230;</b></span><br />
+<span style="font-size: large;"><b>Mas allá de la IA&#8230;</b></span>
 <br />
 <p>Es responsabilidad del analista la correcta abstracción del entorno para una óptima implementación. Tener la capacidad de imaginar el comportamiento de los agentes de acuerdo a sus propias percepciones y el problema en si mismo, permitirá modelar objetos, que en la realidad serán artilugios matemáticos de esa intima relacion del analista y el problema, estas heurísticas serán la esencia de la solución, al final una inteligencia optima no solo es fruto de un estupendo algoritmo de búsqueda, sino también de la imaginación del desarrollador.<br />
 <br />
