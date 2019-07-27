@@ -105,7 +105,7 @@ Supongamos que modelamos el siguiente árbol&#8230;<br />
 <div class="separator" style="clear: both; text-align: center;">
 <a href="https://3.bp.blogspot.com/-sz-cGjhk6y8/W0IsqjfC7cI/AAAAAAAAAWM/nV3ksPebqs8-FcXDPq7tP27H-NJeA22JQCLcBGAs/s1600/Cherry-Star03.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="406" data-original-width="323" src="https://3.bp.blogspot.com/-sz-cGjhk6y8/W0IsqjfC7cI/AAAAAAAAAWM/nV3ksPebqs8-FcXDPq7tP27H-NJeA22JQCLcBGAs/s1600/Cherry-Star03.png" /></a></div>
 <br />
-El estado Inicial es A, representado por {2,8,3,1,6,4,7,0,5}<br />
+<p>El estado Inicial es A, representado por {2,8,3,1,6,4,7,0,5}<br />
 <br />
 El estado final es M, representado por {1,2,3,8,0,4,7,6,5}<br />
 <br />
@@ -121,7 +121,7 @@ La función de evaluación será el valor de la heurística + coste, que en este
 <div class="separator" style="clear: both; text-align: center;">
 <a href="https://3.bp.blogspot.com/-RINTEttJSwM/W0Is557WFgI/AAAAAAAAAWU/5Ex5ZasSUqMU2QnGq0Is_aDiWj7Hy0P2QCLcBGAs/s1600/Cherry-Star04.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="152" data-original-width="254" src="https://3.bp.blogspot.com/-RINTEttJSwM/W0Is557WFgI/AAAAAAAAAWU/5Ex5ZasSUqMU2QnGq0Is_aDiWj7Hy0P2QCLcBGAs/s1600/Cherry-Star04.png" /></a></div>
 <br />
-&nbsp;&nbsp;&nbsp; A* es óptimamente eficiente esto significa que no existe otro algoritmo que expanda menos nodos antes de encontrar la solución, esta demás decir que es completo y óptimo.<br />
+<p>&nbsp;&nbsp;&nbsp; A*, es óptimamente eficiente, esto significa que no existe otro algoritmo que expanda menos nodos antes de encontrar la solución, esta demás decir que es completo y óptimo.<br />
 <br />
 Comparado con otros algoritmos de búsqueda no Informada..<br />
 <br />
@@ -129,7 +129,7 @@ Comparado con otros algoritmos de búsqueda no Informada..<br />
 <div class="separator" style="clear: both; text-align: center;">
 <a href="https://3.bp.blogspot.com/-YHRUZRmiOLI/W0ItCZByJnI/AAAAAAAAAWY/F9acEvwtaewkjpFT-jeWgL2fuH_0XLZ4QCLcBGAs/s1600/Cherry-Star05.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="149" data-original-width="247" src="https://3.bp.blogspot.com/-YHRUZRmiOLI/W0ItCZByJnI/AAAAAAAAAWY/F9acEvwtaewkjpFT-jeWgL2fuH_0XLZ4QCLcBGAs/s1600/Cherry-Star05.png" /></a></div>
 <br />
-<b>UCS</b><br />
+<p><b>UCS</b><br />
 <div class="separator" style="clear: both; text-align: center;">
 <a href="https://2.bp.blogspot.com/-x10D3SEhX-k/W0ItJFZ9pYI/AAAAAAAAAWc/To5QACxh2CgHcb6lVGDxaWiJcvCx3mSVwCLcBGAs/s1600/Cherry-Star06.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="146" data-original-width="254" src="https://2.bp.blogspot.com/-x10D3SEhX-k/W0ItJFZ9pYI/AAAAAAAAAWc/To5QACxh2CgHcb6lVGDxaWiJcvCx3mSVwCLcBGAs/s1600/Cherry-Star06.png" /></a></div>
 <br />
