@@ -37,7 +37,7 @@ Una simple representación de un árbol puede ser la siguiente:<br />
 <a name='more'></a><br />
 <h2>Representación</h2>
 <br />
-Crear un estado<br>
+<p>Crear un estado<br>
 <blockquote>
 <span style="font-family: &quot;courier new&quot; , &quot;courier&quot; , monospace;"><br /></span>
 <span style="font-family: &quot;courier new&quot; , &quot;courier&quot; , monospace;">Node state = new Node(&#8220;State&#8221;,1);</span><br />
@@ -89,14 +89,14 @@ Crear un estado<br>
 <br />
 <h2><span style="font-size: large;"><b>ANÁLISIS</b></span><br /></h2>
 <br />
-<p>La representación a priori del problema es la posición de las fichas respecto al estado final, esta información por si misma nos permite alcanzar una solución puesto que, si el orden de las fichas es igual al del estado objetivo, hemos encontrado la solución, Solo basta con representar cada estado como una matriz y tomar el espacio vacío como valor &#8220;0&#8221;.<br />
+<p>La representación a priori del problema es la posición de las fichas respecto al estado final, esta información por si misma nos permite alcanzar una solución puesto que, si el orden de las fichas es igual al del estado objetivo, hemos encontrado la solución solo basta con representar cada estado como una matriz y tomar el espacio vacío como valor &#8220;0&#8221;.<br />
 <br />
-Es preciso notar la intima relación que existe, si obtuviéramos coordenadas arbitrarias respecto a un eje en cada posición y las comparáramos, esta relación nos permite aplicar una las heurísticas más famosas de este problema, la heurística de Manhattan.<br />
+Es preciso notar la intima relación que existe si, obtuviéramos las coordenadas arbitrarias respecto a un eje para cada posición y las comparáramos, esta relación nos permite aplicar una las heurísticas más famosas de este problema, la heurística de Manhattan.<br />
 <br />
 <div class="separator" style="clear: both; text-align: center;">
 <a href="https://3.bp.blogspot.com/-tHfsxWFx1zw/W0IsVAc13nI/AAAAAAAAAWE/TxosOtdV4XEnL-u2jlHuUrT3IQnt009igCLcBGAs/s1600/Cherry-Star02.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="200" data-original-width="200" src="https://3.bp.blogspot.com/-tHfsxWFx1zw/W0IsVAc13nI/AAAAAAAAAWE/TxosOtdV4XEnL-u2jlHuUrT3IQnt009igCLcBGAs/s1600/Cherry-Star02.png" /></a></div>
 <br />
-Nota: La función heurística nos permite obtener abstractamente información más consistente sobre el problema y su solución, es un tipo de regla de 3 para la estimación de un problema.<br />
+<p>Nota: La función heurística nos permite obtener abstractamente información más consistente sobre el problema y su solución, es un tipo de regla de 3 para la estimación de un problema.<br />
 <br />
 La heurística de manhattan nos da la distancia mínima entre dos coordenadas de una forma parecida a la utilizada en la distancia euclidiana, la naturaleza de obtención de esta nos permite encontrar una estimación a nuestro problema. En el juego solo es posible mover el espacio vacío &#8220;0&#8221;, en forma vertical o horizontal, la distancia de manhattan se basa precisamente en esta analogia.<br />
 <br />
@@ -105,9 +105,9 @@ Supongamos que modelamos el siguiente árbol&#8230;<br />
 <div class="separator" style="clear: both; text-align: center;">
 <a href="https://3.bp.blogspot.com/-sz-cGjhk6y8/W0IsqjfC7cI/AAAAAAAAAWM/nV3ksPebqs8-FcXDPq7tP27H-NJeA22JQCLcBGAs/s1600/Cherry-Star03.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="406" data-original-width="323" src="https://3.bp.blogspot.com/-sz-cGjhk6y8/W0IsqjfC7cI/AAAAAAAAAWM/nV3ksPebqs8-FcXDPq7tP27H-NJeA22JQCLcBGAs/s1600/Cherry-Star03.png" /></a></div>
 <br />
-El estado Inicial es A representado por {2,8,3,1,6,4,7,0,5}<br />
+El estado Inicial es A, representado por {2,8,3,1,6,4,7,0,5}<br />
 <br />
-El estado final es M representado por {1,2,3,8,0,4,7,6,5}<br />
+El estado final es M, representado por {1,2,3,8,0,4,7,6,5}<br />
 <br />
 &#183;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Numero de piezas en desorden respecto al estado M de A : 4 (2,8,1,6)<br />
 &#183;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Heurística de manhattan del estado inicial respecto a M : 5<br />
