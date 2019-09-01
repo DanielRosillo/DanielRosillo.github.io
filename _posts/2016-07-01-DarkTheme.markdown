@@ -34,11 +34,11 @@ Son muchas las formas de implementar el tema oscuro o de noche en una aplicació
 <br>
 
 <blockquote>
-<style name="AppTheme" parent="Theme.AppCompat.DayNight.DarkActionBar">
- <item name="colorAccent">@color/colorAccent</item>
-    <item name="android:windowTranslucentNavigation">true</item>
-    <item name="android:navigationBarColor">@android:color/transparent</item>
-</style>
+&#8226;&nbsp;&nbsp;&nbsp; <style name="AppTheme" parent="Theme.AppCompat.DayNight.DarkActionBar">
+&#8226;&nbsp;&nbsp;&nbsp;<item name="colorAccent">@color/colorAccent</item>
+&#8226;&nbsp;&nbsp;&nbsp; <item name="android:windowTranslucentNavigation">true</item>
+&#8226;&nbsp;&nbsp;&nbsp; <item name="android:navigationBarColor">@android:color/transparent</item>
+&#8226;&nbsp;&nbsp;&nbsp;</style>
 </blockquote>
 
 <br>
