@@ -71,6 +71,9 @@ mDefaultPreferences.edit ().putBoolean ("dark_mode", false).apply ();</span><br 
 <span style="font-family: &quot;courier new&quot; , &quot;courier&quot; , monospace;">}</span><br />
 </blockquote>
 
+<p>Ejemplo de implementacion en un NavigationDrawer<br>
+<a href="https://ibb.co/kS0HKSH"><img src="https://i.ibb.co/kS0HKSH/photo5141193604591626279.jpg" alt="photo5141193604591626279" border="0"></a>
+
 <br>
 <br>
 <i>Fraternalmente Daniel Rosillo;</i>
