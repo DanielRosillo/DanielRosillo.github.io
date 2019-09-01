@@ -16,6 +16,10 @@ Son muchas las formas de implementar el tema oscuro o de noche en una aplicació
 <p>NOTA<br>
 <p>Algunas funciones como la asignación de tema automático o según el consumo de batería están disponibles solo para la Api 28(Android 9).
 <br>
+
+<a href="https://2.bp.blogspot.com/-_cCRPk4QL1k/W8sCpKnairI/AAAAAAAAAkI/S1l_if5p4RACmKqfYi7xqevCeMhuHWV9QCLcBGAs/s1600/DELYSIDANN02.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="324" data-original-width="324" height="200" src="https://2.bp.blogspot.com/-_cCRPk4QL1k/W8sCpKnairI/AAAAAAAAAkI/S1l_if5p4RACmKqfYi7xqevCeMhuHWV9QCLcBGAs/s200/DELYSIDANN02.jpg" width="200" /></a></div>
+
+<br>
 <h1>Ingredientes</h1>
 <br>
 &#8226;&nbsp;&nbsp;&nbsp;	En el build.gradle de la aplicación, agregamos la dependencia o si la tenemos la actualizamos por:
