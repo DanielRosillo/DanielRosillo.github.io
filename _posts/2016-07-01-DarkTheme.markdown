@@ -18,17 +18,16 @@ Son muchas las formas de implementar el tema oscuro o de noche en una aplicació
 <br>
 <h1>Ingredientes</h1>
 <br>
-&#8226;&nbsp;&nbsp;&nbsp;	En el build.gradle de la aplicación, agregamos la dependencia a o si la tenemos la actualizamos por:
-<br>
-
+&#8226;&nbsp;&nbsp;&nbsp;	En el build.gradle de la aplicación, agregamos la dependencia o si la tenemos la actualizamos por:
+<br><br>
 <blockquote>
 <span style="font-family: &quot;courier new&quot; , &quot;courier&quot; , monospace;">implementation 'androidx.appcompat:appcompat:1.1.0-rc01'</span><br />
 </blockquote>
-
+<br>
 <h1>Preparación</h1>
 <p>Dentro de la carpeta values/styles/, encontramos los archivos de nuestro tema
 <br>
-&#8226;&nbsp;&nbsp;&nbsp;	Styles.xml 
+&#8226;&nbsp;&nbsp;&nbsp;	Styles.xml <br>
 &#8226;&nbsp;&nbsp;&nbsp;	Styles.xml (21)
 <br>
 <p>Editamos el primero, y cambiamos la herencia de nuestro tema por defecto, que es Theme.AppCompat.Light.DarkActionBar, debe quedar algo como lo siguiente:
