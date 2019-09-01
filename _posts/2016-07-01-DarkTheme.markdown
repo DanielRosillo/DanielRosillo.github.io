@@ -43,24 +43,24 @@ Son muchas las formas de implementar el tema oscuro o de noche en una aplicació
 <p>En caso de tener un NavigationDrawer editar herencia de este tema:
 <br>
 <blockquote>
-&#8226;&nbsp;&nbsp;&nbsp;name="AppTheme.PopupOverlay" parent="Theme.AppCompat.DayNight.DarkActionBar"
+&#8226;&nbsp;&nbsp;&nbsp;name="AppTheme.PopupOverlay" parent="Theme.AppCompat.DayNight.DarkActionBar"<br>
 </blockquote>
 <br>
 <p>Creamos las mecánicas del manejador apoyándonos del uso de una preferencia.
 <br>
 <blockquote>
-&#8226;&nbsp;&nbsp;&nbsp;SharedPreferences mDefaultPreferences = PreferenceManager.getDefaultSharedPreferences (this);
-&#8226;&nbsp;&nbsp;&nbsp;if (isChecked)
-&#8226;&nbsp;&nbsp;&nbsp;{
-&#8226;&nbsp;&nbsp;&nbsp;    mDefaultPreferences.edit ().putBoolean ("dark_mode", true).apply ();
-&#8226;&nbsp;&nbsp;&nbsp;    AppCompatDelegate.setDefaultNightMode (AppCompatDelegate.MODE_NIGHT_YES);
-&#8226;&nbsp;&nbsp;&nbsp;}
+&#8226;&nbsp;&nbsp;&nbsp;SharedPreferences mDefaultPreferences = PreferenceManager.getDefaultSharedPreferences (this);<br>
+&#8226;&nbsp;&nbsp;&nbsp;if (isChecked)<br>
+&#8226;&nbsp;&nbsp;&nbsp;{<br>
+&#8226;&nbsp;&nbsp;&nbsp;    mDefaultPreferences.edit ().putBoolean ("dark_mode", true).apply ();<br>
+&#8226;&nbsp;&nbsp;&nbsp;    AppCompatDelegate.setDefaultNightMode (AppCompatDelegate.MODE_NIGHT_YES);<br>
+&#8226;&nbsp;&nbsp;&nbsp;}<br>
 
-&#8226;&nbsp;&nbsp;&nbsp;else
-&#8226;&nbsp;&nbsp;&nbsp;{
-&#8226;&nbsp;&nbsp;&nbsp;    mDefaultPreferences.edit ().putBoolean ("dark_mode", false).apply ();
-&#8226;&nbsp;&nbsp;&nbsp;    AppCompatDelegate.setDefaultNightMode (AppCompatDelegate.MODE_NIGHT_NO);
-&#8226;&nbsp;&nbsp;&nbsp;}
+&#8226;&nbsp;&nbsp;&nbsp;else<br>
+&#8226;&nbsp;&nbsp;&nbsp;{<br>
+&#8226;&nbsp;&nbsp;&nbsp;    mDefaultPreferences.edit ().putBoolean ("dark_mode", false).apply ();<br>
+&#8226;&nbsp;&nbsp;&nbsp;    AppCompatDelegate.setDefaultNightMode (AppCompatDelegate.MODE_NIGHT_NO);<br>
+&#8226;&nbsp;&nbsp;&nbsp;}<br>
 </blockquote>
 <br>
 <br>
