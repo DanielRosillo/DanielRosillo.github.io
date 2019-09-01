@@ -31,7 +31,15 @@ Son muchas las formas de implementar el tema oscuro o de noche en una aplicació
 &#8226;&nbsp;&nbsp;&nbsp;	Styles.xml (21)
 <br>
 <p>Editamos el primero, y cambiamos la herencia de nuestro tema por defecto, que es Theme.AppCompat.Light.DarkActionBar, debe quedar algo como lo siguiente:
+<br>
 
+<blockquote>
+<style name="AppTheme" parent="Theme.AppCompat.DayNight.DarkActionBar">
+ <item name="colorAccent">@color/colorAccent</item>
+    <item name="android:windowTranslucentNavigation">true</item>
+    <item name="android:navigationBarColor">@android:color/transparent</item>
+</style>
+</blockquote>
 
 <br>
 <i>Fraternalmente Daniel Rosillo;</i>
