@@ -39,15 +39,20 @@ Son muchas las formas de implementar el tema oscuro o de noche en una aplicació
 <span style="font-family: &quot;courier new&quot; , &quot;courier&quot; , monospace;">name="android:windowTranslucentNavigation">true<br>
 <span style="font-family: &quot;courier new&quot; , &quot;courier&quot; , monospace;">name="android:navigationBarColor">@android:color/transparent<br>
 </blockquote>
+
+
 <br>
 <p>En caso de tener un NavigationDrawer editar herencia de este tema:
 <br>
+
 <blockquote>
 <span style="font-family: &quot;courier new&quot; , &quot;courier&quot; , monospace;">name="AppTheme.PopupOverlay" parent="Theme.AppCompat.DayNight.DarkActionBar"<br>
 </blockquote>
+
 <br>
 <p>Creamos las mecánicas del manejador apoyándonos del uso de una preferencia.
 <br>
+
 <blockquote>
 <span style="font-family: &quot;courier new&quot; , &quot;courier&quot; , monospace;">SharedPreferences mDefaultPreferences = PreferenceManager.getDefaultSharedPreferences (this);<br>
 <span style="font-family: &quot;courier new&quot; , &quot;courier&quot; , monospace;">if (isChecked)<br>
@@ -62,6 +67,7 @@ Son muchas las formas de implementar el tema oscuro o de noche en una aplicació
 <span style="font-family: &quot;courier new&quot; , &quot;courier&quot; , monospace;">    AppCompatDelegate.setDefaultNightMode (AppCompatDelegate.MODE_NIGHT_NO);<br>
 <span style="font-family: &quot;courier new&quot; , &quot;courier&quot; , monospace;">}<br>
 </blockquote>
+
 <br>
 <br>
 <i>Fraternalmente Daniel Rosillo;</i>
