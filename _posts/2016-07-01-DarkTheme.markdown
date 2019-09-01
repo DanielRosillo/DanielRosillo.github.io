@@ -34,13 +34,35 @@ Son muchas las formas de implementar el tema oscuro o de noche en una aplicació
 <br>
 
 <blockquote>
-&#8226;&nbsp;&nbsp;&nbsp;name="AppTheme" parent="Theme.AppCompat.DayNight.DarkActionBar"
-&#8226;&nbsp;&nbsp;&nbsp;name="colorAccent">@color/colorAccent
-&#8226;&nbsp;&nbsp;&nbsp; name="android:windowTranslucentNavigation">true
-&#8226;&nbsp;&nbsp;&nbsp; name="android:navigationBarColor">@android:color/transparent
-
+&#8226;&nbsp;&nbsp;&nbsp;name="AppTheme" parent="Theme.AppCompat.DayNight.DarkActionBar"<br>
+&#8226;&nbsp;&nbsp;&nbsp;name="colorAccent">@color/colorAccent<br>
+&#8226;&nbsp;&nbsp;&nbsp;name="android:windowTranslucentNavigation">true<br>
+&#8226;&nbsp;&nbsp;&nbsp;name="android:navigationBarColor">@android:color/transparent<br>
 </blockquote>
+<br>
+<p>En caso de tener un NavigationDrawer editar herencia de este tema:
+<br>
+<blockquote>
+&#8226;&nbsp;&nbsp;&nbsp;name="AppTheme.PopupOverlay" parent="Theme.AppCompat.DayNight.DarkActionBar"
+</blockquote>
+<br>
+<p>Creamos las mecánicas del manejador apoyándonos del uso de una preferencia.
+<br>
+<blockquote>
+&#8226;&nbsp;&nbsp;&nbsp;SharedPreferences mDefaultPreferences = PreferenceManager.getDefaultSharedPreferences (this);
+&#8226;&nbsp;&nbsp;&nbsp;if (isChecked)
+&#8226;&nbsp;&nbsp;&nbsp;{
+&#8226;&nbsp;&nbsp;&nbsp;    mDefaultPreferences.edit ().putBoolean ("dark_mode", true).apply ();
+&#8226;&nbsp;&nbsp;&nbsp;    AppCompatDelegate.setDefaultNightMode (AppCompatDelegate.MODE_NIGHT_YES);
+&#8226;&nbsp;&nbsp;&nbsp;}
 
+&#8226;&nbsp;&nbsp;&nbsp;else
+&#8226;&nbsp;&nbsp;&nbsp;{
+&#8226;&nbsp;&nbsp;&nbsp;    mDefaultPreferences.edit ().putBoolean ("dark_mode", false).apply ();
+&#8226;&nbsp;&nbsp;&nbsp;    AppCompatDelegate.setDefaultNightMode (AppCompatDelegate.MODE_NIGHT_NO);
+&#8226;&nbsp;&nbsp;&nbsp;}
+</blockquote>
+<br>
 <br>
 <i>Fraternalmente Daniel Rosillo;</i>
 <div style='clear: both;'></div>
