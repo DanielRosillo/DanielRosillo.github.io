@@ -80,6 +80,8 @@ mDefaultPreferences.edit ().putBoolean ("dark_mode", false).apply ();</span><br 
 
 <a href="https://ibb.co/ySYY45J"><img src="https://i.ibb.co/ySYY45J/photo5141193604591626278.jpg" alt="photo5141193604591626278" border="0"></a>
 
+<a href="https://ibb.co/sVg3QQR"><img src="https://i.ibb.co/sVg3QQR/photo5141193604591626280.jpg" alt="photo5141193604591626280" border="0"></a>
+
 <br>
 <br>
 <i>Fraternalmente Daniel Rosillo;</i>
