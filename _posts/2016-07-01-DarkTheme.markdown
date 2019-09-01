@@ -10,7 +10,7 @@ categories: Quick
 <div class='post-body entry-content'>
 <br>
 <p>Con este artículo se inaugura la zona Android, implementaciones rápidas, sin problemas y entendibles para nosotros los retrasados que no leemos la documentación.
-Son muchas las formas de implementar el tema oscuro o de noche en una aplicación, una de estas formas nos la brinda la librería Appcompat del paquete de librerías AndroidX, que a partir de la Api28 introduce una serie de mejoras enfocadas a estandarizar su uso y relacionarlo a los ámbitos diarios.
+Son muchas las formas de implementar el tema oscuro o de noche en una aplicación, una de estas formas nos la brinda la librería Appcompat del paquete de librerías AndroidX, que a partir de la Api 28 introduce una serie de mejoras enfocadas a estandarizar su uso y relacionarlo a los ámbitos diarios.
 <br>
 <br />
 <p>NOTA<br>
@@ -43,7 +43,7 @@ Son muchas las formas de implementar el tema oscuro o de noche en una aplicació
 
 
 <br>
-<p>En caso de tener un NavigationDrawer editar herencia de este tema:
+<p>En caso de tener un NavigationDrawer, editar herencia de este tema:
 <br>
 
 <blockquote>
@@ -55,16 +55,18 @@ Son muchas las formas de implementar el tema oscuro o de noche en una aplicació
 <br>
 
 <blockquote>
-<span style="font-family: &quot;courier new&quot; , &quot;courier&quot; , monospace;">SharedPreferences mDefaultPreferences = PreferenceManager.getDefaultSharedPreferences (this);</span><br />
+<span style="font-family: &quot;courier new&quot; , &quot;courier&quot; , monospace;">
+SharedPreferences mDefaultPreferences = PreferenceManager.getDefaultSharedPreferences (this);</span><br />
 <span style="font-family: &quot;courier new&quot; , &quot;courier&quot; , monospace;">if (isChecked)</span><br />
 <span style="font-family: &quot;courier new&quot; , &quot;courier&quot; , monospace;">{</span><br />
-<span style="font-family: &quot;courier new&quot; , &quot;courier&quot; , monospace;">    mDefaultPreferences.edit ().putBoolean ("dark_mode", true).apply ();</span><br />
+<span style="font-family: &quot;courier new&quot; , &quot;courier&quot; , monospace;">    
+mDefaultPreferences.edit ().putBoolean ("dark_mode", true).apply ();</span><br />
 <span style="font-family: &quot;courier new&quot; , &quot;courier&quot; , monospace;">    AppCompatDelegate.setDefaultNightMode (AppCompatDelegate.MODE_NIGHT_YES);</span><br />
 <span style="font-family: &quot;courier new&quot; , &quot;courier&quot; , monospace;">}</span><br />
-
 <span style="font-family: &quot;courier new&quot; , &quot;courier&quot; , monospace;">else</span><br />
 <span style="font-family: &quot;courier new&quot; , &quot;courier&quot; , monospace;">{</span><br />
-<span style="font-family: &quot;courier new&quot; , &quot;courier&quot; , monospace;">    mDefaultPreferences.edit ().putBoolean ("dark_mode", false).apply ();</span><br />
+<span style="font-family: &quot;courier new&quot; , &quot;courier&quot; , monospace;">    
+mDefaultPreferences.edit ().putBoolean ("dark_mode", false).apply ();</span><br />
 <span style="font-family: &quot;courier new&quot; , &quot;courier&quot; , monospace;">    AppCompatDelegate.setDefaultNightMode (AppCompatDelegate.MODE_NIGHT_NO);</span><br />
 <span style="font-family: &quot;courier new&quot; , &quot;courier&quot; , monospace;">}</span><br />
 </blockquote>
