@@ -89,6 +89,6 @@ Repositorio del Ejemplo<br />
  <div class="badges">
                     <a class="badge-link" href="https://github.com/DanielRosillo/NightDrawerMenu"><img src="/img/git.png" alt=""></a>
                      </div>
-            
+            <br>
 <i>Fraternalmente Daniel Rosillo;</i>
 <div style='clear: both;'></div>
