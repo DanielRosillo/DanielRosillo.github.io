@@ -3,7 +3,7 @@ layout:     post
 title:      "Android Studio para retrasados: Implementar tema oscuro en 2 pasos"
 date:       2019-09-01 00:17:40
 author:     "Daniel Rosillo"
-header-img: "img/high.jpg"
+header-img: "img/51.jpg"
 categories: Quick
 ---
 <div style="text-align: justify;">
