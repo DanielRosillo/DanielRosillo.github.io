@@ -86,7 +86,7 @@ mDefaultPreferences.edit ().putBoolean ("dark_mode", false).apply ();</span><br 
 <br>
 <br>
 
-<h1>Repositorio del Ejemplo<h2>
+<h1>Repositorio del Ejemplo<h1>
 <br>
  <div class="badges">
                     <a class="badge-link" href="https://github.com/DanielRosillo/NightDrawerMenu"><img src="/img/git.png" alt=""></a>
