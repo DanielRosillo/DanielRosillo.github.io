@@ -97,6 +97,7 @@ mDefaultPreferences.edit ().putBoolean ("dark_mode", false).apply ();</span><br 
 <br>
 
 <p>Fuente del background
+<br>
 <a href=”https://www.freepik.com/free-vector/sunset-mountains-landscape-with-purple-gradient-colors_5315515.htm#page=1&query=mountains&position=8”>FreePik</a>
 
 
