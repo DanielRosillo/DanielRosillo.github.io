@@ -98,6 +98,6 @@ mDefaultPreferences.edit ().putBoolean ("dark_mode", false).apply ();</span><br 
 
 <p>Fuente del background
 <br>
-<a href=”https://www.freepik.com/”>FreePik</a>
+<a href=”https://www.freepik.com”>FreePik</a>
 <br>
 <p>Fraternalmente Daniel Rosillo;
