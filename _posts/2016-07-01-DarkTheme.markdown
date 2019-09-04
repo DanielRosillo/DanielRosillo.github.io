@@ -22,14 +22,15 @@ Son muchas las formas de implementar el tema oscuro o de noche en una aplicació
 <br>
 <h1>Ingredientes</h1>
 <br>
-&#8226;&nbsp;&nbsp;&nbsp;	En el build.gradle de la aplicación, agregamos la dependencia o si la tenemos la actualizamos por:
+<p>En el build.gradle de la aplicación, agregamos la dependencia o si la tenemos la actualizamos por:
 <br><br>
 <blockquote>
 <span style="font-family: &quot;courier new&quot; , &quot;courier&quot; , monospace;">implementation 'androidx.appcompat:appcompat:1.1.0-rc01'</span><br />
 </blockquote>
 <br>
 <h1>Preparación</h1>
-<p>Dentro de la carpeta values/styles/, encontramos los archivos de nuestro tema
+<p>Dentro de la carpeta values/styles/, encontramos los archivos de nuestro tema.
+<br>
 <br>
 &#8226;&nbsp;&nbsp;&nbsp;	Styles.xml <br>
 &#8226;&nbsp;&nbsp;&nbsp;	Styles.xml (21)
@@ -75,7 +76,7 @@ mDefaultPreferences.edit ().putBoolean ("dark_mode", false).apply ();</span><br 
 <span style="font-family: &quot;courier new&quot; , &quot;courier&quot; , monospace;">}</span><br />
 </blockquote>
 
-<p>Ejemplo de implementacion en un NavigationDrawer<br>
+<p>Ejemplo de implementacion en un NavigationDrawer:<br>
 <a href="https://ibb.co/kS0HKSH"><img src="https://i.ibb.co/kS0HKSH/photo5141193604591626279.jpg" alt="photo5141193604591626279" border="0"></a>
 
 <a href="https://ibb.co/ySYY45J"><img src="https://i.ibb.co/ySYY45J/photo5141193604591626278.jpg" alt="photo5141193604591626278" border="0"></a>
@@ -85,10 +86,12 @@ mDefaultPreferences.edit ().putBoolean ("dark_mode", false).apply ();</span><br 
 <br>
 <br>
 
-Repositorio del Ejemplo<br />
+<h1>Repositorio del Ejemplo<h2>
+<br>
  <div class="badges">
                     <a class="badge-link" href="https://github.com/DanielRosillo/NightDrawerMenu"><img src="/img/git.png" alt=""></a>
                      </div>
+            <br>
             <br>
 <i>Fraternalmente Daniel Rosillo;</i>
 <div style='clear: both;'></div>
