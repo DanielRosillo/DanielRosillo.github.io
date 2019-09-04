@@ -98,6 +98,10 @@ mDefaultPreferences.edit ().putBoolean ("dark_mode", false).apply ();</span><br 
 
 <p>Fuente del background
 <br>
-<a href=”https://www.freepik.com”>FreePik</a>
+<div class="badges">
+                    <a class="badge-link" href="https://www.freepik.com/free-vector/sunset-mountains-landscape-with-purple-gradient-colors_5315515.htm#page=1&query=mountains&position=8"><img src="/img/images.jpg" alt=""></a>
+                     </div>
+            
+<div style='clear: both;'></div>
 <br>
 <p>Fraternalmente Daniel Rosillo;
