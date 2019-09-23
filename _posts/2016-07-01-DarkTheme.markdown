@@ -6,6 +6,7 @@ author:     "Daniel Rosillo"
 header-img: "img/2752814.jpg"
 description: mamadasssssssss
 categories: Quick
+
 ---
 <div style="text-align: justify;">
 <div class='post-body entry-content'>
