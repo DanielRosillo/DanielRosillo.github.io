@@ -6,10 +6,6 @@ author:     "Daniel Rosillo"
 header-img: "img/high.jpg"
 categories: Software
 
-layout: default
-title: Highbox - Administra tus contraseñas sin guardarlas
-image: img/logo.png
-hide: true
 
 ---
 <div style="text-align: justify;">
