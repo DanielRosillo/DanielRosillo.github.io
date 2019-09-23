@@ -61,3 +61,9 @@ defaults:
       image: /img/logo.png
       author: Daniel Rosillo
 # /SEO
+webmaster_verifications:
+  google: 1234
+  bing: 1234
+  alexa: 1234
+  yandex: 1234
+  baidu: 1234
