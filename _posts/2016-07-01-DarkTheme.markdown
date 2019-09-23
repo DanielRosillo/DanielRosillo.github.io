@@ -6,6 +6,7 @@ author:     "Daniel Rosillo"
 header-img: "img/2752814.jpg"
 description: Son muchas las formas de implementar el tema oscuro o de noche en una aplicación, una de estas formas nos la brinda la librería Appcompat del paquete de librerías AndroidX.
 categories: Quick
+image: /img/2752814.jpg
 
 ---
 <div style="text-align: justify;">
