@@ -35,6 +35,29 @@ gems: [jekyll-paginate, jekyll-feed,jekyll-sitemap,jekyll-seo-tag]
 # Build settings
 
 plugins:
-
   - jekyll-sitemap
   - jekyll-seo-tag
+
+  # SEO/OpenGraph
+logo: /img/logo.png
+
+twitter:
+  username: danielrosillo22
+  card: summary
+
+social:
+  name: CloudSh
+  links:
+    - https://twitter.com/danielrosillo22
+    - https://github.com/danielrosillo
+
+author:
+  twitter: danielrosillo22
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /img/logo.png
+      author: Daniel Rosillo
+# /SEO
