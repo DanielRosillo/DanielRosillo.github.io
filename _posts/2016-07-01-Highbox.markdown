@@ -5,6 +5,12 @@ date:       2019-07-21 23:17:40
 author:     "Daniel Rosillo"
 header-img: "img/high.jpg"
 categories: Software
+
+layout: default
+title: Highbox - Administra tus contraseñas sin guardarlas
+image: img/logo.png
+hide: true
+
 ---
 <div style="text-align: justify;">
 <div class='post-body entry-content'>
