@@ -19,15 +19,16 @@ Son muchas las formas de implementar el tema oscuro o de noche en una aplicació
 <p>Algunas funciones como la asignación de tema automático o según el consumo de batería están disponibles solo para la Api 28(Android 9).
 <br>
 
-<a href="https://2.bp.blogspot.com/-_cCRPk4QL1k/W8sCpKnairI/AAAAAAAAAkI/S1l_if5p4RACmKqfYi7xqevCeMhuHWV9QCLcBGAs/s1600/DELYSIDANN02.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img src="https://2.bp.blogspot.com/-_cCRPk4QL1k/W8sCpKnairI/AAAAAAAAAkI/S1l_if5p4RACmKqfYi7xqevCeMhuHWV9QCLcBGAs/s200/DELYSIDANN02.jpg" class="img-responsive"  /></a>
+<a href="https://2.bp.blogspot.com/-_cCRPk4QL1k/W8sCpKnairI/AAAAAAAAAkI/S1l_if5p4RACmKqfYi7xqevCeMhuHWV9QCLcBGAs/s1600/DELYSIDANN02.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img src="https://2.bp.blogspot.com/-_cCRPk4QL1k/W8sCpKnairI/AAAAAAAAAkI/S1l_if5p4RACmKqfYi7xqevCeMhuHWV9QCLcBGAs/s200/DELYSIDANN02.jpg" class="img-responsive" /></a>
 
 <br>
 <h1>Ingredientes</h1>
 <br>
 <p>En el build.gradle de la aplicación, agregamos la dependencia o si la tenemos la actualizamos por:
 <br><br>
+
 <blockquote>
-<span style="font-family: &quot;courier new&quot; , &quot;courier&quot; , monospace;">implementation 'androidx.appcompat:appcompat:1.1.0-rc01'</span><br />
+implementation 'androidx.appcompat:appcompat:1.1.0-rc01'<br />
 </blockquote>
 <br>
 <h1>Preparación</h1>
@@ -42,10 +43,10 @@ Son muchas las formas de implementar el tema oscuro o de noche en una aplicació
 <br>
 
 <blockquote>
-<span style="font-family: &quot;courier new&quot; , &quot;courier&quot; , monospace;">name="AppTheme" parent="Theme.AppCompat.DayNight.DarkActionBar"</span><br />
-<span style="font-family: &quot;courier new&quot; , &quot;courier&quot; , monospace;">name="colorAccent">@color/colorAccent</span><br />
-<span style="font-family: &quot;courier new&quot; , &quot;courier&quot; , monospace;">name="android:windowTranslucentNavigation">true</span><br />
-<span style="font-family: &quot;courier new&quot; , &quot;courier&quot; , monospace;">name="android:navigationBarColor">@android:color/transparent</span><br />
+name="AppTheme" parent="Theme.AppCompat.DayNight.DarkActionBar"<br />
+name="colorAccent">@color/colorAccent<br />
+name="android:windowTranslucentNavigation">true<br />
+name="android:navigationBarColor">@android:color/transparent<br />
 </blockquote>
 
 
@@ -54,7 +55,7 @@ Son muchas las formas de implementar el tema oscuro o de noche en una aplicació
 <br>
 
 <blockquote>
-<span style="font-family: &quot;courier new&quot; , &quot;courier&quot; , monospace;">name="AppTheme.PopupOverlay" parent="Theme.AppCompat.DayNight.DarkActionBar"</span><br />
+name="AppTheme.PopupOverlay" parent="Theme.AppCompat.DayNight.DarkActionBar"<br />
 </blockquote>
 
 <br>
@@ -62,20 +63,20 @@ Son muchas las formas de implementar el tema oscuro o de noche en una aplicació
 <br>
 
 <blockquote>
-<span style="font-family: &quot;courier new&quot; , &quot;courier&quot; , monospace;">
-SharedPreferences mDefaultPreferences = PreferenceManager.getDefaultSharedPreferences (this);</span><br />
-<span style="font-family: &quot;courier new&quot; , &quot;courier&quot; , monospace;">if (isChecked)</span><br />
-<span style="font-family: &quot;courier new&quot; , &quot;courier&quot; , monospace;">{</span><br />
-<span style="font-family: &quot;courier new&quot; , &quot;courier&quot; , monospace;">    
-mDefaultPreferences.edit ().putBoolean ("dark_mode", true).apply ();</span><br />
-<span style="font-family: &quot;courier new&quot; , &quot;courier&quot; , monospace;">    AppCompatDelegate.setDefaultNightMode (AppCompatDelegate.MODE_NIGHT_YES);</span><br />
-<span style="font-family: &quot;courier new&quot; , &quot;courier&quot; , monospace;">}</span><br />
-<span style="font-family: &quot;courier new&quot; , &quot;courier&quot; , monospace;">else</span><br />
-<span style="font-family: &quot;courier new&quot; , &quot;courier&quot; , monospace;">{</span><br />
-<span style="font-family: &quot;courier new&quot; , &quot;courier&quot; , monospace;">    
-mDefaultPreferences.edit ().putBoolean ("dark_mode", false).apply ();</span><br />
-<span style="font-family: &quot;courier new&quot; , &quot;courier&quot; , monospace;">    AppCompatDelegate.setDefaultNightMode (AppCompatDelegate.MODE_NIGHT_NO);</span><br />
-<span style="font-family: &quot;courier new&quot; , &quot;courier&quot; , monospace;">}</span><br />
+
+SharedPreferences mDefaultPreferences = PreferenceManager.getDefaultSharedPreferences (this);<br />
+if (isChecked)<br />
+{<br />
+   
+mDefaultPreferences.edit ().putBoolean ("dark_mode", true).apply ();<br />
+   AppCompatDelegate.setDefaultNightMode (AppCompatDelegate.MODE_NIGHT_YES);<br />
+}<br />
+else<br />
+{<br />
+   
+mDefaultPreferences.edit ().putBoolean ("dark_mode", false).apply ();<br />
+   AppCompatDelegate.setDefaultNightMode (AppCompatDelegate.MODE_NIGHT_NO);<br />
+}<br />
 </blockquote>
 
 <p>Ejemplo de implementacion en un NavigationDrawer:<br>
