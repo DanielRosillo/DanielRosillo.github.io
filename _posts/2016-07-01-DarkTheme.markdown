@@ -19,7 +19,7 @@ Son muchas las formas de implementar el tema oscuro o de noche en una aplicació
 <p>Algunas funciones como la asignación de tema automático o según el consumo de batería están disponibles solo para la Api 28(Android 9).
 <br>
 
-<a href="https://2.bp.blogspot.com/-_cCRPk4QL1k/W8sCpKnairI/AAAAAAAAAkI/S1l_if5p4RACmKqfYi7xqevCeMhuHWV9QCLcBGAs/s1600/DELYSIDANN02.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="324" data-original-width="324" height="200" src="https://2.bp.blogspot.com/-_cCRPk4QL1k/W8sCpKnairI/AAAAAAAAAkI/S1l_if5p4RACmKqfYi7xqevCeMhuHWV9QCLcBGAs/s200/DELYSIDANN02.jpg" width="200" /></a>
+<a href="https://2.bp.blogspot.com/-_cCRPk4QL1k/W8sCpKnairI/AAAAAAAAAkI/S1l_if5p4RACmKqfYi7xqevCeMhuHWV9QCLcBGAs/s1600/DELYSIDANN02.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img src="https://2.bp.blogspot.com/-_cCRPk4QL1k/W8sCpKnairI/AAAAAAAAAkI/S1l_if5p4RACmKqfYi7xqevCeMhuHWV9QCLcBGAs/s200/DELYSIDANN02.jpg" class="img-responsive"  /></a>
 
 <br>
 <h1>Ingredientes</h1>
@@ -79,11 +79,11 @@ mDefaultPreferences.edit ().putBoolean ("dark_mode", false).apply ();</span><br 
 </blockquote>
 
 <p>Ejemplo de implementacion en un NavigationDrawer:<br>
-<a href="https://ibb.co/kS0HKSH"><img src="https://i.ibb.co/kS0HKSH/photo5141193604591626279.jpg" alt="photo5141193604591626279" border="0"></a>
+<a href="https://ibb.co/kS0HKSH"><img src="https://i.ibb.co/kS0HKSH/photo5141193604591626279.jpg" alt="photo5141193604591626279" ></a>
 
-<a href="https://ibb.co/ySYY45J"><img src="https://i.ibb.co/ySYY45J/photo5141193604591626278.jpg" alt="photo5141193604591626278" border="0"></a>
+<a href="https://ibb.co/ySYY45J"><img src="https://i.ibb.co/ySYY45J/photo5141193604591626278.jpg" alt="photo5141193604591626278" ></a>
 
-<a href="https://ibb.co/sVg3QQR"><img src="https://i.ibb.co/sVg3QQR/photo5141193604591626280.jpg" alt="photo5141193604591626280" border="0"></a>
+<a href="https://ibb.co/sVg3QQR"><img src="https://i.ibb.co/sVg3QQR/photo5141193604591626280.jpg" alt="photo5141193604591626280" ></a>
 
 <br>
 <br>
