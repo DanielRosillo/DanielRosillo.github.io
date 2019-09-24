@@ -43,11 +43,9 @@ implementation 'androidx.appcompat:appcompat:1.1.0-rc01'<br />
 <br>
 
 <blockquote>
-<style name="AppTheme" parent="Theme.AppCompat.DayNight.DarkActionBar"><br>
 <item name="colorAccent">@color/colorAccent</item><br>
 <item name="android:windowTranslucentNavigation">true</item><br>
 <item name="android:navigationBarColor">@android:color/transparent</item><br>
-</style>
 </blockquote>
 
 
