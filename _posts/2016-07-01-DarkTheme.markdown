@@ -82,9 +82,9 @@ mDefaultPreferences.edit ().putBoolean ("dark_mode", false).apply ();<br />
 <p>Ejemplo de implementacion en un NavigationDrawer:<br>
 <a href="https://ibb.co/kS0HKSH"><img src="https://i.ibb.co/kS0HKSH/photo5141193604591626279.jpg" alt="photo5141193604591626279" ></a>
 
-<a href="https://ibb.co/ySYY45J"><img src="https://i.ibb.co/ySYY45J/photo5141193604591626278.jpg" alt="photo5141193604591626278" ></a>
+<a href="https://ibb.co/ySYY45J"><img src="https://i.ibb.co/ySYY45J/photo5141193604591626278.jpg" alt="photo5141193604591626278" img class="img-responsive"></a>
 
-<a href="https://ibb.co/sVg3QQR"><img src="https://i.ibb.co/sVg3QQR/photo5141193604591626280.jpg" alt="photo5141193604591626280" ></a>
+<a href="https://ibb.co/sVg3QQR"><img src="https://i.ibb.co/sVg3QQR/photo5141193604591626280.jpg" alt="photo5141193604591626280" img class="img-responsive"></a>
 
 <br>
 <br>
@@ -92,7 +92,7 @@ mDefaultPreferences.edit ().putBoolean ("dark_mode", false).apply ();<br />
 <h1>Repositorio del Ejemplo<h1>
 <br>
  <div class="badges">
-                    <a class="badge-link" href="https://github.com/DanielRosillo/NightDrawerMenu"><img src="/img/git.png" alt=""></a>
+                    <a class="badge-link" href="https://github.com/DanielRosillo/NightDrawerMenu"><img src="/img/git.png" alt="" img class="img-responsive"></a>
                      </div>
             
 <div style='clear: both;'></div>
@@ -102,7 +102,7 @@ mDefaultPreferences.edit ().putBoolean ("dark_mode", false).apply ();<br />
 <p>Fuente del background
 <br>
 <div class="badges">
-                    <a class="badge-link" href="https://www.freepik.com/free-vector/sunset-mountains-landscape-with-purple-gradient-colors_5315515.htm#page=1&query=mountains&position=8"><img src="/img/images.jpeg" alt=""></a>
+                    <a class="badge-link" href="https://www.freepik.com/free-vector/sunset-mountains-landscape-with-purple-gradient-colors_5315515.htm#page=1&query=mountains&position=8" ><img src="/img/images.jpeg" alt=""></a>
                      </div>
 <br>
 <p>Fraternalmente Daniel Rosillo;
