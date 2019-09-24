@@ -10,7 +10,6 @@ image: /img/2752814.jpg
 
 ---
 <div style="text-align: justify;">
-<div class='post-body entry-content'>
 <br>
 <p>Con este artículo se inaugura la zona Android, implementaciones rápidas, sin problemas y entendibles para nosotros los retrasados que no leemos la documentación.
 Son muchas las formas de implementar el tema oscuro o de noche en una aplicación, una de estas formas nos la brinda la librería Appcompat del paquete de librerías AndroidX, que a partir de la Api 28 introduce una serie de mejoras enfocadas a estandarizar su uso y relacionarlo a los ámbitos diarios.
@@ -104,7 +103,5 @@ mDefaultPreferences.edit ().putBoolean ("dark_mode", false).apply ();</span><br 
 <div class="badges">
                     <a class="badge-link" href="https://www.freepik.com/free-vector/sunset-mountains-landscape-with-purple-gradient-colors_5315515.htm#page=1&query=mountains&position=8"><img src="/img/images.jpeg" alt=""></a>
                      </div>
-            
-<div style='clear: both;'></div>
 <br>
 <p>Fraternalmente Daniel Rosillo;
