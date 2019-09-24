@@ -62,9 +62,10 @@ name="AppTheme.PopupOverlay" parent="Theme.AppCompat.DayNight.DarkActionBar"<br 
 <p>Creamos las mecánicas del manejador apoyándonos del uso de una preferencia.
 <br>
 
-<blockquote>
+<blockquote class="img-responsive">
 
-SharedPreferences mDefaultPreferences = PreferenceManager.getDefaultSharedPreferences (this);<br />
+SharedPreferences mDefaultPreferences;
+mDefaultPreferences = PreferenceManager.getDefaultSharedPreferences (this);<br />
 if (isChecked)<br />
 {<br />
    
