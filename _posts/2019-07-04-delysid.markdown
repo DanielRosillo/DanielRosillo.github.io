@@ -3,11 +3,13 @@ layout:     post
 title:      "Delysid ANN - Perceptrón Multicapa en JAVA"
 date:       2019-07-03 07:00:00
 author:     "Daniel Rosillo"
-header-img: "img/delysid.jpg"
 categories: Inteligencia Artificial 
+header-img: "img/delysid.jpeg"
+description: Los procesos mentales permiten a los agentes responder a estímulos del mundo exterior, este mecanismo internamente representa el conocimiento a través de complejas estructuras que mapean la información, resultado de las percepciones del agente a lo largo del tiempo. El conexionismo aborda esta manera de representar la realidad, más en concreto en el ámbito de la inteligencia artificial se estudia la aplicación que tiene para resolver problemas.
+image: /img/delysid.jpeg
 ---
 <div style="text-align: justify;">
-<a href="https://4.bp.blogspot.com/-JzFvWQhtIMc/W8sA9LyPSZI/AAAAAAAAAj8/Lcf1Q6WG2bE0MDJ7MRiZ4dc0al19CZCnwCLcBGAs/s1600/DELYSIDANN01.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="919" data-original-width="1299" height="452" src="https://4.bp.blogspot.com/-JzFvWQhtIMc/W8sA9LyPSZI/AAAAAAAAAj8/Lcf1Q6WG2bE0MDJ7MRiZ4dc0al19CZCnwCLcBGAs/s640/DELYSIDANN01.jpg" width="640" /></a></div>
+<a href="https://4.bp.blogspot.com/-JzFvWQhtIMc/W8sA9LyPSZI/AAAAAAAAAj8/Lcf1Q6WG2bE0MDJ7MRiZ4dc0al19CZCnwCLcBGAs/s1600/DELYSIDANN01.jpg" ><img  src="https://4.bp.blogspot.com/-JzFvWQhtIMc/W8sA9LyPSZI/AAAAAAAAAj8/Lcf1Q6WG2bE0MDJ7MRiZ4dc0al19CZCnwCLcBGAs/s640/DELYSIDANN01.jpg" class="img-responsive" /></a></div>
 <a href="https://github.com/DanielRosillo/Delysid-ANN" target="_blank">https://github.com/DanielRosillo/Delysid-ANN</a><br />
 <br />
 En esta ocasión les comparto las estructuras para modelar una red neuronal y entrenarla mediante Machine Learning, cabe destacar que es completamente POO y incluye un Demo funcional. El código de la red es escalable y adaptable.<br />
@@ -24,7 +26,7 @@ En esta ocasión les comparto las estructuras para modelar una red neuronal y en
 &nbsp;&nbsp;&nbsp; &#8226; Java 10.<br />
 &nbsp;&nbsp;&nbsp; &#8226; Eclipse Photon.<br />
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://2.bp.blogspot.com/-_cCRPk4QL1k/W8sCpKnairI/AAAAAAAAAkI/S1l_if5p4RACmKqfYi7xqevCeMhuHWV9QCLcBGAs/s1600/DELYSIDANN02.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="324" data-original-width="324" height="200" src="https://2.bp.blogspot.com/-_cCRPk4QL1k/W8sCpKnairI/AAAAAAAAAkI/S1l_if5p4RACmKqfYi7xqevCeMhuHWV9QCLcBGAs/s200/DELYSIDANN02.jpg" width="200" /></a></div>
+<a href="https://2.bp.blogspot.com/-_cCRPk4QL1k/W8sCpKnairI/AAAAAAAAAkI/S1l_if5p4RACmKqfYi7xqevCeMhuHWV9QCLcBGAs/s1600/DELYSIDANN02.jpg" ><img  src="https://2.bp.blogspot.com/-_cCRPk4QL1k/W8sCpKnairI/AAAAAAAAAkI/S1l_if5p4RACmKqfYi7xqevCeMhuHWV9QCLcBGAs/s200/DELYSIDANN02.jpg" class="img-responsive"/></a></div>
 <b>CONTEXTO</b><br />
 <br />
 Los procesos mentales permiten a los agentes responder a estímulos del mundo exterior, este mecanismo internamente representa el conocimiento a través de complejas estructuras que mapean la información, resultado de las percepciones del agente a lo largo del tiempo. El conexionismo aborda esta manera de representar la realidad, más en concreto en el ámbito de la inteligencia artificial se estudia la aplicación que tiene para resolver problemas.<br />
@@ -40,19 +42,19 @@ Problema de Juguete: Aprender Tablas Lógicas.
 El perceptrón simple por sí mismo puede resolver problemas cuya separabilidad lineal sea única, esto funciona para algunas de las tablas de verdad, cuya característica intrínseca es esta, pero existen otras cuya complejidad aumenta y dejan de ser linealmente separables. La explicación es evidente si observamos sus puntos dentro de un plano cartesiano.<br />
 
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://3.bp.blogspot.com/-ydHs7bn4JCY/W8sC3kosl7I/AAAAAAAAAkM/72dlEyi4_0sWqlUK8ei42gOiAAxR4dkaQCLcBGAs/s1600/DELYSIDANN03.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="237" data-original-width="484" height="156" src="https://3.bp.blogspot.com/-ydHs7bn4JCY/W8sC3kosl7I/AAAAAAAAAkM/72dlEyi4_0sWqlUK8ei42gOiAAxR4dkaQCLcBGAs/s320/DELYSIDANN03.jpg" width="320" /></a></div>
+<a href="https://3.bp.blogspot.com/-ydHs7bn4JCY/W8sC3kosl7I/AAAAAAAAAkM/72dlEyi4_0sWqlUK8ei42gOiAAxR4dkaQCLcBGAs/s1600/DELYSIDANN03.jpg" ><img src="https://3.bp.blogspot.com/-ydHs7bn4JCY/W8sC3kosl7I/AAAAAAAAAkM/72dlEyi4_0sWqlUK8ei42gOiAAxR4dkaQCLcBGAs/s320/DELYSIDANN03.jpg" class="img-responsive" /></a></div>
 <br />
 Para resolver este problema es necesaria la implementación de un perceptrón multicapa, que es capaz de resolver problemas que no sean linealmente separables. <br />
 Se utilizará la siguiente topología para la red.<br />
 <br />
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://3.bp.blogspot.com/-uQzTeGe_ljs/W8sDU7NXA9I/AAAAAAAAAkY/lvL5YQ5C5ZckGDmDtBrUwynqKeUbuI4YQCLcBGAs/s1600/DELYSIDANN04.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="381" data-original-width="751" height="324" src="https://3.bp.blogspot.com/-uQzTeGe_ljs/W8sDU7NXA9I/AAAAAAAAAkY/lvL5YQ5C5ZckGDmDtBrUwynqKeUbuI4YQCLcBGAs/s640/DELYSIDANN04.jpg" width="640" /></a></div>
+<a href="https://3.bp.blogspot.com/-uQzTeGe_ljs/W8sDU7NXA9I/AAAAAAAAAkY/lvL5YQ5C5ZckGDmDtBrUwynqKeUbuI4YQCLcBGAs/s1600/DELYSIDANN04.jpg" ><img src="https://3.bp.blogspot.com/-uQzTeGe_ljs/W8sDU7NXA9I/AAAAAAAAAkY/lvL5YQ5C5ZckGDmDtBrUwynqKeUbuI4YQCLcBGAs/s640/DELYSIDANN04.jpg" class="img-responsive"/></a></div>
 <br />
 <br />
 Función de Activación: Sigmoidea.<br />
 <br />
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://1.bp.blogspot.com/-UxEF2rZNQvc/W8sDcFx_n5I/AAAAAAAAAkc/MR6sQlL86p0nu0ONWsRDov1MpeEeuNilwCLcBGAs/s1600/DELYSIDANN05.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="53" data-original-width="133" src="https://1.bp.blogspot.com/-UxEF2rZNQvc/W8sDcFx_n5I/AAAAAAAAAkc/MR6sQlL86p0nu0ONWsRDov1MpeEeuNilwCLcBGAs/s1600/DELYSIDANN05.jpg" /></a></div>
+<a href="https://1.bp.blogspot.com/-UxEF2rZNQvc/W8sDcFx_n5I/AAAAAAAAAkc/MR6sQlL86p0nu0ONWsRDov1MpeEeuNilwCLcBGAs/s1600/DELYSIDANN05.jpg" ><img src="https://1.bp.blogspot.com/-UxEF2rZNQvc/W8sDcFx_n5I/AAAAAAAAAkc/MR6sQlL86p0nu0ONWsRDov1MpeEeuNilwCLcBGAs/s1600/DELYSIDANN05.jpg" class="img-responsive" /></a></div>
 El resultado final de cada neurona será la ponderación de los pesos y entradas de los vecinos de la neurona más la aplicación de la función de activación.<br />
 <br />
 Para la interpretación del resultado bastara con evaluar alguna de las salidas, solo existen dos vertientes:<br />
@@ -63,7 +65,7 @@ Para la interpretación del resultado bastara con evaluar alguna de las salidas,
 Imagine cada nodo de la red como una pequeña factoría de números, una función; la salida final es dependiente de los pesos de sus neuronas vecinas(interconectadas) y el umbral de la neurona, por tanto, diremos que cada que una neurona converge: <br />procesa sus datos y aplica una función de activación que da como resultado una salida numérica que pasa a ser el valor entrada de sus neuronas vecinas, así hasta llegar a la última capa, en donde la salida se interpretara de forma binaria.<br /><br />Si la salida final de la red le permite al agente responder correctamente a los estímulos (que son las entradas de la tabla), diremos que esos números convergen y resuelven al problema.<br />Encontrar la combinación de números correcta &#8220;armónica&#8221; es complicado, una de las formas conocidas para ajustar estos números es mediante el algoritmo de backpropagation. Que básicamente hace, que cada que la red trate de converger (lo que se traduce como converger todas las neuronas de la red en base a las percepciones del agente), ajustara los pesos y los umbrales de acuerdo a varios criterios matemáticos.<br /><br /><b>EJEMPLO - REPRESENTACIÓN &amp;&amp; IMPLEMENTACIÓN</b><br /><br /><b>Representación</b><br /><br />Se puede instanciar a un agente de la siguiente forma:<br />
 <br />
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://2.bp.blogspot.com/-aqR0Qfh5vTQ/W8sEoSy49UI/AAAAAAAAAks/BtCm8rBiRT0z8InTshcvccJu-n9WL-15wCLcBGAs/s1600/DELYSIDANN06.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="50" data-original-width="526" src="https://2.bp.blogspot.com/-aqR0Qfh5vTQ/W8sEoSy49UI/AAAAAAAAAks/BtCm8rBiRT0z8InTshcvccJu-n9WL-15wCLcBGAs/s1600/DELYSIDANN06.jpg" /></a></div>
+<a href="https://2.bp.blogspot.com/-aqR0Qfh5vTQ/W8sEoSy49UI/AAAAAAAAAks/BtCm8rBiRT0z8InTshcvccJu-n9WL-15wCLcBGAs/s1600/DELYSIDANN06.jpg"><img  src="https://2.bp.blogspot.com/-aqR0Qfh5vTQ/W8sEoSy49UI/AAAAAAAAAks/BtCm8rBiRT0z8InTshcvccJu-n9WL-15wCLcBGAs/s1600/DELYSIDANN06.jpg" class="img-responsive" /></a></div>
 <br />
 La clase Demo implementa un agente que aprende las&nbsp; 6 tablas elementales (AND, OR, XOR, NAND, NOR, XNOR),&nbsp; utiliza el siguiente algoritmo de entrenamiento.<br />
 <br />
@@ -74,29 +76,29 @@ La clase Demo implementa un agente que aprende las&nbsp; 6 tablas elementales (A
 Se implementa de la siguiente forma:<br />
 <br />
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://4.bp.blogspot.com/-chX0Hbt1fSs/W8sE0aNduBI/AAAAAAAAAkw/KolPLwpfGJomcIYQjoowxUxGg4QuyRzEACLcBGAs/s1600/DELYSIDANN07.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="182" data-original-width="500" src="https://4.bp.blogspot.com/-chX0Hbt1fSs/W8sE0aNduBI/AAAAAAAAAkw/KolPLwpfGJomcIYQjoowxUxGg4QuyRzEACLcBGAs/s1600/DELYSIDANN07.jpg" /></a></div>
+<a href="https://4.bp.blogspot.com/-chX0Hbt1fSs/W8sE0aNduBI/AAAAAAAAAkw/KolPLwpfGJomcIYQjoowxUxGg4QuyRzEACLcBGAs/s1600/DELYSIDANN07.jpg"><img src="https://4.bp.blogspot.com/-chX0Hbt1fSs/W8sE0aNduBI/AAAAAAAAAkw/KolPLwpfGJomcIYQjoowxUxGg4QuyRzEACLcBGAs/s1600/DELYSIDANN07.jpg" class="img-responsive"/></a></div>
 <br />
 Los datos de entrenamiento serán arreglos bidimensionales donde está la salida esperada en las posiciones 0 respectivamente por cada tabla.<br />
 <br />
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://2.bp.blogspot.com/-8PcHmXkmXmI/W8sE82ZjdgI/AAAAAAAAAk4/H-iF1ozkjBApb9lxmyFg8b1cKSQoB9FNACLcBGAs/s1600/DELYSIDANN08.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="103" data-original-width="655" height="100" src="https://2.bp.blogspot.com/-8PcHmXkmXmI/W8sE82ZjdgI/AAAAAAAAAk4/H-iF1ozkjBApb9lxmyFg8b1cKSQoB9FNACLcBGAs/s640/DELYSIDANN08.jpg" width="640" /></a></div>
+<a href="https://2.bp.blogspot.com/-8PcHmXkmXmI/W8sE82ZjdgI/AAAAAAAAAk4/H-iF1ozkjBApb9lxmyFg8b1cKSQoB9FNACLcBGAs/s1600/DELYSIDANN08.jpg" ><img  src="https://2.bp.blogspot.com/-8PcHmXkmXmI/W8sE82ZjdgI/AAAAAAAAAk4/H-iF1ozkjBApb9lxmyFg8b1cKSQoB9FNACLcBGAs/s640/DELYSIDANN08.jpg" class="img-responsive" /></a></div>
 <br />
 Dentro de la clase Context encontramos la forma en que las neuronas procesan la información:<br />
 <br />
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://1.bp.blogspot.com/-8dEM5p4vsGo/W8sFp_RGmgI/AAAAAAAAAlE/z6HFjJSvaXgkzQtzTL6DSVhXFeMxWlAAQCLcBGAs/s1600/DELYSIDANN09.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="266" data-original-width="830" height="204" src="https://1.bp.blogspot.com/-8dEM5p4vsGo/W8sFp_RGmgI/AAAAAAAAAlE/z6HFjJSvaXgkzQtzTL6DSVhXFeMxWlAAQCLcBGAs/s640/DELYSIDANN09.jpg" width="640" /></a></div>
+<a href="https://1.bp.blogspot.com/-8dEM5p4vsGo/W8sFp_RGmgI/AAAAAAAAAlE/z6HFjJSvaXgkzQtzTL6DSVhXFeMxWlAAQCLcBGAs/s1600/DELYSIDANN09.jpg" ><img src="https://1.bp.blogspot.com/-8dEM5p4vsGo/W8sFp_RGmgI/AAAAAAAAAlE/z6HFjJSvaXgkzQtzTL6DSVhXFeMxWlAAQCLcBGAs/s640/DELYSIDANN09.jpg" class="img-responsive"/></a></div>
 <br />
 La demo contiene un menú interactivo por consola donde se puede interactuar con el agente, &#8220;Mode&#8221;, básicamente es la tabla en la queremos que trabaje, a su vez hay un chat donde podemos mandar en tiempo real las entradas y el agente responde según su configuración de modo y su entrenamiento.<br />
 <br />
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://4.bp.blogspot.com/-yme70amRKxQ/W8sNRTcnucI/AAAAAAAAAlQ/BD3r7-xFQnUSfknQXtFKq9qEdLHEpqr2gCLcBGAs/s1600/DELYSIDANN10.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="142" data-original-width="552" src="https://4.bp.blogspot.com/-yme70amRKxQ/W8sNRTcnucI/AAAAAAAAAlQ/BD3r7-xFQnUSfknQXtFKq9qEdLHEpqr2gCLcBGAs/s1600/DELYSIDANN10.jpg" /></a></div>
+<a href="https://4.bp.blogspot.com/-yme70amRKxQ/W8sNRTcnucI/AAAAAAAAAlQ/BD3r7-xFQnUSfknQXtFKq9qEdLHEpqr2gCLcBGAs/s1600/DELYSIDANN10.jpg" ><img src="https://4.bp.blogspot.com/-yme70amRKxQ/W8sNRTcnucI/AAAAAAAAAlQ/BD3r7-xFQnUSfknQXtFKq9qEdLHEpqr2gCLcBGAs/s1600/DELYSIDANN10.jpg" class="img-responsive"/></a></div>
 <br />
 <b>TEST</b><br />
 <br />
 Ejecutando en modo &#8220;Auto&#8221; y configurado en XOR se obtiene:<br />
 <br />
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://1.bp.blogspot.com/-HsZTwmShmO8/W8sNaQgJNDI/AAAAAAAAAlU/yFPgS4N3lScfcHoK87L78IF2JK0ggPEEQCLcBGAs/s1600/DELYSIDANN11.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="173" data-original-width="554" src="https://1.bp.blogspot.com/-HsZTwmShmO8/W8sNaQgJNDI/AAAAAAAAAlU/yFPgS4N3lScfcHoK87L78IF2JK0ggPEEQCLcBGAs/s1600/DELYSIDANN11.jpg" /></a></div>
+<a href="https://1.bp.blogspot.com/-HsZTwmShmO8/W8sNaQgJNDI/AAAAAAAAAlU/yFPgS4N3lScfcHoK87L78IF2JK0ggPEEQCLcBGAs/s1600/DELYSIDANN11.jpg" ><img  src="https://1.bp.blogspot.com/-HsZTwmShmO8/W8sNaQgJNDI/AAAAAAAAAlU/yFPgS4N3lScfcHoK87L78IF2JK0ggPEEQCLcBGAs/s1600/DELYSIDANN11.jpg" class="img-responsive"/></a></div>
 En azul la salida verdadera de la tabla y en rojo la respuesta del agente al estímulo, como se puede observar converge correctamente, en un lado se puede observar el valor real de la salida.<br />
 <br />
 <b>CONSIDERACIONES</b><br />
