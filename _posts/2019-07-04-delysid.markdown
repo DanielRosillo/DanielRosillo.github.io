@@ -4,7 +4,7 @@ title:      "Delysid ANN - Perceptrón Multicapa en JAVA"
 date:       2019-07-03 07:00:00
 author:     "Daniel Rosillo"
 categories: Inteligencia Artificial 
-header-img: "img/delysid.jpeg"
+header-img: "img/delysid.jpg"
 description: Los procesos mentales permiten a los agentes responder a estímulos del mundo exterior, este mecanismo internamente representa el conocimiento a través de complejas estructuras que mapean la información, resultado de las percepciones del agente a lo largo del tiempo. El conexionismo aborda esta manera de representar la realidad, más en concreto en el ámbito de la inteligencia artificial se estudia la aplicación que tiene para resolver problemas.
 image: /img/delysid.jpeg
 ---
