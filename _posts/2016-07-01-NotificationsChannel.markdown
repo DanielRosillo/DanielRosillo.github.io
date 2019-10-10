@@ -37,7 +37,9 @@ image: /img/8400.jpg
 &#8226;&nbsp;&nbsp;&nbsp; getManager -> Para retornar un manejador de notificaciones (Lo ofrece el sistema por defecto). <br>
 <p>De igual forma sobrescribimos el constructor ya que este requiere de un contexto que será dado por la actividad en cuestión y que recuperaremos en una variable local. 
 <br>
-<a href="https://ibb.co/7VdP4jZ"><img src="https://ibb.co/7VdP4jZ" class="img-responsive" /></a>
+
+<a href="https://ibb.co/7VdP4jZ"><img src="https://i.ibb.co/6b7zBrT/j.png" img class="img-responsive"></a>
+
 <br>
 
 
