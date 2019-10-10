@@ -31,7 +31,9 @@ image: /img/8400.jpg
 <br>
 <h1>PREPARACIÓN</h1>
 <br>
-<p>Creamos un objeto de nombre cualquiera el cual debe heredar de ContextWrapper y definimos 3 métodos de acción: <br>
+<p>Creamos un objeto de nombre cualquiera el cual debe heredar de ContextWrapper y definimos 3 métodos de acción: 
+<br>
+<br>
 &#8226;&nbsp;&nbsp;&nbsp; createChannels -> Crea todos los canales que asociemos a la aplicación, así como sus ajustes por defecto (vibración, sonido...)<br>
 &#8226;&nbsp;&nbsp;&nbsp; push -> Para enviar las notificaciones.<br> 
 &#8226;&nbsp;&nbsp;&nbsp; getManager -> Para retornar un manejador de notificaciones (Lo ofrece el sistema por defecto). <br>
