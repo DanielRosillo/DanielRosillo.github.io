@@ -80,7 +80,7 @@ mDefaultPreferences.edit ().putBoolean ("dark_mode", false).apply ();<br />
 }<br />
 </blockquote>
 
-<p>Ejemplo de implementacion en un NavigationDrawer:<br>
+<p>Ejemplo de implementación en un NavigationDrawer:<br>
 <a href="https://ibb.co/kS0HKSH"><img src="https://i.ibb.co/kS0HKSH/photo5141193604591626279.jpg" alt="photo5141193604591626279" img class="img-responsive" ></a>
 
 <a href="https://ibb.co/ySYY45J"><img src="https://i.ibb.co/ySYY45J/photo5141193604591626278.jpg" alt="photo5141193604591626278" img class="img-responsive"></a>
