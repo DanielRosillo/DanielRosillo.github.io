@@ -32,9 +32,9 @@ image: /img/8400.jpg
 <h1>PREPARACIÓN</h1>
 <br>
 <p>Creamos un objeto de nombre cualquiera el cual debe heredar de ContextWrapper y definimos 3 métodos de acción: 
-&#8226;&nbsp;&nbsp;&nbsp; createChannels -> Crea todos los canales que asociemos a la aplicación, así como sus ajustes por defecto (vibración, sonido...) 
-&#8226;&nbsp;&nbsp;&nbsp; push -> Para enviar las notificaciones. 
-&#8226;&nbsp;&nbsp;&nbsp; getManager -> Para retornar un manejador de notificaciones (Lo ofrece el sistema por defecto). 
+&#8226;&nbsp;&nbsp;&nbsp; createChannels -> Crea todos los canales que asociemos a la aplicación, así como sus ajustes por defecto (vibración, sonido...)<br>
+&#8226;&nbsp;&nbsp;&nbsp; push -> Para enviar las notificaciones.<br> 
+&#8226;&nbsp;&nbsp;&nbsp; getManager -> Para retornar un manejador de notificaciones (Lo ofrece el sistema por defecto). <br>
 <p>De igual forma sobrescribimos el constructor ya que este requiere de un contexto que será dado por la actividad en cuestión y que recuperaremos en una variable local. 
 <br>
 <a href="https://ibb.co/7VdP4jZ"><img src="https://i.ibb.co/7VdP4jZ/j.png" alt="j" border="0"></a>
