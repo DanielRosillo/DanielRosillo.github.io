@@ -42,12 +42,15 @@ image: /img/8400.jpg
 <br>
 <p>Escribimos la lógica para las notificaciones en cada método (Leer comentarios). 
 <br>
+<br>
 <a href="https://ibb.co/8dMh9jF"><img src="https://i.ibb.co/61YdF46/kk.png" img class="img-responsive"></a>
 <br>
 <p>Hecho esto solo queda invocar el método push según nos convenga para desencadenar la notificación, en este caso le asociaremos una acción (Intent) a la notificación, pero en general puede adaptarse como se desee.
 <br>
-
-
+<br>
+<a href="https://ibb.co/0KvpQhH"><img src="https://i.ibb.co/KDScmFT/Screenshot-from-2019-10-10-09-45-51.png" img class="img-responsive"></a>
+<br>
+<br>
 <p>Ejemplo de implementación:<br>
 <a href="https://ibb.co/kSMGzzf"><img src="https://i.ibb.co/6WNyGGx/photo4972518427717642254.jpg" alt="photo4972518427717642254" img class="img-responsive"></a>
 <a href="https://ibb.co/F6hS3gH"><img src="https://i.ibb.co/fMXhF4D/photo4972518427717642253.jpg" alt="photo4972518427717642253" img class="img-responsive"></a>
