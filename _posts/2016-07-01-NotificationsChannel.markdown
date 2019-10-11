@@ -11,7 +11,7 @@ image: /img/8400.jpg
 ---
 <div style="text-align: justify;">
 <br>
-<p>Es muy común tratar de implementar esta funcionalidad y tener diferente tipo de errores, a partir de Android 8 esto ha cambiado, desde ahora todas las notificaciones usan canales y configuraciones bien definidas.
+<p>Notificaciones, es muy común tratar de implementar esta funcionalidad y tener diferente tipo de errores, a partir de Android 8 esto ha cambiado, desde ahora todas las notificaciones usan canales y configuraciones bien definidas.
 <br>
 <br>
 <h1>ENTORNO</h1>
