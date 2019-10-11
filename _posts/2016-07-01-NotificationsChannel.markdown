@@ -62,7 +62,7 @@ image: /img/8400.jpg
 <h1>Repositorio del Ejemplo<h1>
 <br>
  <div class="badges">
-                    <a class="badge-link" href="https://github.com/DanielRosillo/NightDrawerMenu"><img src="/img/git.png" alt="" img class="img-responsive"></a>
+                    <a class="badge-link" href="https://github.com/DanielRosillo/MyNotifications"><img src="/img/git.png" alt="" img class="img-responsive"></a>
                      </div>
             
 <div style='clear: both;'></div>
