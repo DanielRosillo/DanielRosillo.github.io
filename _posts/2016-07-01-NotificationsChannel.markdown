@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Android Studio para retrasados: Implementar canales de notificación + Ejemplo"
+title:      "Implementar canales de notificación en Android + Ejemplo"
 date:       2019-10-09 00:17:40
 author:     "Daniel Rosillo"
 header-img: "img/8400.jpg"
