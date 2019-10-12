@@ -80,7 +80,5 @@ image: /img/8400.jpg
                     <a class="badge-link" href="https://play.google.com/store/apps/details?id=com.bookmanager.danielrosillo.bookmanager&hl=es_419"><img src="/img/google-play-badge.svg" alt=""></a>
                      </div>
                      <br>
-                     <a class="badge-link"><img src="/img/qr.png" alt=""></a>
-                    
-                    </div>
+                   
 <p>Fraternalmente Daniel Rosillo;
