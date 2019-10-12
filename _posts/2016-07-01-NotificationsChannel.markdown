@@ -75,4 +75,12 @@ image: /img/8400.jpg
                     <a class="badge-link" href="https://www.freepik.com/free-vector/illustration-notification-icon-blue-background_2632303.htm#page=1&query=notification&position=16" ><img src="/img/images.jpeg" alt="" img class="img-responsive"></a>
                      </div>
 <br>
+<h1>CONOCE NUESTRO TRABAJO</h1>
+ <div class="badges">
+                    <a class="badge-link" href="https://play.google.com/store/apps/details?id=com.bookmanager.danielrosillo.bookmanager&hl=es_419"><img src="/img/google-play-badge.svg" alt=""></a>
+                     </div>
+                     <br>
+                     <a class="badge-link"><img src="/img/qr.png" alt=""></a>
+                    
+                    </div>
 <p>Fraternalmente Daniel Rosillo;
