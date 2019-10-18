@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Highbox - Administra tus contraseñas sin guardarlas "
+title:      "Highbox - Administra tus contraseñas sin guardarlas en Android "
 date:       2019-07-21 23:17:40
 author:     "Daniel Rosillo"
 header-img: "img/high.jpg"
