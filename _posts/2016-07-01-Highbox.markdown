@@ -6,7 +6,7 @@ author:     "Daniel Rosillo"
 header-img: "img/high.jpg"
 categories: Software
 description: Higbox es el único administrador de contraseñas para tus cuentas de internet en la PlayStore, que jamás guardara sus preciadas contraseñas en bases de datos, en su lugar estas serán generadas solo cuando se les necesite de manera dinámica.
-image: /img/banner.jpg
+image: /img/high.jpg
 
 ---
 <div style="text-align: justify;">
