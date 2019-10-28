@@ -1,12 +1,13 @@
 ---
 layout:     post
-title:      "Android Studio para retrasados: Implementar tema oscuro en 2 pasos + Ejemplo"
+title:      "ESTADO ACTUAL DE LAS LEGISLACIONES DE LA INTELIGENCIA ARTIFICIAL EN MÉXICO"
 date:       2019-09-01 00:17:40
 author:     "Daniel Rosillo"
-header-img: "img/2752814.jpg"
-description: Son muchas las formas de implementar el tema oscuro o de noche en una aplicación, una de estas formas nos la brinda la librería Appcompat del paquete de librerías AndroidX.
+header-img: "img/delysid.jpg"
+description: Determinar las fronteras existentes dentro de la IA en rubros
+políticos con respecto a su aplicación, denotando el estado actual y su futuro, sentando las bases de su regulación en México.
 categories: Quick
-image: /img/2752814.jpg
+image: /img/delysid.jpg
 
 ---
 <div style="text-align: justify;">
