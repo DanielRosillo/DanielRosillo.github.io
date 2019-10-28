@@ -3,10 +3,10 @@ layout:     post
 title:      "LEGISLACIONES DE LA INTELIGENCIA ARTIFICIAL EN MÉXICO"
 date:       2019-10-27 00:19:40
 author:     "Daniel Rosillo"
-header-img: "img/delysid.jpg"
+header-img: "img/2862625.jpg"
 description: Determinar las fronteras existentes dentro de la IA en rubros políticos con respecto a su aplicación, denotando el estado actual y su futuro, sentando las bases de su regulación en México.
 categories: Quick
-image: /img/delysid.jpg
+image: /img/2862625.jpg
 ---
 <div style="text-align: justify;">
 <br>
