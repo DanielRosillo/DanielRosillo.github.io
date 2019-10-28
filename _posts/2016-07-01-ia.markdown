@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "ESTADO ACTUAL DE LAS LEGISLACIONES DE LA INTELIGENCIA ARTIFICIAL EN MÉXICO"
-date:       2019-10-27 00:19:40
+date:       2019-07-03 00:19:40
 author:     "Daniel Rosillo"
 header-img: "img/delysid.jpg"
 description: Determinar las fronteras existentes dentro de la IA en rubros
@@ -36,3 +36,4 @@ su futuro, sentando las bases de su regulación en México.
                      </div>
 <br>
 <p>Fraternalmente Daniel Rosillo;
+<div style='clear: both;'></div>
