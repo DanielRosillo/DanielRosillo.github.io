@@ -14,7 +14,7 @@ image: /img/delysid.jpg
 <br>
 <p>Esta investigación se encuentra en curso y esta dirigida a todo aquel interesado
 en la rama de la IA, así como personas involucradas en el ramo del derecho
-informático en MÉXICO. Principalmente:<br>
+informático en MÉXICO. Principalmente:<br><br>
 &#8226;&nbsp;&nbsp;&nbsp; Desarrolladores de Inteligencia Artificial.<br>
 &#8226;&nbsp;&nbsp;&nbsp; Catedráticos de Inteligencia Artificial.<br>
 <h2>
@@ -25,7 +25,9 @@ Determinar las fronteras existentes dentro de la IA en rubros
 políticos con respecto a su aplicación, denotando el estado actual y
 su futuro, sentando las bases de su regulación en México.
 <br>
-
+<p>Como agradecimiento a su participación, se les enviará por correo los resultados de esta investigación, gracias por participar :D
+<br>
+<br>
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSd0KvAUG_0TD-mPrVDtjxIZCT9UnycTq5riCCSeoOZWuypOiw/viewform">CLICK AQUI PARA IR A LA ENCUESTA</a>
 <p>Fuente del background
 <br>
