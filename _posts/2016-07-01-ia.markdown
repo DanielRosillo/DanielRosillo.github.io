@@ -1,0 +1,36 @@
+---
+layout:     post
+title:      "ESTADO ACTUAL DE LAS LEGISLACIONES DE LA INTELIGENCIA ARTIFICIAL EN MÉXICO"
+date:       2019-10-27 00:19:40
+author:     "Daniel Rosillo"
+header-img: "img/2862625.jpg"
+description: Determinar las fronteras existentes dentro de la IA en rubros
+políticos con respecto a su aplicación, denotando el estado actual y su futuro, sentando las bases de su regulación en México.
+categories: Quick
+image: /img/2862625.jpg
+
+---
+<div style="text-align: justify;">
+<br>
+<p>Esta investigación se encuentra en curso y esta dirigida a todo aquel interesado
+en la rama de la IA, así como personas involucradas en el ramo del derecho
+informático en MÉXICO. Principalmente:<br>
+&#8226;&nbsp;&nbsp;&nbsp; Desarrolladores de Inteligencia Artificial.<br>
+&#8226;&nbsp;&nbsp;&nbsp; Catedráticos de Inteligencia Artificial.<br>
+<h2>
+OBJETIVO GENERAL
+</h2>
+<p>
+Determinar las fronteras existentes dentro de la IA en rubros
+políticos con respecto a su aplicación, denotando el estado actual y
+su futuro, sentando las bases de su regulación en México.
+<br>
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSd0KvAUG_0TD-mPrVDtjxIZCT9UnycTq5riCCSeoOZWuypOiw/viewform">CLICK AQUI PARA IR A LA ENCUESTA</a>
+<p>Fuente del background
+<br>
+<div class="badges">
+                    <a class="badge-link" href="https://www.freepik.com/free-vector/particle-artificial-inteligence-face-background_5513843.htm#page=1&query=artificial%20intelligence&position=0" ><img src="/img/images.jpeg" alt="" img class="img-responsive"></a>
+                     </div>
+<br>
+<p>Fraternalmente Daniel Rosillo;
