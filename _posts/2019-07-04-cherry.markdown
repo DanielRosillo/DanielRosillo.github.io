@@ -1,0 +1,161 @@
+---
+layout:     post
+title:      "Cherry* - Busqueda A* && la Heuristica de Manhattan "
+date:       2019-07-06 07:00:00
+author:     "Daniel Rosillo"
+header-img: "img/Cherry.jpg"
+categories: Inteligencia Artificial 
+---
+<div style="text-align: justify;">
+<p>Implementaciones sobre búsqueda no informada en JAVA, usando un enfoque funcional.<br />
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://4.bp.blogspot.com/-nPFEWcK61xE/W0IrLcbEO6I/AAAAAAAAAV4/66yxYk8Z_UsU9pCFGzQFX37xtgEy9vRUgCLcBGAs/s1600/cherry_vida.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1132" data-original-width="1600" src="https://4.bp.blogspot.com/-nPFEWcK61xE/W0IrLcbEO6I/AAAAAAAAAV4/66yxYk8Z_UsU9pCFGzQFX37xtgEy9vRUgCLcBGAs/s640/cherry_vida.jpg" width="530" /></a></div>
+<br />
+<h2>TERMINOLOGÍA</h2>
+<br />
+<p>&nbsp;&nbsp;&nbsp; Node -&gt; Una estructura de datos que tiene lugar en el árbol;<br />
+&nbsp;&nbsp;&nbsp; Actions -&gt; Estados alcanzables desde algún estado cualquiera;<br />
+&nbsp;&nbsp;&nbsp; Root -&gt; Nodo origen del árbol;<br />
+&nbsp;&nbsp;&nbsp; Origin -&gt; Estado origen, de algún estado cualquiera;<br />
+&nbsp;&nbsp;&nbsp; Final -&gt; Estado sin acciones posibles;<br />
+&nbsp;&nbsp;&nbsp; Level -&gt; Nivel del estado, por defecto root = 0;<br />
+&nbsp;&nbsp;&nbsp; Tree -&gt; Estructura que modela los estados del problema;<br />
+&nbsp;&nbsp;&nbsp; Cost -&gt; Costo para llegar a ese estado, desde el inicio;<br />
+&nbsp;&nbsp;&nbsp; Source -&gt; Representación matricial del estado;<br />
+&nbsp;&nbsp;&nbsp; State -&gt; Estado a priori;<br />
+<br />
+<h2>CONTEXTO</h2>
+<br />
+<p>Las estructuras lógicas de tipo "Árbol", nos permiten modelar soluciones a problemas, donde lo que se busca el la mejor solución de un conjunto de posibles estados.<br />
+<br />
+Una simple representación de un árbol puede ser la siguiente:<br />
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://2.bp.blogspot.com/-Ml89HAbkd7I/W0Iqx83FL5I/AAAAAAAAAVw/Sil4jumcpEglhmTu4Ckg9SNJGmZEZzojwCLcBGAs/s1600/Cherry-Star01.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="272" data-original-width="442" src="https://2.bp.blogspot.com/-Ml89HAbkd7I/W0Iqx83FL5I/AAAAAAAAAVw/Sil4jumcpEglhmTu4Ckg9SNJGmZEZzojwCLcBGAs/s1600/Cherry-Star01.png" /></a></div>
+<p>Los arboles con los que trabajaremos contienen una raíz destacada la cual es el origen del estado, por lo cual solo hay un camino origen asociado a un estado viniendo desde otro.<br />
+<a name='more'></a><br />
+<h2>Representación</h2>
+<br />
+<p>Crear un estado<br>
+<blockquote>
+<span style="font-family: &quot;courier new&quot; , &quot;courier&quot; , monospace;"><br /></span>
+<span style="font-family: &quot;courier new&quot; , &quot;courier&quot; , monospace;">Node state = new Node(&#8220;State&#8221;,1);</span><br />
+<span style="font-family: &quot;courier new&quot; , &quot;courier&quot; , monospace;">Crear un Árbol de soluciones</span><br />
+<span style="font-family: &quot;courier new&quot; , &quot;courier&quot; , monospace;">Node A = new Node(&#8220;A&#8221;,1);</span><br />
+<span style="font-family: &quot;courier new&quot; , &quot;courier&quot; , monospace;">Tree tree = new Tree(A,&#8221;goal&#8221;,&#8221;name&#8221;);</span><br />
+<br />
+</blockquote>
+<p>Asignar estados&#8230;<br />
+<br />
+<blockquote>
+<span style="font-family: &quot;courier new&quot; , &quot;courier&quot; , monospace;">Node B = new Node(&#8220;B&#8221;,1);</span><br />
+<span style="font-family: &quot;courier new&quot; , &quot;courier&quot; , monospace;">Node C = new Node(&#8220;C&#8221;,1);</span><br />
+<span style="font-family: &quot;courier new&quot; , &quot;courier&quot; , monospace;">Node D = new Node(&#8220;D&#8221;,2);</span><br />
+<span style="font-family: &quot;courier new&quot; , &quot;courier&quot; , monospace;"><br /></span>
+<span style="font-family: &quot;courier new&quot; , &quot;courier&quot; , monospace;">tree.flourish(A,B);</span><br />
+<span style="font-family: &quot;courier new&quot; , &quot;courier&quot; , monospace;">tree.flourish(A,C);</span><br />
+<span style="font-family: &quot;courier new&quot; , &quot;courier&quot; , monospace;">tree.flourish(A,D);</span><br />
+<br />
+</blockquote>
+<p>Funciones Bioinspiradas<br />
+<ul>
+<li><span style="font-family: &quot;courier new&quot; , &quot;courier&quot; , monospace;">Flourish -&gt; Floresca un estado en otro.</span></li>
+<li><span style="font-family: &quot;courier new&quot; , &quot;courier&quot; , monospace;">Wither -&gt; Elimine un estado.</span></li>
+<li><span style="font-family: &quot;courier new&quot; , &quot;courier&quot; , monospace;">Flush -&gt; Limpie el espacio de estados.</span></li>
+<li><span style="font-family: &quot;courier new&quot; , &quot;courier&quot; , monospace;">Size -&gt; Tamaño del espacio de estados.</span></li>
+<li><span style="font-family: &quot;courier new&quot; , &quot;courier&quot; , monospace;">onList -&gt; Representación matricial del árbol. </span></li>
+</ul>
+<p>Funciones de Contexto<br />
+<ul>
+<li><span style="font-family: &quot;courier new&quot; , &quot;courier&quot; , monospace;">A*</span></li>
+<li><span style="font-family: &quot;courier new&quot; , &quot;courier&quot; , monospace;">BFS</span></li>
+<li><span style="font-family: &quot;courier new&quot; , &quot;courier&quot; , monospace;">UCS</span></li>
+<li><span style="font-family: &quot;courier new&quot; , &quot;courier&quot; , monospace;">DFS</span></li>
+<li><span style="font-family: &quot;courier new&quot; , &quot;courier&quot; , monospace;">DLS</span></li>
+<li><span style="font-family: &quot;courier new&quot; , &quot;courier&quot; , monospace;">IDS</span></li>
+<li><span style="font-family: &quot;courier new&quot; , &quot;courier&quot; , monospace;">BS</span></li>
+</ul>
+<p>Listas de Trabajo<br />
+<ul>
+<li>&nbsp;&nbsp;&nbsp; FIFO</li>
+<li>&nbsp;&nbsp;&nbsp; LIFO</li>
+<li>&nbsp;&nbsp;&nbsp; SORT</li>
+</ul>
+<br />
+<h2>EJEMPLO IMPLEMENTANDO A*<br /></h2>
+<br />
+<p>Es posible modelar el problema de juguete conocido del juego puzzle 8, en el cual se busca llegar de un estado inicial a otro, en el menor número de movimientos posibles.<br />
+<br />
+<h2><span style="font-size: large;"><b>ANÁLISIS</b></span><br /></h2>
+<br />
+<p>La representación a priori del problema es la posición de las fichas respecto al estado final, esta información por si misma nos permite alcanzar una solución, puesto que si el orden de las fichas es igual al del estado objetivo, hemos encontrado la solución solo basta con representar cada estado como una matriz y tomar el espacio vacío como valor &#8220;0&#8221;.<br />
+<br />
+Es preciso notar la intima relación que existe si, obtuviéramos las coordenadas arbitrarias respecto a un eje para cada posición y las comparáramos, esta relación nos permite aplicar una las heurísticas más famosas de este problema, la heurística de Manhattan.<br />
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://3.bp.blogspot.com/-tHfsxWFx1zw/W0IsVAc13nI/AAAAAAAAAWE/TxosOtdV4XEnL-u2jlHuUrT3IQnt009igCLcBGAs/s1600/Cherry-Star02.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="200" data-original-width="200" src="https://3.bp.blogspot.com/-tHfsxWFx1zw/W0IsVAc13nI/AAAAAAAAAWE/TxosOtdV4XEnL-u2jlHuUrT3IQnt009igCLcBGAs/s1600/Cherry-Star02.png" /></a></div>
+<br />
+<p>Nota: La función heurística nos permite obtener abstractamente información más consistente sobre el problema y su solución, es un tipo de regla de 3 para la estimación de un problema.<br />
+<br />
+La heurística de manhattan nos da la distancia mínima entre dos coordenadas de una forma parecida a la utilizada en la distancia euclidiana, la naturaleza de obtención de esta nos permite encontrar una estimación a nuestro problema. En el juego solo es posible mover el espacio vacío &#8220;0&#8221;, en forma vertical o horizontal, la distancia de manhattan se basa precisamente en esta analogia.<br />
+<br />
+Supongamos que modelamos el siguiente árbol&#8230;<br />
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://3.bp.blogspot.com/-sz-cGjhk6y8/W0IsqjfC7cI/AAAAAAAAAWM/nV3ksPebqs8-FcXDPq7tP27H-NJeA22JQCLcBGAs/s1600/Cherry-Star03.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="406" data-original-width="323" src="https://3.bp.blogspot.com/-sz-cGjhk6y8/W0IsqjfC7cI/AAAAAAAAAWM/nV3ksPebqs8-FcXDPq7tP27H-NJeA22JQCLcBGAs/s1600/Cherry-Star03.png" /></a></div>
+<br />
+<p>El estado Inicial es A, representado por {2,8,3,1,6,4,7,0,5}<br />
+<br />
+El estado final es M, representado por {1,2,3,8,0,4,7,6,5}<br />
+<br />
+&#183;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Numero de piezas en desorden respecto al estado M de A : 4 (2,8,1,6)<br />
+&#183;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Heurística de manhattan del estado inicial respecto a M : 5<br />
+<br />
+La función de evaluación será el valor de la heurística + coste, que en este caso lo definiremos como el nivel del estado en el árbol.<br />
+<br />
+<br />
+<b>Aplicando el algoritmo A*</b><br />
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://3.bp.blogspot.com/-RINTEttJSwM/W0Is557WFgI/AAAAAAAAAWU/5Ex5ZasSUqMU2QnGq0Is_aDiWj7Hy0P2QCLcBGAs/s1600/Cherry-Star04.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="152" data-original-width="254" src="https://3.bp.blogspot.com/-RINTEttJSwM/W0Is557WFgI/AAAAAAAAAWU/5Ex5ZasSUqMU2QnGq0Is_aDiWj7Hy0P2QCLcBGAs/s1600/Cherry-Star04.png" /></a></div>
+<br />
+<p>&nbsp;&nbsp;&nbsp;A*, es óptimamente eficiente, esto significa que no existe otro algoritmo que expanda menos nodos antes de encontrar la solución, esta demás decir que es completo y óptimo.<br />
+<br />
+Comparado con otros algoritmos de búsqueda no Informada..<br />
+<br />
+<b>BFS</b><br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://3.bp.blogspot.com/-YHRUZRmiOLI/W0ItCZByJnI/AAAAAAAAAWY/F9acEvwtaewkjpFT-jeWgL2fuH_0XLZ4QCLcBGAs/s1600/Cherry-Star05.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="149" data-original-width="247" src="https://3.bp.blogspot.com/-YHRUZRmiOLI/W0ItCZByJnI/AAAAAAAAAWY/F9acEvwtaewkjpFT-jeWgL2fuH_0XLZ4QCLcBGAs/s1600/Cherry-Star05.png" /></a></div>
+<br />
+<p><b>UCS</b><br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://2.bp.blogspot.com/-x10D3SEhX-k/W0ItJFZ9pYI/AAAAAAAAAWc/To5QACxh2CgHcb6lVGDxaWiJcvCx3mSVwCLcBGAs/s1600/Cherry-Star06.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="146" data-original-width="254" src="https://2.bp.blogspot.com/-x10D3SEhX-k/W0ItJFZ9pYI/AAAAAAAAAWc/To5QACxh2CgHcb6lVGDxaWiJcvCx3mSVwCLcBGAs/s1600/Cherry-Star06.png" /></a></div>
+<br />
+<span style="font-size: large;"><b>Conclusiones</b></span><br />
+<br />
+<p>Las estructuras aquí mostradas son escalables a cualquier tipo de problema en la vida real y ofrecen una buena base para generar un modelo solución, los algoritmos con los que cuenta, son usados hoy en día para resolver muchas cosas dentro de la informática, en especial A*, desde juegos de rol, hasta predicciones financieras en wall-street.<br />
+<br />
+<span style="font-size: large;"><b>Mas allá de la IA&#8230;</b></span>
+<br />
+<p>Es responsabilidad del analista la correcta abstracción del entorno para una óptima implementación. Tener la capacidad de imaginar el comportamiento de los agentes de acuerdo a sus propias percepciones y el problema en si mismo, permitirá modelar objetos, que en la realidad serán artilugios matemáticos de esa intima relacion del analista y el problema, estas heurísticas serán la esencia de la solución, al final una inteligencia optima no solo es fruto de un estupendo algoritmo de búsqueda.<br />
+<br />
+<b>REPOSITORIO GITHUB &amp;&amp; EJEMPLO</b><br />
+<br />
+<a href="https://github.com/DanielRosillo/Cherry-Star">https://github.com/DanielRosillo/Cherry-Star</a><br />
+<br />
+<b>REFERENCIAS</b><br />
+<br />
+<p>Russell, S., Norving, P. 2010. Artificial Intelligence A modern Approach. Third Edition. Pearson Education.<br />
+<br />
+<p>Sara El-Sayed El-Metwally<br />
+&nbsp;&nbsp;&nbsp; <a href="https://www.codeproject.com/articles/203828/ai-simple-implementation-of-uninformed-search-stra">https://www.codeproject.com/articles/203828/ai-simple-implementation-of-uninformed-search-stra</a><br />
+<br />
+<p>Jose Luis Iglesias Feria<br />
+&nbsp;&nbsp;&nbsp; <a href="https://descubriendolaia.blogspot.com/">https://descubriendolaia.blogspot.com/</a><br />
+<br />
+<div style="text-align: right;">
+FRATERNALMENTE :</div>
+<div>
+<i>&nbsp;&nbsp;&nbsp; DANIEL ROSILLO;</i><br />
+<br />
