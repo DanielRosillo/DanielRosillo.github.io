@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Privacy Policy of  Horoscopos +"
+title:      "Privacy Policy of Entertainment Apps"
 date:       2019-11-03 07:00:00
 author:     "Daniel Rosillo"
 header-img: "img/post-bg-02.jpg"
@@ -9,7 +9,7 @@ categories: Legal
 <div style="text-align: justify;">
   <body>
     <h2>Privacy Policy</h2> <p>
-                    Rosillo Labs built the Horóscopos + app as
+                    Rosillo Labs built the entertainment apps as
                     an Ad Supported app. This SERVICE is provided by
                     Rosillo Labs at no cost and is intended for
                     use as is.
