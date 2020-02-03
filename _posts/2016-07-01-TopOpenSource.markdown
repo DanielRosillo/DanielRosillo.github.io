@@ -11,15 +11,14 @@ image: /img/73.jpg
 ---
 <div style="text-align: justify;">
 <br>
-<p>Con este artículo se inaugura la zona Android, implementaciones rápidas, sin problemas y entendibles para nosotros los retrasados que no leemos la documentación.
-Son muchas las formas de implementar el tema oscuro o de noche en una aplicación, una de estas formas nos la brinda la librería Appcompat del paquete de librerías AndroidX, que a partir de la Api 28 introduce una serie de mejoras enfocadas a estandarizar su uso y relacionarlo a los ámbitos diarios.
+<p>El código abierto es un modelo de desarrollo de software basado en la colaboración abierta. Se enfoca más en los beneficios prácticos (acceso al código fuente) que en cuestiones éticas o de libertad que tanto se destacan en el software libre.  Hoy conoceremos algunas aplicaciones basadas en este modelo que están disponibles para Android, y que en muchos casos fácilmente pueden sustituir a sus contrapartes más famosas como las apps de Google, a diferencia de estas últimas y otras las siguientes apps no contienen trackers ni tampoco anuncios.
 <br>
 <br />
 <p>NOTA<br>
 <p>Algunas funciones como la asignación de tema automático o según el consumo de batería están disponibles solo para la Api 28(Android 9).
 <br>
 
-<a href="https://2.bp.blogspot.com/-_cCRPk4QL1k/W8sCpKnairI/AAAAAAAAAkI/S1l_if5p4RACmKqfYi7xqevCeMhuHWV9QCLcBGAs/s1600/DELYSIDANN02.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img src="https://2.bp.blogspot.com/-_cCRPk4QL1k/W8sCpKnairI/AAAAAAAAAkI/S1l_if5p4RACmKqfYi7xqevCeMhuHWV9QCLcBGAs/s200/DELYSIDANN02.jpg" class="img-responsive" /></a>
+<a href="https://images.videolan.org/vlc/screenshots/1.0.0/fitted_vlc_101_w7_2.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img src="https://images.videolan.org/vlc/screenshots/1.0.0/fitted_vlc_101_w7_2.jpg" class="img-responsive" /></a>
 
 <br>
 <h1>Ingredientes</h1>
