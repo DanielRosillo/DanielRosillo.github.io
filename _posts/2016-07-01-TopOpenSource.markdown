@@ -17,7 +17,7 @@ image: /img/73.jpg
 <br />
 <h1>VLC</h1><br>
 <p>Un viejo y conocido veterano de guerra VLC, este reproductor sustituye a Google Play Music sin problemas, ofreciendo opciones de reproducción avanzadas que simplemente una vez que las uses serán imposibles de olvidar, algunas de ellas son: 
-<br>
+<br><br>
 &#8226;&nbsp;&nbsp;&nbsp;Reproducción Pop-Up Player en videos. <br>
 &#8226;&nbsp;&nbsp;&nbsp;Reproducción de solo audio en videos. <br>
 &#8226;&nbsp;&nbsp;&nbsp;SleepTimer.<br>
