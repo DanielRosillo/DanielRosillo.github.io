@@ -14,11 +14,19 @@ image: /img/73.jpg
 <p>El código abierto es un modelo de desarrollo de software basado en la colaboración abierta. Se enfoca más en los beneficios prácticos (acceso al código fuente) que en cuestiones éticas o de libertad que tanto se destacan en el software libre.  Hoy conoceremos algunas aplicaciones basadas en este modelo que están disponibles para Android, y que en muchos casos fácilmente pueden sustituir a sus contrapartes más famosas como las apps de Google, a diferencia de estas últimas y otras las siguientes apps no contienen trackers ni tampoco anuncios.
 <br>
 <br />
-<p>NOTA<br>
-<p>Algunas funciones como la asignación de tema automático o según el consumo de batería están disponibles solo para la Api 28(Android 9).
+<h1>VLC</h1><br>
+<p>Un viejo y conocido veterano de guerra VLC, este reproductor sustituye a Google Play Music sin problemas, ofreciendo opciones de reproducción avanzadas que simplemente una vez que las uses serán imposibles de olvidar, algunas de ellas son: 
 <br>
+&#8226;&nbsp;&nbsp;&nbsp;Reproducción Pop-Up Player en videos. <br>
+&#8226;&nbsp;&nbsp;&nbsp;Reproducción de solo audio en videos. <br>
+&#8226;&nbsp;&nbsp;&nbsp;<br>SleepTimer.<br>
+&#8226;&nbsp;&nbsp;&nbsp;<br>Jump to time.<br>
 
 <a href="https://images.videolan.org/vlc/screenshots/1.0.0/fitted_vlc_101_w7_2.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img src="https://images.videolan.org/vlc/screenshots/1.0.0/fitted_vlc_101_w7_2.jpg" class="img-responsive" /></a>
+<br>
+<p>VLC está disponible mediante FDROID
+<br>
+
 
 <br>
 <h1>Ingredientes</h1>
