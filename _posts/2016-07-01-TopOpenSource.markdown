@@ -4,7 +4,7 @@ title:      "Top 5: Aplicaciones Open-Source en Android"
 date:       2020-02-02 00:17:40
 author:     "Daniel Rosillo"
 header-img: "img/73.jpg"
-description: Hoy conoceremos algunas de estas disponibles para Android, que en muchos casos fácilmente pueden sustituir a sus contrapartes más famosas como las apps de Google
+description: Hoy conoceremos algunas aplicaciones basadas en este modelo que están disponibles para Android, y que en muchos casos fácilmente pueden sustituir a sus contrapartes más famosas como las apps de Google.
 categories: Quick
 image: /img/73.jpg
 
