@@ -19,33 +19,28 @@ image: /img/73.jpg
 <br>
 &#8226;&nbsp;&nbsp;&nbsp;Reproducción Pop-Up Player en videos. <br>
 &#8226;&nbsp;&nbsp;&nbsp;Reproducción de solo audio en videos. <br>
-&#8226;&nbsp;&nbsp;&nbsp;<br>SleepTimer.<br>
-&#8226;&nbsp;&nbsp;&nbsp;<br>Jump to time.<br>
+&#8226;&nbsp;&nbsp;&nbsp;SleepTimer.<br>
+&#8226;&nbsp;&nbsp;&nbsp;Jump to time.<br>
 
-<a href="https://images.videolan.org/vlc/screenshots/1.0.0/fitted_vlc_101_w7_2.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img src="https://images.videolan.org/vlc/screenshots/1.0.0/fitted_vlc_101_w7_2.jpg" class="img-responsive" /></a>
+<a href="https://lh3.googleusercontent.com/ahV3K7RwV7JW-mKou83PYrld_Vg5i0ZEix0ga9vx_qkh1RD2qkQeFHfyzbfUCnJliw=w720-h310" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img src="https://lh3.googleusercontent.com/ahV3K7RwV7JW-mKou83PYrld_Vg5i0ZEix0ga9vx_qkh1RD2qkQeFHfyzbfUCnJliw=w720-h310" class="img-responsive" /></a>
 <br>
 <p>VLC está disponible mediante FDROID
 <br>
 
-
 <br>
-<h1>Ingredientes</h1>
+<h1>AnySoftKeyboard </h1>
 <br>
-<p>En el build.gradle de la aplicación, agregamos la dependencia o si la tenemos la actualizamos por:
+<p>Es un teclado alternativo a GBoard de Google, con un aire bastante más renovado y con opciones de personalización suficientes como: temas, barras personalizables, etc. Es un teclado totalmente anónimo disponible en varios idiomas, que acepta donaciones y se puede descargar por FDROID.
 <br><br>
+<a href="https://image.winudf.com/v2/image1/Y29tLm1lbm55LmFuZHJvaWQuYW55c29mdGtleWJvYXJkX3NjcmVlbl8yXzE1NTY4MDg1MzBfMDg3/screen-2.jpg?fakeurl=1&type=.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img src="https://image.winudf.com/v2/image1/Y29tLm1lbm55LmFuZHJvaWQuYW55c29mdGtleWJvYXJkX3NjcmVlbl8yXzE1NTY4MDg1MzBfMDg3/screen-2.jpg?fakeurl=1&type=.jpg" class="img-responsive" /></a>
 
-<blockquote>
-implementation 'androidx.appcompat:appcompat:1.1.0-rc01'<br />
-</blockquote>
 <br>
-<h1>Preparación</h1>
-<p>Dentro de la carpeta values/styles/, encontramos los archivos de nuestro tema.
+<h1>Blokada</h1>
+<p>Si lo que se busca es anonimato total, este bloqueador es una aproximación de ello, con un monitor de bloqueos en tiempo real de las diferentes Apis utilizadas por las empresas para enviar datos, se posiciona mediante una profunda integración configurable en unos cuantos pasos. Cuenta con DNS configurable, un túnel VPN bastante interesante y su propio firewall con excepciones.
 <br>
 <br>
-&#8226;&nbsp;&nbsp;&nbsp;	Styles.xml <br>
-&#8226;&nbsp;&nbsp;&nbsp;	Styles.xml (21)
+<a href="https://2.bp.blogspot.com/-X5oeuYHI_mw/W7-Z5nEefXI/AAAAAAAAGXA/qhshjht45NAPuE2l4ex1Vcynoh_YRN5LwCLcBGAs/s400/Blokada%2BVintArtt.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img src="https://2.bp.blogspot.com/-X5oeuYHI_mw/W7-Z5nEefXI/AAAAAAAAGXA/qhshjht45NAPuE2l4ex1Vcynoh_YRN5LwCLcBGAs/s400/Blokada%2BVintArtt.png" class="img-responsive" /></a>
 <br>
-
 <p>Editamos el primero, y cambiamos la herencia de nuestro tema por defecto, que es Theme.AppCompat.Light.DarkActionBar, debe quedar algo como lo siguiente:
 <br>
 
