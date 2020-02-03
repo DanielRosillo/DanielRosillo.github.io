@@ -21,67 +21,25 @@ image: /img/73.jpg
 &#8226;&nbsp;&nbsp;&nbsp;Reproducción de solo audio en videos. <br>
 &#8226;&nbsp;&nbsp;&nbsp;SleepTimer.<br>
 &#8226;&nbsp;&nbsp;&nbsp;Jump to time.<br>
-
+<br>
 <a href="https://lh3.googleusercontent.com/ahV3K7RwV7JW-mKou83PYrld_Vg5i0ZEix0ga9vx_qkh1RD2qkQeFHfyzbfUCnJliw=w720-h310" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img src="https://lh3.googleusercontent.com/ahV3K7RwV7JW-mKou83PYrld_Vg5i0ZEix0ga9vx_qkh1RD2qkQeFHfyzbfUCnJliw=w720-h310" class="img-responsive" /></a>
 <br>
-<p>VLC está disponible mediante FDROID
+<p>VLC está disponible mediante FDROID<br>
+<a href="https://f-droid.org/packages/org.videolan.vlc">primer</a>
 <br>
-
 <br>
 <h1>AnySoftKeyboard </h1>
 <br>
 <p>Es un teclado alternativo a GBoard de Google, con un aire bastante más renovado y con opciones de personalización suficientes como: temas, barras personalizables, etc. Es un teclado totalmente anónimo disponible en varios idiomas, que acepta donaciones y se puede descargar por FDROID.
-<br><br>
+<br>
 <a href="https://image.winudf.com/v2/image1/Y29tLm1lbm55LmFuZHJvaWQuYW55c29mdGtleWJvYXJkX3NjcmVlbl8yXzE1NTY4MDg1MzBfMDg3/screen-2.jpg?fakeurl=1&type=.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img src="https://image.winudf.com/v2/image1/Y29tLm1lbm55LmFuZHJvaWQuYW55c29mdGtleWJvYXJkX3NjcmVlbl8yXzE1NTY4MDg1MzBfMDg3/screen-2.jpg?fakeurl=1&type=.jpg" class="img-responsive" /></a>
-
+<br>
 <br>
 <h1>Blokada</h1>
 <p>Si lo que se busca es anonimato total, este bloqueador es una aproximación de ello, con un monitor de bloqueos en tiempo real de las diferentes Apis utilizadas por las empresas para enviar datos, se posiciona mediante una profunda integración configurable en unos cuantos pasos. Cuenta con DNS configurable, un túnel VPN bastante interesante y su propio firewall con excepciones.
 <br>
-<br>
 <a href="https://2.bp.blogspot.com/-X5oeuYHI_mw/W7-Z5nEefXI/AAAAAAAAGXA/qhshjht45NAPuE2l4ex1Vcynoh_YRN5LwCLcBGAs/s400/Blokada%2BVintArtt.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img src="https://2.bp.blogspot.com/-X5oeuYHI_mw/W7-Z5nEefXI/AAAAAAAAGXA/qhshjht45NAPuE2l4ex1Vcynoh_YRN5LwCLcBGAs/s400/Blokada%2BVintArtt.png" class="img-responsive" /></a>
 <br>
-<p>Editamos el primero, y cambiamos la herencia de nuestro tema por defecto, que es Theme.AppCompat.Light.DarkActionBar, debe quedar algo como lo siguiente:
-<br>
-
-<blockquote>
-name="AppTheme" parent="Theme.AppCompat.DayNight.DarkActionBar"<br />
-name="colorAccent">@color/colorAccent<br />
-name="android:windowTranslucentNavigation">true<br />
-name="android:navigationBarColor">@android:color/transparent<br />
-</blockquote>
-
-
-<br>
-<p>En caso de tener un NavigationDrawer, editar herencia de este tema:
-<br>
-
-<blockquote>
-name="AppTheme.PopupOverlay" parent="Theme.AppCompat.DayNight.DarkActionBar"<br />
-</blockquote>
-
-<br>
-<p>Creamos las mecánicas del manejador apoyándonos del uso de una preferencia.
-<br>
-
-<blockquote class="img-responsive">
-
-SharedPreferences mDefaultPreferences;
-mDefaultPreferences = PreferenceManager.getDefaultSharedPreferences (this);<br />
-if (isChecked)<br />
-{<br />
-   
-mDefaultPreferences.edit ().putBoolean ("dark_mode", true).apply ();<br />
-   AppCompatDelegate.setDefaultNightMode (AppCompatDelegate.MODE_NIGHT_YES);<br />
-}<br />
-else<br />
-{<br />
-   
-mDefaultPreferences.edit ().putBoolean ("dark_mode", false).apply ();<br />
-   AppCompatDelegate.setDefaultNightMode (AppCompatDelegate.MODE_NIGHT_NO);<br />
-}<br />
-</blockquote>
-
 <p>Ejemplo de implementación en un NavigationDrawer:<br>
 <a href="https://ibb.co/kS0HKSH"><img src="https://i.ibb.co/kS0HKSH/photo5141193604591626279.jpg" alt="photo5141193604591626279" img class="img-responsive" ></a>
 
