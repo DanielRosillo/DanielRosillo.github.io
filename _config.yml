@@ -1,6 +1,6 @@
 # Site settings
 title: Rosillo Labs
-email: rosillolabs@gmail.com
+email: manager@rosillolabs.com
 description: Rosillo Labs is a software development studio.
 
 baseurl: "" # the subpath of your site, e.g. /blog/ (If you use organization leave empty)
