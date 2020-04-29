@@ -49,8 +49,7 @@ image: /img/girls.jpg
 <p>La librería por excelencia para tareas asíncronas, sin duda una gran opción, aunque nos obliga a mantener una compatibilidad extra al ser una librería agregada, su sintaxis es la siguiente: 
 <br>
  
-
-<p>Si lo comparamos con AsyncTask: 
+<img src="https://s3.ap-south-1.amazonaws.com/mindorks/courses/learn-rxjava-course-cover.jpg" alt="https://s3.ap-south-1.amazonaws.com/mindorks/courses/learn-rxjava-course-cover.jpg">
 
 <br>
 <a href="https://github.com/ReactiveX/RxJava ">Link con la guía de implementación</a>
