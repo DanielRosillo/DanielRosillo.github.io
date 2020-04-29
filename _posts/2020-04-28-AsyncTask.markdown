@@ -11,9 +11,9 @@ image: /img/girls.jpg
 ---
 <div style="text-align: justify;">
 <br>
-<p>Con bastantes años en servicio y varios millones de crashes AsyncTask paso a ser una API obsoleta dentro del universo Android 10(API 29), este cambio es inmediato y se ve reflejado al actualizar el targetSdkVersion al nivel 29 en cualquier aplicación. 
+<p>Con bastantes años en servicio y varios millones de crashes AsyncTask paso a ser una API obsoleta dentro del universo Android 10 (API 29), este cambio es inmediato y se ve reflejado al actualizar el targetSdkVersion al nivel 29 en cualquier aplicación. 
 
-<p>En las últimas versiones se ha visto un aumento de APIS desechadas, esto se debe a la estandarización de procesos que Google ha estado implementando a varios niveles del sistema Android, dichos cambios que empezaron en Android 8(API 26) hoy se van consolidando y a su paso se llevan viejas costumbres y sus maneras de operar. 
+<p>En las últimas versiones se ha visto un aumento de APIS desechadas, esto se debe a la estandarización de procesos que Google ha estado implementando a varios niveles del sistema Android, dichos cambios que empezaron en Android 8 (API 26) hoy se van consolidando y a su paso se llevan viejas costumbres y sus maneras de operar. 
 
 <p>Las siguientes son alternativas funcionales que sustituyen en su totalidad las AsyncTaks y siguen siendo soportadas en Android 10. 
 <br>
@@ -32,7 +32,7 @@ image: /img/girls.jpg
 <br>
 <br>
 
-<h2>CompletableFutures</h2> 
+<h2>Completable Futures</h2> 
 
 <p>Introducidos en Java 8 como una evolución natural de los Futures clásicos, para poder utilizarlos se deberá habilitar el soporte de Java 8 en Android, su sintaxis funcional la pone a la vanguardia respecto a tendencias similares en otros lenguajes. A diferencia de los Futures es posible complementar su funcionamiento concatenando operaciones mediante funciones anónimas.
 
@@ -46,7 +46,7 @@ image: /img/girls.jpg
 
 <h2>RxJava<h2> 
 
-<p>La librería por excelencia para tareas asíncronas, sin duda una gran opción, aunque nos obliga a mantener una compatibilidad extra al ser una librería agregada, su sintaxis es la siguiente: 
+<p>La librería por excelencia para tareas asíncronas, sin duda una gran opción, aunque nos obliga a mantener una compatibilidad extra al ser una librería agregada.
 <br>
 <a href="https://ibb.co/zGfKLMg"><img src="https://i.ibb.co/zGfKLMg/rxjava.png" alt="rxjava" border="0"></a>
 <br>
