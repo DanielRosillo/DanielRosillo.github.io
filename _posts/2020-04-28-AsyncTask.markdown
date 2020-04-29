@@ -22,21 +22,25 @@ image: /img/girls.jpg
 <br>
 <h2>Futures</h2>
 
-<P>En primer lugar, Google recomienda usar los Futures para los que Java cuenta con soporte desde su versión 5, una a API bastante sutil y funcional que se encuentra nativamente en todas las versiones de Android, su sintaxis es la siguiente: 
-<br>
-<P>Si lo comparamos con AsyncTask: 
-<br>
-<br>
-<h2>CompletableFutures</h2> 
+<P>En primer lugar, Google recomienda usar los Futures para los que Java cuenta con soporte desde su versión 5, una a API bastante sutil y funcional que se encuentra nativamente en todas las versiones de Android.
 
-<p>Introducidos en Java 8 como una evolución natural de los Futures clásicos, para poder utilizarlos se deberá habilitar el soporte de Java 8 en Android, su sintaxis funcional la pone a la vanguardia respecto a tendencias similares en otros lenguajes. A diferencia de los Futures es posible complementar su funcionamiento concatenando operaciones mediante funciones anónimas, su sintaxis es la siguiente 
-
- 
+<P>La unica desventaja por decirlo asi es que sigue un esquema de declaracion clasico por lo que puede resultar poco intuitivo.
 <br>
-<p>Su sintaxis es la sigueinte: 
+<p>Su sintaxis es la siguiente: 
 <br>
 <a href="https://ibb.co/TwV9H6Q"><img src="https://i.ibb.co/dfd8QFN/Screenshot-from-2020-04-28-23-30-56.png" alt="Screenshot-from-2020-04-28-23-30-56" border="0"></a>
- 
+<br>
+<br>
+
+<h2>CompletableFutures</h2> 
+
+<p>Introducidos en Java 8 como una evolución natural de los Futures clásicos, para poder utilizarlos se deberá habilitar el soporte de Java 8 en Android, su sintaxis funcional la pone a la vanguardia respecto a tendencias similares en otros lenguajes. A diferencia de los Futures es posible complementar su funcionamiento concatenando operaciones mediante funciones anónimas.
+
+<br>
+<p>Su sintaxis es la siguiente: 
+<br>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/GpxP4T9/Screenshot-from-2020-04-28-23-41-26.png" alt="Screenshot-from-2020-04-28-23-41-26" border="0"></a>
+ <br>
 <br>
 <h1>OPCIONES NO NATIVAS<h1> 
 
