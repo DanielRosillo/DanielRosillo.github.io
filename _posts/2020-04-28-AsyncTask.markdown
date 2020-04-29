@@ -15,7 +15,12 @@ image: /img/girls.jpg
 
 <p>Esto se debe a la estandarización de procesos que Google ha estado implementando a varios niveles del sistema Android, dichos cambios que empezaron en Android 8(API 26) hoy se van consolidando y a su paso se llevan viejas costumbres y sus maneras de operar. 
 
-
+<p>Las siguientes son alternativas funcionales que sustituyen en su totalidad las AsyncTaks y siguen siendo soportadas en Android 10. 
+<br>
+<br>
+<h1>OPCIONES NATIVAS</h1>
+<br>
+<h2>Futures</h2>
 
 
 <p>Fraternalmente Daniel Rosillo;
