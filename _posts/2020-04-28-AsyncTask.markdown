@@ -27,7 +27,7 @@ image: /img/girls.jpg
 <P>Si lo comparamos con AsyncTask: 
 <br>
 <br>
-<h2>CompletableFutures</hr> 
+<h2>CompletableFutures</h2> 
 
 <p>Introducidos en Java 8 como una evolución natural de los Futures clásicos, para poder utilizarlos se deberá habilitar el soporte de Java 8 en Android, su sintaxis funcional la pone a la vanguardia respecto a tendencias similares en otros lenguajes. A diferencia de los Futures es posible complementar su funcionamiento concatenando operaciones mediante funciones anónimas, su sintaxis es la siguiente 
 
