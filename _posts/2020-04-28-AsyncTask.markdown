@@ -39,7 +39,7 @@ image: /img/girls.jpg
 <br>
 <p>Su sintaxis es la siguiente: 
 <br>
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/GpxP4T9/Screenshot-from-2020-04-28-23-41-26.png" alt="Screenshot-from-2020-04-28-23-41-26" border="0"></a>
+<a href="https://ibb.co/PjmCvQM"><img src="https://i.ibb.co/PjmCvQM/Screenshot-from-2020-04-28-23-41-26.png" alt="Screenshot-from-2020-04-28-23-41-26" border="0"></a>
  <br>
 <br>
 <h1>OPCIONES NO NATIVAS<h1> 
@@ -49,7 +49,6 @@ image: /img/girls.jpg
 <p>La librería por excelencia para tareas asíncronas, sin duda una gran opción, aunque nos obliga a mantener una compatibilidad extra al ser una librería agregada, su sintaxis es la siguiente: 
 <br>
  
-<img src="https://s3.ap-south-1.amazonaws.com/mindorks/courses/learn-rxjava-course-cover.jpg" alt="https://s3.ap-south-1.amazonaws.com/mindorks/courses/learn-rxjava-course-cover.jpg">
 
 <br>
 <a href="https://github.com/ReactiveX/RxJava ">Link con la guía de implementación</a>
