@@ -22,6 +22,32 @@ image: /img/girls.jpg
 <br>
 <h2>Futures</h2>
 
+<P>En primer lugar, Google recomienda usar los Futures para los que Java cuenta con soporte desde su versión 5, una a API bastante sutil y funcional que se encuentra nativamente en todas las versiones de Android, su sintaxis es la siguiente: 
+<br>
+<P>Si lo comparamos con AsyncTask: 
+<br>
+<br>
+<h2>CompletableFutures</hr> 
 
-<p>Fraternalmente Daniel Rosillo;
+<p>Introducidos en Java 8 como una evolución natural de los Futures clásicos, para poder utilizarlos se deberá habilitar el soporte de Java 8 en Android, su sintaxis funcional la pone a la vanguardia respecto a tendencias similares en otros lenguajes. A diferencia de los Futures es posible complementar su funcionamiento concatenando operaciones mediante funciones anónimas, su sintaxis es la siguiente 
+
+ 
+<br>
+<p>Si lo comparamos con AsyncTask: 
+
+ 
+
+<h1>OPCIONES NO NATIVAS<h1> 
+
+<h2>RxJava<h2> 
+
+<p>La librería por excelencia para tareas asíncronas, sin duda una gran opción, aunque nos obliga a mantener una compatibilidad extra al ser una librería agregada, su sintaxis es la siguiente: 
+<br>
+ 
+
+<p>Si lo comparamos con AsyncTask: 
+
+<p>Link con la guía de implementación: https://github.com/ReactiveX/RxJava 
+
+<p>Fraternalmente Daniel Rosillo;<br>
 -Manager on Rosillo Labs;
