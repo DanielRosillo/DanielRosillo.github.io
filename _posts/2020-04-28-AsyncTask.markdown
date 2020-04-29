@@ -47,6 +47,7 @@ image: /img/girls.jpg
 
 <p>Si lo comparamos con AsyncTask: 
 
+<br>
 <a href="https://github.com/ReactiveX/RxJava ">Link con la guía de implementación</a>
 <br>
 <br>
