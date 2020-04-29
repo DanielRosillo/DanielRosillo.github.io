@@ -29,7 +29,9 @@ image: /img/girls.jpg
 <p>Su sintaxis es la siguiente: 
 <br>
 <a href="https://ibb.co/TwV9H6Q"><img src="https://i.ibb.co/TwV9H6Q/Screenshot-from-2020-04-28-23-30-56.png" alt="Screenshot-from-2020-04-28-23-30-56" border="0"></a>
-https://docs.oracle.com/javase/7/docs/api/java/util/concurrent/Future.html
+<br>
+<a href="
+https://docs.oracle.com/javase/7/docs/api/java/util/concurrent/Future.html">Documentacón</a>
 <br>
 <br>
 
@@ -41,6 +43,7 @@ https://docs.oracle.com/javase/7/docs/api/java/util/concurrent/Future.html
 <p>Su sintaxis es la siguiente: 
 <br>
 <a href="https://ibb.co/PjmCvQM"><img src="https://i.ibb.co/PjmCvQM/Screenshot-from-2020-04-28-23-41-26.png" alt="Screenshot-from-2020-04-28-23-41-26" border="0"></a>
+<br>
 <a href="https://docs.oracle.com/javase/8/docs/api/java/util/concurrent/CompletableFuture.html">Documentacón</a>
  <br>
 <br>
