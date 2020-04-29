@@ -33,10 +33,10 @@ image: /img/girls.jpg
 
  
 <br>
-<p>Si lo comparamos con AsyncTask: 
-
+<p>Su sintaxis es la sigueinte: 
+<a href="https://ibb.co/TwV9H6Q"><img src="https://i.ibb.co/TwV9H6Q/Screenshot-from-2020-04-28-23-30-56.png" alt="Screenshot-from-2020-04-28-23-30-56" border="0"></a>
  
-<br
+<br<>
 <h1>OPCIONES NO NATIVAS<h1> 
 
 <h2>RxJava<h2> 
