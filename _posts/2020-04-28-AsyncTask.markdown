@@ -24,7 +24,7 @@ image: /img/girls.jpg
 
 <P>En primer lugar, Google recomienda usar los Futures para los que Java cuenta con soporte desde su versión 5, una a API bastante sutil y funcional que se encuentra nativamente en todas las versiones de Android.
 
-<P>La unica desventaja por decirlo asi es que sigue un esquema de declaracion clasico por lo que puede resultar poco intuitivo.
+<P>La única desventaja por decirlo así es que sigue un esquema de declaración clásico por lo que puede resultar poco intuitivo.
 <br>
 <p>Su sintaxis es la siguiente: 
 <br>
