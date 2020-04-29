@@ -36,7 +36,7 @@ image: /img/girls.jpg
 <p>Si lo comparamos con AsyncTask: 
 
  
-
+<br
 <h1>OPCIONES NO NATIVAS<h1> 
 
 <h2>RxJava<h2> 
