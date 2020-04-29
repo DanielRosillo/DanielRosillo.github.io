@@ -3,7 +3,7 @@ layout:     post
 title:      "AsyncTask fue desechada... ¿y ahora qué?"
 date:       2020-04-28 00:17:40
 author:     "Daniel Rosillo"
-header-img: "img/73.jpg"
+header-img: "img/girls.jpg"
 description: AsyncTask paso a ser una API obsoleta dentro del universo Android 10(API 29), este cambio es inmediato y se ve reflejado al actualizar el targetSdkVersion al nivel 29 en cualquier aplicación.
 categories: Quick
 image: /img/girls.jpg
@@ -24,4 +24,4 @@ image: /img/girls.jpg
 
 
 <p>Fraternalmente Daniel Rosillo;
-<p>Manager on Rosillo Labs
+-Manager on Rosillo Labs;
