@@ -15,7 +15,7 @@ image: /img/girls.jpg
 
 <p>En las últimas versiones se ha visto un aumento de APIS desechadas, esto se debe a la estandarización de procesos que Google ha estado implementando a varios niveles del sistema Android, dichos cambios que empezaron en Android 8 (API 26) hoy se van consolidando y a su paso se llevan viejas costumbres y sus maneras de operar. 
 
-<p>Las siguientes son alternativas funcionales que sustituyen en su totalidad las AsyncTaks y siguen siendo soportadas en Android 10. 
+<p>Las siguientes son alternativas funcionales que sustituyen en su totalidad las AsyncTaks y que seguiran siendo soportadas por Android en futuras versiones.
 <br>
 <br>
 <h1>OPCIONES NATIVAS</h1>
