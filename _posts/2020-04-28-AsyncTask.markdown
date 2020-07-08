@@ -11,11 +11,11 @@ image: /img/girls.jpg
 ---
 <div style="text-align: justify;">
 <br>
-<p>Con bastantes años en servicio y varios millones de crashes la API AsyncTask, para realizar llamadas asíncronas, paso a ser una API depreciada dentro del universo Android 11 (API R), este cambio se vuelve notorio incluso al actualizar el targetSdkVersion al nivel 29 (Android 10), en donde ya no marca dicha librería como sin soporte. 
+<p>Con bastantes años en servicio y varios millones de crashes la API AsyncTask, para realizar llamadas asíncronas, paso a ser una API depreciada dentro del universo Android 11 (API R), este cambio se vuelve notorio incluso al actualizar el targetSdkVersion al nivel 29 (Android 10), en donde ya marca dicha librería como sin soporte. 
 
 <p>En las últimas versiones se ha visto un aumento de APIS desechadas, esto se debe a la estandarización de procesos que Google ha estado implementando a varios niveles del sistema Android, dichos cambios que empezaron en Android 8 (API 26) hoy se van consolidando y a su paso se llevan viejas costumbres y sus maneras de operar. 
 
-<p>Las siguientes son alternativas funcionales que sustituyen en su totalidad las AsyncTaks y que seguiran siendo soportadas por Android en futuras versiones.
+<p>Las siguientes son alternativas sustituyen en su totalidad las AsyncTaks y seguiran siendo soportadas por Android en futuras versiones.
 <br>
 <br>
 <h1>OPCIONES NATIVAS</h1>
