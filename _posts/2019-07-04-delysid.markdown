@@ -121,4 +121,5 @@ Russell, S., Norving, P. 2010. Artificial Intelligence A modern Approach. Third 
 Rafael Alberto Moreno Parra 2016. Redes Neuronales parte 1.<br />
 <br />
 Fraternalmente Daniel Rosillo .&#8217;.;
+-Manager at Rosillo Labs;
 <div style='clear: both;'></div>

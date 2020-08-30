@@ -59,4 +59,4 @@ https://docs.oracle.com/javase/7/docs/api/java/util/concurrent/Future.html">Docu
 <br>
 <br>
 <p>Fraternalmente Daniel Rosillo;<br>
--Manager on Rosillo Labs;
+-Manager at Rosillo Labs;

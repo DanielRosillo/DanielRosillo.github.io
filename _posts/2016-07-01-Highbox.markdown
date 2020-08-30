@@ -92,4 +92,5 @@ Highbox está disponible de forma gratuita en la Playstore y solo requiere Andro
                     
                     <br>
 <i>Fraternalmente Daniel Rosillo;</i>
+-Manager at Rosillo Labs;
 <div style='clear: both;'></div>

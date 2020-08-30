@@ -157,5 +157,6 @@ Comparado con otros algoritmos de búsqueda no Informada..<br />
 <div style="text-align: right;">
 FRATERNALMENTE :</div>
 <div>
-<i>&nbsp;&nbsp;&nbsp; DANIEL ROSILLO;</i><br />
+<i>&nbsp;&nbsp;&nbsp; Daniel Rosillo;</i><br />
+-Manager at Rosillo Labs;
 <br />
