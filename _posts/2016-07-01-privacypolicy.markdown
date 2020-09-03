@@ -1,13 +1,12 @@
 ---
 layout:     post
-title:      "Privacy Policy of Rosillo Labs"
+title:      "Privacy Policy for Rosillo Labs"
 date:       2019-07-03 07:00:00
 author:     "Daniel Rosillo"
 header-img: "img/post-bg-02.jpg"
 categories: Legal
 ---
 <div style="text-align: justify;">
-<h1>Privacy Policy for Rosillo Labs</h1>
 
 <p>At Rosillo Labs, accessible from https://rosillolabs.com/, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by Rosillo Labs and how we use it.</p>
 
