@@ -32,11 +32,8 @@ categories: Legal
                     Horóscopos + unless otherwise defined in this Privacy
                     Policy.
                   </p> <p><strong>Information Collection and Use</strong></p> <p>
-                    For a better experience, while using our Service,
-                    we may require you to provide us with certain
-                    personally identifiable information, including but not limited to name. The
-                    information that we request will be
-                    retained by us and used as described in this privacy policy.
+                   The personal information that you are asked to provide, and the reasons why you are asked to provide it, will be made clear to you at the point we ask you to provide your personal information.</p>
+<p>If you contact us directly, we may receive additional information about you such as your name, email address, the contents of the message and/or attachments you may send us, and any other information you may choose to provide.
                   </p> <p>
                     The app does use third party services that may collect
                     information used to identify you.
