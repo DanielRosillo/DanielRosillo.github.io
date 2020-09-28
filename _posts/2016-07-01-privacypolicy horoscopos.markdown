@@ -10,7 +10,7 @@ categories: Legal
   <body>
     <h2>Privacy Policy</h2> <p>
                     Rosillo Labs built the entertainment apps as
-                    an Ad Supported app. This SERVICE is provided by
+                    an Ad Supported apps. This SERVICE is provided by
                     Rosillo Labs at no cost and is intended for
                     use as is.
                   </p> <p>
