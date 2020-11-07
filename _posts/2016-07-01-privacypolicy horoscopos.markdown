@@ -41,19 +41,15 @@ categories: Legal
                       Link to privacy policy of third party service providers
                       used by the app
                     </p> <ul><li><a href="https://www.google.com/policies/privacy/" target="_blank">Google Play Services</a></li><li><a href="https://support.google.com/admob/answer/6128543?hl=en" target="_blank">AdMob</a></li><li><a href="https://firebase.google.com/policies/analytics" target="_blank">Firebase Analytics</a></li><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----></ul></div> 
-                    
-                    
-                    
                     <p><strong>Sharing of Your Data</p>
 
-<p>Monedata. We share Usage Data with Monedata (DATA PAYMENTS OÜ, Lasnamäe linnaosa, Lõõtsa tn 5-11, Tallinn, 11415, Estonia, info@monedata.io).</p>
+  <p>Monedata. We share Usage Data with Monedata (DATA PAYMENTS OÜ, Lasnamäe linnaosa, Lõõtsa tn 5-11, Tallinn, 11415, Estonia, info@monedata.io).</p>
 <br>
 
   <p>  Monedata uses third-party addons that collect varied data, which may include device identifiers, location, mobile network coverage and performance, installed apps list and usage stats.
     With the Your consent, the data will be collected and shared with those third-parties for analysis and measurement purposes. You can withdraw Your consent at any time.
     To learn more about the data collected and see the list of partners, please visit Monedata’s privacy policy at https://monedata.io/privacy-policy/.</p>
 <br>
-                    
                     <p><strong>Log Data</strong></p> <p>
                     We want to inform you that whenever
                     you use our Service, in a case of an error in the
