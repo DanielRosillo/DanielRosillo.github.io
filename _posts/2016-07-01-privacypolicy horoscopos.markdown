@@ -44,10 +44,9 @@ categories: Legal
                     
                     
                     
-                    <p><strong>SHARING OF YOUR DATA</(p>
+                    <p><strong>Sharing of Your Data</p>
 
 <p>Monedata. We share Usage Data with Monedata (DATA PAYMENTS OÜ, Lasnamäe linnaosa, Lõõtsa tn 5-11, Tallinn, 11415, Estonia, info@monedata.io).</p>
-<br>
 <br>
 
   <p>  Monedata uses third-party addons that collect varied data, which may include device identifiers, location, mobile network coverage and performance, installed apps list and usage stats.
