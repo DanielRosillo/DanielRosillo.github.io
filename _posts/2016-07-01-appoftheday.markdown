@@ -16,7 +16,8 @@ image: /img/interview.jpg
 <p><ul><li><a href="https://appoftheday.downloadastro.com/app/highbox-password-manager-passphrases-hash-qr/" target="_blank">INTERVIEW</a></li></ul></p>
 <br>
 
-
+<p><a href="https://appoftheday.downloadastro.com/" target="_blank">AppOfTheDay</a></p>
+<br>
 
 <p><strong>Fraternalmente I.I. Daniel Rosillo;</strong><br>
 - Project Manager in Rosillo Labs</p>
