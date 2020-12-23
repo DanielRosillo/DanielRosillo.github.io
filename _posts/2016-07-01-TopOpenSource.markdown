@@ -81,5 +81,5 @@ image: /img/73.jpg
                     <a class="badge-link" href="https://www.freepik.com/free-vector/sunset-mountains-landscape-with-purple-gradient-colors_5315515.htm#page=1&query=mountains&position=8" ><img src="/img/images.jpeg" alt="" img class="img-responsive"></a>
                      </div>
 <br>
-<p>Fraternalmente I.I Daniel Rosillo;</p>
-- Project Manager at Rosillo Labs
+<p><strong>Fraternalmente I.I. Daniel Rosillo;</strong><br>
+- Project Manager in Rosillo Labs</p>

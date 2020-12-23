@@ -13,8 +13,7 @@ image: /img/interview.jpg
 <br>
 <p>I had an interview with <strong>Farhan Karim</strong> from App of the Day to know my experiences about Highbox, I appreciate every opportunity that they have given me, and it has been a wonderful experience working with them. 
 
-<ul><li><a href="https://appoftheday.downloadastro.com/app/highbox-password-manager-passphrases-hash-qr/" target="_blank">INTERVIEW</a></li></ul>
-
+<p><ul><li><a href="https://appoftheday.downloadastro.com/app/highbox-password-manager-passphrases-hash-qr/" target="_blank">INTERVIEW</a></li></ul></p>
 <br>
 
 

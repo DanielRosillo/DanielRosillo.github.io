@@ -120,6 +120,6 @@ MIT LICENSE.<br />
 Russell, S., Norving, P. 2010. Artificial Intelligence A modern Approach. Third Edition. Pearson Education.<br />
 Rafael Alberto Moreno Parra 2016. Redes Neuronales parte 1.<br />
 <br />
-<p>Fraternalmente I.I Daniel Rosillo;</p>
-- Project Manager at Rosillo Labs
+<p><strong>Fraternalmente I.I. Daniel Rosillo;</strong><br>
+- Project Manager in Rosillo Labs</p>
 <div style='clear: both;'></div>
