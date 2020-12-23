@@ -158,5 +158,5 @@ Comparado con otros algoritmos de búsqueda no Informada..<br />
 FRATERNALMENTE :</div>
 <div>
 <p>Fraternalmente I.I Daniel Rosillo;</p>
-- Project Manager at Rosillo Labs;
+- Project Manager at Rosillo Labs
 <br />

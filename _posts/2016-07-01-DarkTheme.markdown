@@ -106,4 +106,4 @@ mDefaultPreferences.edit ().putBoolean ("dark_mode", false).apply ();<br />
                      </div>
 <br>
 <p>Fraternalmente I.I Daniel Rosillo;</p>
-- Project Manager at Rosillo Labs;
+- Project Manager at Rosillo Labs

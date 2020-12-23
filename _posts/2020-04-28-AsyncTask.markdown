@@ -59,4 +59,4 @@ https://docs.oracle.com/javase/7/docs/api/java/util/concurrent/Future.html">Docu
 <br>
 <br>
 <p>Fraternalmente I.I Daniel Rosillo;</p>
-- Project Manager at Rosillo Labs;
+- Project Manager at Rosillo Labs

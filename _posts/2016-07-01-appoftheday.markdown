@@ -19,5 +19,5 @@ image: /img/interview.jpg
 
 
 
-<p><strong>Fraternalmente I.I. Daniel Rosillo;</strong></p>
-- Project Manager in Rosillo Labs;
+<p><strong>Fraternalmente I.I. Daniel Rosillo;</strong>
+- Project Manager in Rosillo Labs</p>
