@@ -11,12 +11,12 @@ image: /img/interview.jpg
 ---
 <div style="text-align: justify;">
 <br>
-<p>I had an interview with <strong>Farhan Karim</strong> from App of the Day to know my experiences about Highbox, I appreciate every opportunity that they have given me, and it has been a wonderful experience working with them. 
+<p>I had an interview with <strong>Farhan Karim</strong> from "App of the Day" to know my experiences about Highbox, I appreciate every opportunity that they have given me, and it has been a wonderful experience working with them. 
 
 <p><ul><li><a href="https://appoftheday.downloadastro.com/app/highbox-password-manager-passphrases-hash-qr/" target="_blank">INTERVIEW</a></li></ul></p>
 <br>
 
-<p><a href="https://appoftheday.downloadastro.com/" target="_blank">AppOfTheDay</a></p>
+<p><a href="https://appoftheday.downloadastro.com/" target="_blank">App of the day</a></p>
 <br>
 
 <p><strong>Fraternalmente I.I. Daniel Rosillo;</strong><br>
