@@ -3,18 +3,21 @@ layout:     post
 title:      "Interview with Daniel Rosillo"
 date:       2020-12-22 00:17:40
 author:     "Daniel Rosillo"
-header-img: "img/2752814.jpg"
+header-img: "img/interview.jpg"
 description: Interview with Daniel Rosillo, project manager in Rosillo Labs.
 categories: Quick
-image: /img/2752814.jpg
+image: /img/interview.jpg
 
 ---
 <div style="text-align: justify;">
 <br>
-<p>I had an interview with Farhan Karim from App of the Day to know my background experiences about Highbox, I appreciate every opportunity that they have given me, and it has been a wonderful experience working with them. 
+<p>I had an interview with <strong>Farhan Karim</strong> from App of the Day to know my background experiences about Highbox, I appreciate every opportunity that they have given me, and it has been a wonderful experience working with them. 
+
+<ul><li><a href="https://appoftheday.downloadastro.com/app/highbox-password-manager-passphrases-hash-qr/" target="_blank">INTERVIEW</a></li></ul>
+
 <br>
 
 
 
-<p>Fraternalmente Daniel Rosillo;</p>
--Manager at Rosillo Labs;
+<p><strong>Fraternalmente I.I. Daniel Rosillo;</strong></p>
+- Project Manager in Rosillo Labs;

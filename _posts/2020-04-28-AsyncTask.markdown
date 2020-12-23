@@ -58,5 +58,5 @@ https://docs.oracle.com/javase/7/docs/api/java/util/concurrent/Future.html">Docu
 <a href="https://github.com/ReactiveX/RxJava ">Link con la guía de implementación</a>
 <br>
 <br>
-<p>Fraternalmente Daniel Rosillo;<br>
--Manager at Rosillo Labs;
+<p>Fraternalmente I.I Daniel Rosillo;</p>
+- Project Manager at Rosillo Labs;

@@ -91,6 +91,6 @@ Highbox está disponible de forma gratuita en la Playstore y solo requiere Andro
                      <a class="badge-link" aling="center"><img src="/img/qr.png" alt=""></a>
                     
                     <br>
-<i>Fraternalmente Daniel Rosillo;</i>
--Manager at Rosillo Labs;
+<p>Fraternalmente I.I Daniel Rosillo;</p>
+- Project Manager at Rosillo Labs;
 <div style='clear: both;'></div>
