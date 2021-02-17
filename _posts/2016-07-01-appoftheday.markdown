@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Interview with Daniel Rosillo"
+title:      "Interview with Farhan Karim"
 date:       2020-12-22 00:17:40
 author:     "Daniel Rosillo"
 header-img: "img/interview.jpg"
