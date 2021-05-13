@@ -71,4 +71,4 @@ This policy is effective as of 2021-05-13
 **Contact Us**
 
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at Manager@rosillolabs.com or Support@rosillolabs.com
-[Terms & Conditions](https://www.google.com/policies/privacy/)
+[Terms & Conditions](https://rosillolabs.com/legal/2021/05/13/termsGEA/)
