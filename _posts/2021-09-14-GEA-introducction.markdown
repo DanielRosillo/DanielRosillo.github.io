@@ -14,12 +14,12 @@ image: /img/interview.jpg
 <p>GEA Garden es una increíble aplicación para smartphones Android que te permite llevar el control de plantas y flores del hogar o incluso un jardín completo, todo desde la palma de tu mano con una interfaz simple e intuitiva, todos los cuidados funcionan como una alarma, así que solo basta con configurar una fechar y hora y seras notificado automáticamente en dicha fecha sobre el cuidado configurado. cuenta con las siguientes características.</p>
 
 <h3>*CARACTERÍSTICAS*</h3>
-<p>- Controla todas las plantas, flores e incluso tu jardín.
-<p>- Programa notificaciones periódicas por cuidado.
-<p>- 7 tipos de cuidados diferentes (Riego, Fumigar, Trasplantar, Composta, Fertilizar, Poda y Cambio de ubicación)
-<p>- Notas.
-<p>- Ficha personalizada por plantas.
-<p>- Favoritos.
+&#8226;&nbsp;&nbsp;&nbsp;<p> Controla todas las plantas, flores e incluso tu jardín.
+&#8226;&nbsp;&nbsp;&nbsp;<p> Programa notificaciones periódicas por cuidado.
+&#8226;&nbsp;&nbsp;&nbsp;<p> 7 tipos de cuidados diferentes (Riego, Fumigar, Trasplantar, Composta, Fertilizar, Poda y Cambio de ubicación)
+&#8226;&nbsp;&nbsp;&nbsp;<p> Notas.
+&#8226;&nbsp;&nbsp;&nbsp;<p> Ficha personalizada por plantas.
+&#8226;&nbsp;&nbsp;&nbsp;<p> Favoritos.
 
 
 <br>
