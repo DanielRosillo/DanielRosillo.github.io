@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "GEA Garden - Una Increible App de Android para Cuidar Tus Plantas y Gardín"
+title:      "GEA Garden: Una Increible App de Android para Cuidar Tus Plantas y Gardín"
 date:       2021-09-14 00:17:40
 author:     "Daniel Rosillo"
 header-img: "img/modelobanner2espaol.png"
@@ -11,15 +11,15 @@ image: /img/interview.jpg
 ---
 <div style="text-align: justify;">
 <br>
-<p>I had an interview with <strong>Farhan Karim</strong> from "App of the Day", to know my experiences about Highbox, I appreciate every opportunity that they have given me, and it has been a wonderful experience working with them. 
+<p>GEA Garden es una increíble aplicación para smartphones Android que te permite llevar el control de plantas y flores del hogar o incluso un jardín completo, todo desde la palma de tu mano con una interfaz simple e intuitiva, todos los cuidados funcionan como una alarma, así que solo basta con configurar una fechar y hora y seras notificado automáticamente en dicha fecha sobre el cuidado configurado. cuenta con las siguientes características.</p>
 
-<strong><ul><li><a href="https://appoftheday.downloadastro.com/app/highbox-password-manager-passphrases-hash-qr/" target="_blank">INTERVIEW</a></li></ul></strong>
 
-<h1>Descargar Ahora</h1>
+<h3>Descargar Ahora</h3>
 
  <div class="badges">
                     <a class="badge-link" href="https://play.google.com/store/apps/details?id=rosillolabs.development.garden_plant_cares"><img src="/img/google-play-badge.svg" alt="" class="img-responsive"></a>
                      </div>
-
+<br>
+<br>
 <p><strong>Fraternalmente I.I. Daniel Rosillo;</strong><br>
-- Project Manager in Rosillo Labs</p>
+<p>- Project Manager in Rosillo Labs</p>
