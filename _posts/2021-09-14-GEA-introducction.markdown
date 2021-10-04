@@ -3,10 +3,10 @@ layout:     post
 title:      "GEA Garden: Una Increible App de Android para Cuidar Tus Plantas y Gardín"
 date:       2021-09-14 00:17:40
 author:     "Daniel Rosillo"
-header-img: "img/modelobanner2espaol.png"
+header-img: "img/GEA-IMG.jpg"
 description: Aplicación Android para el cuidado del jardín, plantas y flores en el hogar.
 categories: Quick
-image: /img/interview.jpg
+image: img/GEA-IMG.jpg
 
 ---
 <div style="text-align: justify;">
