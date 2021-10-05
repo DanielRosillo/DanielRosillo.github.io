@@ -11,7 +11,7 @@ image: img/GEA-IMG.jpg
 ---
 <div style="text-align: justify;">
 <br>
-<p>GEA Garden es una increíble aplicación para smartphones Android que te permite llevar el control de plantas y flores del hogar o incluso un jardín completo, todo desde la palma de tu mano con una interfaz simple e intuitiva, todos los cuidados funcionan como una alarma, así que solo basta con configurar una fechar y hora y seras notificado automáticamente en dicha fecha sobre el cuidado configurado. cuenta con las siguientes características.</p>
+<p>GEADEX es una increíble aplicación para smartphones Android que te permite llevar el control de plantas y flores del hogar o incluso un jardín completo, todo desde la palma de tu mano con una interfaz simple e intuitiva, todos los cuidados funcionan como una alarma, así que solo basta con configurar una fechar y hora y seras notificado automáticamente en dicha fecha sobre el cuidado configurado. cuenta con las siguientes características.</p>
 
 <h3>*CARACTERÍSTICAS*</h3>
 &#8226;&nbsp;&nbsp;&nbsp; Controla todas las plantas, flores e incluso tu jardín.<br>
