@@ -15,7 +15,7 @@ image: img/GEA-IMG.jpg
 
 <h3>*FEATURESD*</h3>
 
-&#8226;&nbsp;&nbsp;&nbsp; Control all the plants, flowers and even your garden.<br>
+&#8226;&nbsp;&nbsp;&nbsp; Management all your plants, flowers and even your garden.<br>
 &#8226;&nbsp;&nbsp;&nbsp; Care Alarms.<br>
 &#8226;&nbsp;&nbsp;&nbsp; Seven different kind of care (Irrigation, Fumigation, Transplant, Compost, Fertilization, Pruning and Change of location)<br>
 &#8226;&nbsp;&nbsp;&nbsp; Notes.<br>
