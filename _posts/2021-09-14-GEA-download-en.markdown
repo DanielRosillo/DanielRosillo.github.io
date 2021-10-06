@@ -4,7 +4,7 @@ title:      "GEADEX a beautiful app to care your plants in android"
 date:       2021-09-14 00:17:40
 author:     "Daniel Rosillo"
 header-img: "img/GEA-IMG.jpg"
-description: Manage your flowers, houseplants and your entire garden with time schedules.
+description: Management your flowers, houseplants and your entire garden with time schedules.
 categories: Quick
 image: img/GEA-IMG.jpg
 
