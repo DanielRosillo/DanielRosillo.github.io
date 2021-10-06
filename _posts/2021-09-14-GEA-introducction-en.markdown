@@ -13,7 +13,7 @@ image: img/GEA-IMG.jpg
 <br>
 <p>GEADEX is wonderful application that allow you management all things about plants also you can be notified for anything care that you schedule for one plant.</p>
 
-<h3>*FEATURESD*</h3>
+<h3>*FEATURES*</h3>
 
 &#8226;&nbsp;&nbsp;&nbsp; Management all your plants, flowers and even your garden.<br>
 &#8226;&nbsp;&nbsp;&nbsp; Care Alarms.<br>
