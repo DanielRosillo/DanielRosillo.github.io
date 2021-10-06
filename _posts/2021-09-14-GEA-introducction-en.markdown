@@ -29,7 +29,7 @@ image: img/GEA-IMG.jpg
 
 <br>
 <br>
-<h3>DESCARGAR GRATIS</h3>
+<h3>DOWNLOAD FOR FREE</h3>
  <div class="badges">
                     <a class="badge-link" href="https://play.google.com/store/apps/details?id=rosillolabs.development.garden_plant_cares"><img src="/img/google-play-badge.svg" alt="" class="img-responsive"></a>
                      </div>
