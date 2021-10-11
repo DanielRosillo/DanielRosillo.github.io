@@ -11,7 +11,7 @@ image: /img/interview.jpg
 ---
 <div style="text-align: justify;">
 <br>
-<p>I interviewed with <strong>Farhan Karim</strong>, from "App of the Day", to know my experiences about GEADEX deveopment, I appreciate every opportunity that they have given me, and it has been a wonderful experience share my time with them. 
+<p>I interviewed with <strong>Farhan Karim</strong>, from "App of the Day", to know my experiences about GEADEX development, I appreciate every opportunity that they have given me, and it has been a wonderful experience share my time with them. 
 
 <strong><ul><li><a href="https://appoftheday.downloadastro.com/app/geadex-water-reminder-houseplant-care/" target="_blank">INTERVIEW</a></li></ul></strong>
 
