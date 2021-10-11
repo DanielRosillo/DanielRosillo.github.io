@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Interview about GEADEX App"
-date:       2020-12-22 00:17:40
+date:       2021-10-10 00:17:40
 author:     "Daniel Rosillo"
 header-img: "img/interview.jpg"
 description: Interview with Daniel Rosillo, project manager in Rosillo Labs.
