@@ -12,7 +12,7 @@ image: img/GEA-IMG.jpg
 <div style="text-align: justify;">
 <br>
 
-<b><h3>*¿Cómo programar una tarea para mi planta?*</h3></b>
+<b><h3>¿Cómo programar una tarea para mi planta?</h3></b>
 <p>PASO 1: Navega hasta la pestaña de tu planta y presiona el icono de modificar.</p>
 <a href="https://ibb.co/BsGpNbh"><img src="https://i.ibb.co/BsGpNbh/Screenshot-20211124-094005-Geadex.png" alt="Screenshot-20211124-094005-Geadex" border="0"></a>
 
@@ -28,7 +28,7 @@ image: img/GEA-IMG.jpg
 <a href="https://ibb.co/xYX490b"><img src="https://i.ibb.co/xYX490b/Screenshot-20211124-094143-Geadex.png" alt="Screenshot-20211124-094143-Geadex" border="0"></a>
 <br>
 <br>
-<h3>*¿Comó completar una tarea?*</h3>
+<h3>¿Comó completar una tarea?</h3>
 <p>Si quieres seguir recibiendo notificaciones debes completar las tareas que aparecerán en la aplicación según pasa el tiempo, esto reprograma la alarma y te permite mantener el ritmo una vez que se te notifica un ciclo, sino se completan las tareas Geadex solo avisara una única vez del cuidado y no lo hará más hasta que se complete la tarea.</p>
 
 <p>PASO 1: Navega hasta la pestaña de tareas desde el menu principal.</p>
@@ -41,6 +41,8 @@ image: img/GEA-IMG.jpg
 <p>PASO 4: Presiona "Cerrar", ¡Listo! ya se ha reprogramado la tarea y seras notificado la proxma vez que se cumpla el ciclo.</p>
 <a href="https://ibb.co/chHybSF"><img src="https://i.ibb.co/chHybSF/Screenshot-20211124-115421-Geadex.png" alt="Screenshot-20211124-115421-Geadex" border="0"></a>
 <br>
+<br>
+
 <h3>*¿Comó cancelar todas las tareas?*</h3>
 <p>PASO 1: Navega hasta la pestaña de tu planta y presiona el icono de modificar alarmas.</p>
 <p>PASO 2: Selecciona la opcion "Limpiar horarios" y despues en "Si".</p>
