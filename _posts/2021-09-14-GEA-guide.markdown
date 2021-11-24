@@ -17,9 +17,15 @@ image: img/GEA-IMG.jpg
 <a href="https://ibb.co/BsGpNbh"><img src="https://i.ibb.co/BsGpNbh/Screenshot-20211124-094005-Geadex.png" alt="Screenshot-20211124-094005-Geadex" border="0"></a>
 
 <p>PASO 2: Navega hasta la sección "Cuidado Periódico" y activa los cuidados que necesites.</p>
+<a href="https://ibb.co/ww6fjQY"><img src="https://i.ibb.co/ww6fjQY/Screenshot-20211124-094047-Geadex.png" alt="Screenshot-20211124-094047-Geadex" border="0"></a>
+
 <p>PASO 3: Por cada cuidado activado se habilitará una sección de configuración para el mismo, navega a cada una y establece el ciclo en días de cada cuidado y la hora exacta a la quieres ser notificado.</p>
+<a href="https://ibb.co/92Rtrx6"><img src="https://i.ibb.co/92Rtrx6/Screenshot-20211124-094058-Geadex.png" alt="Screenshot-20211124-094058-Geadex" border="0"></a>
+
 <p>PASO 4: Presiona el botón "GUARDAR", ¡Felicidades ya están listas tus tareas!</p>
+
 <p>NOTA: Puedes consultar los horarios en la pestaña de la planta.</p>
+<a href="https://ibb.co/xYX490b"><img src="https://i.ibb.co/xYX490b/Screenshot-20211124-094143-Geadex.png" alt="Screenshot-20211124-094143-Geadex" border="0"></a>
 
 <h3>*¿Comó completar una tarea?*</h3>
 <p>Si quieres seguir recibiendo notificaciones debes completar la tareas que apareceran en la aplicacion segun pasa el tiempo, esto reprograma la alarma y te permite mantener el ritmo una vez que se te notifica un ciclo, sino se completan las tareas Geadex solo avisara una unica vez del cuidado y no lo hara mas hasta que se complete la tarea.</p>
