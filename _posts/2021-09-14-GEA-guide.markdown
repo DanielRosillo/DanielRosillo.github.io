@@ -14,8 +14,6 @@ image: img/GEA-IMG.jpg
 
 <h3>*¿Cómo programar una tarea para mi planta?*</h3>
 <p>PASO 1: Navega hasta la pestaña de tu planta y presiona el icono de modificar.</p>
-[url=https://ibb.co/BsGpNbh][img]https://i.ibb.co/BsGpNbh/Screenshot-20211124-094005-Geadex.png[/img][/url]
-
 <a href="https://ibb.co/BsGpNbh"><img src="https://i.ibb.co/BsGpNbh/Screenshot-20211124-094005-Geadex.png" alt="Screenshot-20211124-094005-Geadex" border="0"></a>
 
 <p>PASO 2: Navega hasta la sección "Cuidado Periódico" y activa los cuidados que necesites.</p>
