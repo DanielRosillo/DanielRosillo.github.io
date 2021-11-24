@@ -1,0 +1,81 @@
+---
+layout:     post
+title:      "GEADEX - Guía rápida para Programar Tareas"
+date:       2021-11-24 00:00:00
+author:     "Daniel Rosillo"
+header-img: "img/GEA-IMG.jpg"
+description: Geadex permite Programar hasta 7 cuidados diferentes para cada planta, esta guía te enseña cómo hacerlo.
+categories: Quick
+image: img/GEA-IMG.jpg
+
+---
+<div style="text-align: justify;">
+<br>
+
+<h3>*¿Cómo programar una tarea para mi planta?*</h3>
+<p>PASO 1: Navega hasta la pestaña de tu planta y presiona el icono de modificar.</p>
+[url=https://ibb.co/BsGpNbh][img]https://i.ibb.co/BsGpNbh/Screenshot-20211124-094005-Geadex.png[/img][/url]
+
+<a href="https://ibb.co/BsGpNbh"><img src="https://i.ibb.co/BsGpNbh/Screenshot-20211124-094005-Geadex.png" alt="Screenshot-20211124-094005-Geadex" border="0"></a>
+
+<p>PASO 2: Navega hasta la sección "Cuidado Periódico" y activa los cuidados que necesites.</p>
+<p>PASO 3: Por cada cuidado activado se habilitará una sección de configuración para el mismo, navega a cada una y establece el ciclo en días de cada cuidado y la hora exacta a la quieres ser notificado.</p>
+<p>PASO 4: Presiona el botón "GUARDAR", ¡Felicidades ya están listas tus tareas!</p>
+<p>NOTA: Puedes consultar los horarios en la pestaña de la planta.</p>
+
+<h3>*¿Comó completar una tarea?*</h3>
+<p>Si quieres seguir recibiendo notificaciones debes completar la tareas que apareceran en la aplicacion segun pasa el tiempo, esto reprograma la alarma y te permite mantener el ritmo una vez que se te notifica un ciclo, sino se completan las tareas Geadex solo avisara una unica vez del cuidado y no lo hara mas hasta que se complete la tarea.</p>
+
+<p>PASO 1: Navega hasta la pestaña de tareas desde el menu principal.</p>
+<p>PASO 2: Verifica las tareas disponibles, si la fecha de la tarea ya paso esta se mostrara en rojo.</p>
+<p>PASO 3: Selecciona la tarea que quieres completar y presiona en "Completar" y despues en "Continuar".</p>
+<p>PASO 4: Presiona "Cerrar", ¡Listo! ya se ha reprogramado la tarea y seras notificado la proxma vez que se cumpla el ciclo.</p>
+
+<h3>*¿Comó cancelar todas las tareas?*</h3>
+<p>PASO 1: Navega hasta la pestaña de tu planta y presiona el icono de modificar alarmas.</p>
+<p>PASO 2: Selecciona la opcion "Limpiar horarios" y despues en "Si".</p>
+<p>PASO 3: ¡Listo! se cancelaron todas las tareas programadas para esa planta.</p>
+
+<h3>*¿Comó cancelar una tarea?*</h3>
+<p>PASO 1: Navega hasta la pestaña de tu planta y presiona el icono de modificar.</p>
+<p>PASO 2: Navega hasta la seccion cuidado automatico y desactiva los cuidados que no necesites.</p>
+<p>PASO 3: ¡Listo! se cancelaron las tareas seleccionadas.</p>
+
+<h3>*¿Comó modificar una tarea?*</h3>
+<p>PASO 1: Navega hasta la pestaña de tu planta y presiona el icono de modificar.</p>
+<p>PASO 2: Navega hasta la seccion de cuidados automaticos y modifique segun requiera.</p>
+<p>PASO 5: Presion el boton guardar, ¡ Felicidades ya estan listas tus tareas!</p>
+
+
+<h3>*Dudas Frecuentes*</h3>
+
+<h2>¿Las tareas se desprograman al apagar y prender el dispositivo?</h2>
+<p>No, las tareas funcionan mediante el sistema de notificaciones de Android por lo que son persistentes a los reinicios.</p>
+
+<h2>¿Las notificaciones se muestran con bateria baja?</h2>
+<p>Sí, pero es posible que se presenten ciertos retrasdos no mayores a 2min.</p>
+
+<h2>¿Qué prioridad tienen las notificaciones?</h2>
+<p>Todas las notificaciones tienen prioridad normal o "default" a nivel sistema operativo.</p>
+
+<h2>¿Qué pasa sino completo una tarea?</h2>
+<p>Sí, segun se completan las tareas se va calculando las fechas de los proximos ciclos, al completar una tarea se reprograma y calcula la siguiente aplicacion en automatico, sino se completa la tarea este procedimiento no se realizare y dejara de recibir notificaciones.</p>
+
+<h2>¿Qué pasa sino completo una tarea?</h2>
+<p>Sí, segun se completan las tareas se va calculando las fechas de los proximos ciclos, al completar una tarea se reprograma y calcula la siguiente aplicacion en automatico, sino se completa la tarea este procedimiento no se realizare y dejara de recibir notificaciones.</p>
+
+
+<br>
+<br>
+<a href="https://ibb.co/y5CDWw0"><img src="https://i.ibb.co/y5CDWw0/modelobanner2espa-ol.png" alt="modelobanner2espa-ol" img class="img-responsive"></a>
+
+<br>
+<br>
+<h3>DESCARGAR GRATIS</h3>
+ <div class="badges">
+                    <a class="badge-link" href="https://play.google.com/store/apps/details?id=rosillolabs.development.garden_plant_cares"><img src="/img/google-play-badge.svg" alt="" class="img-responsive"></a>
+                     </div>
+<br>
+<br>
+<p><strong>Fraternalmente I.I. Daniel Rosillo;</strong><br>
+<p>- Project Manager in Rosillo Labs</p>
