@@ -55,10 +55,16 @@ image: img/GEA-IMG.jpg
 <br>
 <br>
 
-<h3>*¿Comó cancelar una tarea?*</h3>
+<h1>*¿Cómo cancelar una tarea?*</h1>
 <p>PASO 1: Navega hasta la pestaña de tu planta y presiona el icono de modificar.</p>
+<a href="https://ibb.co/BsGpNbh"><img src="https://i.ibb.co/BsGpNbh/Screenshot-20211124-094005-Geadex.png" alt="Screenshot-20211124-094005-Geadex" border="0"></a>
+
 <p>PASO 2: Navega hasta la seccion cuidado automatico y desactiva los cuidados que no necesites.</p>
-<p>PASO 3: ¡Listo! se cancelaron las tareas seleccionadas.</p>
+<a href="https://ibb.co/ww6fjQY"><img src="https://i.ibb.co/ww6fjQY/Screenshot-20211124-094047-Geadex.png" alt="Screenshot-20211124-094047-Geadex" border="0"></a>
+
+<p>PASO 3: Presiona el botón "GUARDAR", ¡Listo! se cancelaron las tareas seleccionadas.</p>
+<br>
+<br>
 
 <h3>*¿Comó modificar una tarea?*</h3>
 <p>PASO 1: Navega hasta la pestaña de tu planta y presiona el icono de modificar.</p>
