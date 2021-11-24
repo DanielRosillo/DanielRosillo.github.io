@@ -28,12 +28,17 @@ image: img/GEA-IMG.jpg
 <a href="https://ibb.co/xYX490b"><img src="https://i.ibb.co/xYX490b/Screenshot-20211124-094143-Geadex.png" alt="Screenshot-20211124-094143-Geadex" border="0"></a>
 
 <h3>*¿Comó completar una tarea?*</h3>
-<p>Si quieres seguir recibiendo notificaciones debes completar la tareas que apareceran en la aplicacion segun pasa el tiempo, esto reprograma la alarma y te permite mantener el ritmo una vez que se te notifica un ciclo, sino se completan las tareas Geadex solo avisara una unica vez del cuidado y no lo hara mas hasta que se complete la tarea.</p>
+<p>Si quieres seguir recibiendo notificaciones debes completar las tareas que aparecerán en la aplicación según pasa el tiempo, esto reprograma la alarma y te permite mantener el ritmo una vez que se te notifica un ciclo, sino se completan las tareas Geadex solo avisara una única vez del cuidado y no lo hará más hasta que se complete la tarea.</p>
 
 <p>PASO 1: Navega hasta la pestaña de tareas desde el menu principal.</p>
 <p>PASO 2: Verifica las tareas disponibles, si la fecha de la tarea ya paso esta se mostrara en rojo.</p>
-<p>PASO 3: Selecciona la tarea que quieres completar y presiona en "Completar" y despues en "Continuar".</p>
+<a href="https://ibb.co/pvthw16"><img src="https://i.ibb.co/pvthw16/Screenshot-20211124-115353-Geadex.png" alt="Screenshot-20211124-115353-Geadex" border="0"></a>
+
+<p>PASO 3: Selecciona la tarea que quieres completar y presiona en "COMPLETAR" y despues en "CONTINUAR".</p>
+<a href="https://ibb.co/SsZ64PJ"><img src="https://i.ibb.co/SsZ64PJ/Screenshot-20211124-115359-Geadex.png" alt="Screenshot-20211124-115359-Geadex" border="0"></a>
+
 <p>PASO 4: Presiona "Cerrar", ¡Listo! ya se ha reprogramado la tarea y seras notificado la proxma vez que se cumpla el ciclo.</p>
+<a href="https://ibb.co/chHybSF"><img src="https://i.ibb.co/chHybSF/Screenshot-20211124-115421-Geadex.png" alt="Screenshot-20211124-115421-Geadex" border="0"></a>
 
 <h3>*¿Comó cancelar todas las tareas?*</h3>
 <p>PASO 1: Navega hasta la pestaña de tu planta y presiona el icono de modificar alarmas.</p>
