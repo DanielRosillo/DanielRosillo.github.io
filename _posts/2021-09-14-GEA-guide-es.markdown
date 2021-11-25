@@ -55,7 +55,7 @@ image: img/GEA-IMG.jpg
 <br>
 <br>
 
-<h1>*¿Cómo cancelar una tarea?*</h1>
+<h1>¿Cómo cancelar una tarea?</h1>
 <p>PASO 1: Navega hasta la pestaña de tu planta y presiona el icono de modificar.</p>
 <a href="https://ibb.co/BsGpNbh"><img src="https://i.ibb.co/BsGpNbh/Screenshot-20211124-094005-Geadex.png" alt="Screenshot-20211124-094005-Geadex" border="0"></a>
 <br>
@@ -66,11 +66,16 @@ image: img/GEA-IMG.jpg
 <br>
 <br>
 
-<h3>*¿Comó modificar una tarea?*</h3>
+<h3>¿Cómo modificar una tarea?</h3>
 <p>PASO 1: Navega hasta la pestaña de tu planta y presiona el icono de modificar.</p>
-<p>PASO 2: Navega hasta la seccion de cuidados automaticos y modifique segun requiera.</p>
-<p>PASO 5: Presion el boton guardar, ¡ Felicidades ya estan listas tus tareas!</p>
-
+<a href="https://ibb.co/BsGpNbh"><img src="https://i.ibb.co/BsGpNbh/Screenshot-20211124-094005-Geadex.png" alt="Screenshot-20211124-094005-Geadex" border="0"></a>
+<br>
+<p>PASO 2: Navega hasta el horario que requieres modificar.</p>
+<a href="https://ibb.co/92Rtrx6"><img src="https://i.ibb.co/92Rtrx6/Screenshot-20211124-094058-Geadex.png" alt="Screenshot-20211124-094058-Geadex" border="0"></a>
+<br>
+<p>PASO 3: Presion el boton guardar, ¡ Felicidades ya estan listas tus tareas!</p>
+<br>
+<br>
 
 <h3>*Dudas Frecuentes*</h3>
 
