@@ -83,14 +83,14 @@ image: img/GEA-IMG.jpg
 <h2>¿Las tareas se desprograman al apagar y prender el dispositivo?</h2>
 <p>No, las tareas funcionan mediante el sistema de notificaciones de Android por lo que son persistentes a los reinicios.</p>
 
-<h2>¿Las notificaciones se muestran con bateria baja?</h2>
-<p>Sí, pero es posible que se presenten ciertos retrasdos no mayores a 2min.</p>
+<h2>¿Las notificaciones se muestran con batería baja?</h2>
+<p>Sí, pero es posible que se presenten ciertos retrasos no mayores a 5 minutos.</p>
 
 <h2>¿Qué prioridad tienen las notificaciones?</h2>
 <p>Todas las notificaciones tienen prioridad normal o "default" a nivel sistema operativo.</p>
 
 <h2>¿Qué pasa sino completo una tarea?</h2>
-<p>Segun se completan las tareas se va calculando las fechas de los proximos ciclos, al completar una tarea se reprograma la siguiente aplicacion en automatico, sino se completa la tarea este procedimiento no se realizara y dejara de recibir notificaciones.</p>
+<p>Según se completan las tareas se va calculando las fechas de los próximos ciclos, al completar una tarea se reprograma la siguiente aplicación en automático, sino se completa la tarea este procedimiento no se realizará y dejara de recibir notificaciones.</p>
 
 <br>
 <br>
