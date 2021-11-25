@@ -66,7 +66,7 @@ image: img/GEA-IMG.jpg
 <br>
 <br>
 
-<h3>¿Cómo modificar una tarea?</h3>
+<h1>¿Cómo modificar una tarea?</h1>
 <p>PASO 1: Navega hasta la pestaña de tu planta y presiona el icono de modificar.</p>
 <a href="https://ibb.co/BsGpNbh"><img src="https://i.ibb.co/BsGpNbh/Screenshot-20211124-094005-Geadex.png" alt="Screenshot-20211124-094005-Geadex" border="0"></a>
 <br>
@@ -77,7 +77,7 @@ image: img/GEA-IMG.jpg
 <br>
 <br>
 
-<h3>*Dudas Frecuentes*</h3>
+<h1>Dudas Frecuentes</h1>
 
 <h2>¿Las tareas se desprograman al apagar y prender el dispositivo?</h2>
 <p>No, las tareas funcionan mediante el sistema de notificaciones de Android por lo que son persistentes a los reinicios.</p>
