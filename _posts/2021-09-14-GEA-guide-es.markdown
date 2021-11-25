@@ -9,6 +9,7 @@ categories: Quick
 image: img/GEA-IMG.jpg
 
 ---
+
 <div style="text-align: justify;">
 <br>
 
@@ -73,7 +74,7 @@ image: img/GEA-IMG.jpg
 <p>PASO 2: Navega hasta el horario que requieres modificar.</p>
 <a href="https://ibb.co/92Rtrx6"><img src="https://i.ibb.co/92Rtrx6/Screenshot-20211124-094058-Geadex.png" alt="Screenshot-20211124-094058-Geadex" border="0"></a>
 <br>
-<p>PASO 3: Presion el boton guardar, ¡ Felicidades ya estan listas tus tareas!</p>
+<p>PASO 3: Presion el boton guardar, ¡Felicidades ya estan listas tus tareas!</p>
 <br>
 <br>
 
@@ -89,11 +90,7 @@ image: img/GEA-IMG.jpg
 <p>Todas las notificaciones tienen prioridad normal o "default" a nivel sistema operativo.</p>
 
 <h2>¿Qué pasa sino completo una tarea?</h2>
-<p>Sí, segun se completan las tareas se va calculando las fechas de los proximos ciclos, al completar una tarea se reprograma y calcula la siguiente aplicacion en automatico, sino se completa la tarea este procedimiento no se realizare y dejara de recibir notificaciones.</p>
-
-<h2>¿Qué pasa sino completo una tarea?</h2>
-<p>Sí, segun se completan las tareas se va calculando las fechas de los proximos ciclos, al completar una tarea se reprograma y calcula la siguiente aplicacion en automatico, sino se completa la tarea este procedimiento no se realizare y dejara de recibir notificaciones.</p>
-
+<p>Segun se completan las tareas se va calculando las fechas de los proximos ciclos, al completar una tarea se reprograma la siguiente aplicacion en automatico, sino se completa la tarea este procedimiento no se realizara y dejara de recibir notificaciones.</p>
 
 <br>
 <br>
