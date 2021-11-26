@@ -30,7 +30,7 @@ image: img/GEA-IMG.jpg
 <br>
 <br>
 <h1>¿Cómo completar una tarea?</h1>
-<p>Si quieres seguir recibiendo notificaciones debes completar las tareas que aparecerán en la aplicación según pasa el tiempo, esto reprograma la alarma y te permite mantener el ritmo una vez que se te notifica un ciclo, sino se completan las tareas Geadex solo avisara una única vez del cuidado y no lo hará más hasta que se complete la tarea.</p>
+<p>Si quieres seguir recibiendo notificaciones debes completar las tareas que aparecerán en la aplicación según pasa el tiempo, esto reprograma la alarma y te permite mantener el ritmo una vez que se te notifica un ciclo, si no se completan las tareas Geadex solo avisara una única vez del cuidado y no lo hará más hasta que se complete la tarea.</p>
 
 <p>PASO 1: Navega hasta la pestaña de tareas desde el menu principal.</p>
 <p>PASO 2: Verifica las tareas disponibles, si la fecha de la tarea ya paso esta se mostrara en rojo.</p>
@@ -89,8 +89,8 @@ image: img/GEA-IMG.jpg
 <h2>¿Qué prioridad tienen las notificaciones?</h2>
 <p>Todas las notificaciones tienen prioridad normal o "default" a nivel sistema operativo.</p>
 
-<h2>¿Qué pasa sino completo una tarea?</h2>
-<p>Según se completan las tareas se va calculando las fechas de los próximos ciclos, al completar una tarea se reprograma la siguiente aplicación en automático, sino se completa la tarea este procedimiento no se realizará y dejara de recibir notificaciones.</p>
+<h2>¿Qué pasa si no completo una tarea?</h2>
+<p>Según se completan las tareas se va calculando las fechas de los próximos ciclos, al completar una tarea se reprograma la siguiente aplicación en automático, si no se completa la tarea este procedimiento no se realizará y dejara de recibir notificaciones.</p>
 
 <br>
 <br>
