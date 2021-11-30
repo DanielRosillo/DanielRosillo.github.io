@@ -99,8 +99,10 @@ image: img/GEA-IMG.jpg
 <h1>Problemas Conocidos en Dispositivos XIAOMI</h1>
 <p>La capa de personalización de estos dispositivos mantiene una política estricta de uso de apps en segundo plano por lo que GEADEX puede dejar de funcionar correctamente, la solución es desactivar la función "MIUI Optimization", en el menú de desarrollador.</p>
 
+<br>
+<br>
 
-<a href="https://ibb.co/y5CDWw0"><img src="https://i.ibb.co/y5CDWw0/modelobanner2espa-ol.png" alt="modelobanner2espa-ol" img class="img-responsive"></a>
+<a href="https://ibb.co/1R692BM"><img src="https://i.ibb.co/1R692BM/modelobanner2espa-ol.png" alt="modelobanner2espa-ol" border="0"></a>
 
 <br>
 <br>
