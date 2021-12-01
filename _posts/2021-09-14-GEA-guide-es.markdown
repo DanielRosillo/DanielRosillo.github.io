@@ -121,8 +121,10 @@ image: img/GEA-IMG.jpg
                      </div>
 <br>
 <br>
-<p>CONTACTAR A SOPORTE TÉCNICO</p>
-<a href="https://rosillolabs.com/#contact"></a>
+
+	
+
+<a href="https://rosillolabs.com/#contact">¿Dudas o sugerencias?, contacta con nosotros aquí</a>
 <br>
 <p><strong>Fraternalmente I.I. Daniel Rosillo;</strong><br>
 <p>- Project Manager in Rosillo Labs</p>
