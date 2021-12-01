@@ -106,7 +106,14 @@ image: img/GEA-IMG.jpg
 
 <br>
 <br>
-<h3>DESCARGAR GRATIS</h3>
+
+
+<h1>UNETE A NUESTRO BOLETÍN DE JARDINERÍA EN TELEGRAM </h1>
+<a href="https://msng.link/o/?https://t.me/geajardineria=tg">Envíame un mensaje en Telegram</a>
+
+<br>
+<br>
+<h3>DESCARGAR GEADEX GRATIS</h3>
  <div class="badges">
                     <a class="badge-link" href="https://play.google.com/store/apps/details?id=rosillolabs.development.garden_plant_cares"><img src="/img/google-play-badge.svg" alt="" class="img-responsive"></a>
                      </div>
