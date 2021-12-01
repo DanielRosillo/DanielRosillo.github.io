@@ -28,13 +28,6 @@ image: img/GEA-IMG.jpg
 
 <br>
 <br>
-<h3>DESCARGAR GRATIS</h3>
- <div class="badges">
-                    <a class="badge-link" href="https://play.google.com/store/apps/details?id=rosillolabs.development.garden_plant_cares"><img src="/img/google-play-badge.svg" alt="" class="img-responsive"></a>
-                     </div>
-
-<br>
-<br>
 
 
 <h2>UNETE A NUESTRO BOLETÍN DE JARDINERÍA EN TELEGRAM </h2>
