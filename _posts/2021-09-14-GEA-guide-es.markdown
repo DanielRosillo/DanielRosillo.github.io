@@ -109,7 +109,9 @@ image: img/GEA-IMG.jpg
 
 
 <h1>UNETE A NUESTRO BOLETÍN DE JARDINERÍA EN TELEGRAM </h1>
-<a href="https://msng.link/o/?https://t.me/geajardineria=tg">Envíame un mensaje en Telegram</a>
+ <div class="badges">
+                    <a class="badge-link" href="https://t.me/geajardineria"><img src="/img/Telegram.png" alt="" class="img-responsive"></a>
+                     </div>
 
 <br>
 <br>
