@@ -32,7 +32,30 @@ image: img/GEA-IMG.jpg
  <div class="badges">
                     <a class="badge-link" href="https://play.google.com/store/apps/details?id=rosillolabs.development.garden_plant_cares"><img src="/img/google-play-badge.svg" alt="" class="img-responsive"></a>
                      </div>
+
 <br>
 <br>
+
+
+<h2>UNETE A NUESTRO BOLETÍN DE JARDINERÍA EN TELEGRAM </h2>
+ <div class="badges">
+                    <a class="badge-link" href="https://t.me/geajardineria"><img src="/img/Telegram.png" alt="" class="img-responsive"></a>
+                     </div>
+
+<br>
+<br>
+<h2>DESCARGAR GEADEX GRATIS</h2>
+ <div class="badges">
+                    <a class="badge-link" href="https://play.google.com/store/apps/details?id=rosillolabs.development.garden_plant_cares"><img src="/img/google-play-badge.svg" alt="" class="img-responsive"></a>
+                     </div>
+<br>
+<br>
+
+	
+
+<a href="https://rosillolabs.com/#contact"><h2>¿Dudas o sugerencias?, contacta con nosotros aquí</h2></a>
+<br>
+<br>
+
 <p><strong>Fraternalmente I.I. Daniel Rosillo;</strong><br>
 <p>- Project Manager in Rosillo Labs</p>
