@@ -96,7 +96,7 @@ image: img/GEA-IMG.jpg
 <br>
 
 
-<h1>Problemas Conocidos en Dispositivos XIAOMI</h1>
+<h2>Problemas Conocidos en Dispositivos XIAOMI</h2>
 <p>La capa de personalización de estos dispositivos mantiene una política estricta de uso de apps en segundo plano por lo que GEADEX puede dejar de funcionar correctamente, la solución es desactivar la función "MIUI Optimization", en el menú de desarrollador.</p>
 
 <br>
@@ -108,14 +108,14 @@ image: img/GEA-IMG.jpg
 <br>
 
 
-<h1>UNETE A NUESTRO BOLETÍN DE JARDINERÍA EN TELEGRAM </h1>
+<h2>UNETE A NUESTRO BOLETÍN DE JARDINERÍA EN TELEGRAM </h2>
  <div class="badges">
                     <a class="badge-link" href="https://t.me/geajardineria"><img src="/img/Telegram.png" alt="" class="img-responsive"></a>
                      </div>
 
 <br>
 <br>
-<h3>DESCARGAR GEADEX GRATIS</h3>
+<h2>DESCARGAR GEADEX GRATIS</h2>
  <div class="badges">
                     <a class="badge-link" href="https://play.google.com/store/apps/details?id=rosillolabs.development.garden_plant_cares"><img src="/img/google-play-badge.svg" alt="" class="img-responsive"></a>
                      </div>
