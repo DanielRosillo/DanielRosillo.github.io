@@ -35,5 +35,6 @@ image: img/GEA-IMG.jpg
                      </div>
 <br>
 <br>
+
 <p><strong>Fraternalmente I.I. Daniel Rosillo;</strong><br>
-<p>- Project Manager in Rosillo Labs</p>
+<p>- Project Manager at Rosillo Labs</p>

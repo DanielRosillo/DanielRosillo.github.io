@@ -81,5 +81,6 @@ image: /img/8400.jpg
                      </div>
                      <br>
                    
+
 <p><strong>Fraternalmente I.I. Daniel Rosillo;</strong><br>
-- Project Manager in Rosillo Labs</p>
+<p>- Project Manager at Rosillo Labs</p>

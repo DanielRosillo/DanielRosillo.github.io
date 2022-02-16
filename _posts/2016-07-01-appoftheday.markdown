@@ -18,5 +18,6 @@ image: /img/interview.jpg
 <p><a href="https://appoftheday.downloadastro.com/" target="_blank">App of the day</a></p>
 <br>
 
+
 <p><strong>Fraternalmente I.I. Daniel Rosillo;</strong><br>
-- Project Manager in Rosillo Labs</p>
+<p>- Project Manager at Rosillo Labs</p>
