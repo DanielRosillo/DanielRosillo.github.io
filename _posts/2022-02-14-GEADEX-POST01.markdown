@@ -108,6 +108,17 @@ Es una planta muy cómoda porque no necesita demasiada agua y tampoco le importa
 
 <br>
 <br>
+<p>¿A veces olvidas regar tus plantas?
+¿Tus plantas mueren por las plagas?
+</p>
+<p>GEADEX es una increíble aplicación para smartphones Android que te permite llevar el control de plantas y flores del hogar o incluso un jardín completo, todo desde la palma de tu mano con una interfaz simple e intuitiva, todos los cuidados funcionan como una alarma, así que solo basta con configurar una fecha y hora y seras notificado automáticamente en dicha fecha sobre el cuidado configurado.</p>
+
+<h2>DESCARGAR GEADEX GRATIS</h2>
+ <div class="badges">
+                    <a class="badge-link" href="https://play.google.com/store/apps/details?id=rosillolabs.development.garden_plant_cares"><img src="/img/google-play-badge.svg" alt="" class="img-responsive"></a>
+                     </div>
+<br>
+<br>
 
 <a href="https://www.enestadocrudo.com/plantas-resistentes-frio/">
 CREDITOS
@@ -121,18 +132,7 @@ CREDITOS
 
 <br>
 <br>
-<h2>DESCARGAR GEADEX GRATIS</h2>
- <div class="badges">
-                    <a class="badge-link" href="https://play.google.com/store/apps/details?id=rosillolabs.development.garden_plant_cares"><img src="/img/google-play-badge.svg" alt="" class="img-responsive"></a>
-                     </div>
-<br>
-<br>
 
-	
-
-<a href="https://rosillolabs.com/#contact"><h2>¿Dudas o sugerencias?, contacta con nosotros aquí</h2></a>
-<br>
-<br>
 
 <p><strong>Fraternalmente I.I. Daniel Rosillo;</strong><br>
 <p>- Project Manager in Rosillo Labs</p>
