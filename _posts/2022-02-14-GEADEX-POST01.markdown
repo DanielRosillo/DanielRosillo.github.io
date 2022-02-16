@@ -1,0 +1,59 @@
+---
+layout:     post
+title:      "¡Estas son las plantas más resistentes al frio y calor!"
+date:       2022-02-14 00:00:00
+author:     "Daniel Rosillo"
+header-img: "img/GEA-IMG.jpg"
+description: Podar y regar nuestras plantas juega un papel muy importante en el exito o fracaso de las mismas, uno de los problemas es no contar con las herramientas necesarias para poder llevar un registro oportuno de su crecimiento.
+categories: Quick
+image: img/GEA-IMG.jpg
+
+---
+
+<div style="text-align: justify;">
+<br>
+<p>Las plantas son algo imprescindible para muchas personas. En la gran mayoría de hogares hay siempre alguna, ya sea de interior o de exterior, ya que, además de suponer un elemento que da más vida y color a una casa, también dan compañía y es precioso verlas crecer y evolucionar con el paso de los meses y los años.
+
+Aquí ya hablamos anteriormente de las plantas que te pueden ayudar a purificar el aire en el interior de tu casa. Pero, en esta ocasión, queremos adentrarnos en otro tipo de plantas: las de exterior.
+
+Como no todo el mundo tiene los mismos conocimientos y pericias para cuidarlas y, además, el cambio climático está alterando las estaciones, con calores y fríos más extremos que hace unos años, vamos a proponerte algunas de las plantas de exterior más resistentes al frío y al calor, para que te resulte más fácil cuidarlas y hacer que crezcan sanas y saludables.</p>
+
+<br>
+<h2>ADELFA</h2>
+<a href="https://ibb.co/8Y6hrgL"><img src="https://i.ibb.co/8Y6hrgL/Adelfa.jpg" alt="Adelfa" border="0"></a>
+
+
+<p>La adelfa es una de las plantas de exterior más resistentes a las temperaturas extremas. Se estima que puede resistir fríos y calores tan holgados como desde los 12° bajo cero hasta los 40°, por lo que se le puede considerar una planta verdaderamente resistente.
+
+Sus cuidados no son tampoco demasiado exigentes, y suele ser suficiente con regarla entre dos y tres veces por semana. Lo mejor es que, cuando llegan los meses más soleados, brotan unas maravillosas y coloreadas flores que hacen que luzca realmente espectacular.</p>
+<br>
+<br>
+<h2>LAVANDA</h2>
+<a href="https://ibb.co/ctnVRZd"><img src="https://i.ibb.co/ctnVRZd/Lavanda.jpg" alt="Lavanda" border="0"></a>
+<p>En realidad, hay varios tipos de lavanda, todas ellas de exterior y plantas resistentes en términos generales. Pero la que te queremos recomendar en esta ocasión es la variante originaria de las tierras de Francia e Italia que, además de muy bonita cuando florece, también tiene otros usos más medicinales.
+
+No necesita de demasiados cuidados y sobreviven con poco agua. También son bastante resistentes al frío, pero necesitan bastante luz solar para crecer del mejor modo. En condiciones óptimas, podrán superar con creces el metro de altura y lucirán de un modo genial en tu jardín exterior.</p>
+
+
+<h2>UNETE A NUESTRO BOLETÍN DE JARDINERÍA EN TELEGRAM </h2>
+ <div class="badges">
+                    <a class="badge-link" href="https://t.me/geajardineria"><img src="/img/Telegram.png" alt="" class="img-responsive"></a>
+                     </div>
+
+<br>
+<br>
+<h2>DESCARGAR GEADEX GRATIS</h2>
+ <div class="badges">
+                    <a class="badge-link" href="https://play.google.com/store/apps/details?id=rosillolabs.development.garden_plant_cares"><img src="/img/google-play-badge.svg" alt="" class="img-responsive"></a>
+                     </div>
+<br>
+<br>
+
+	
+
+<a href="https://rosillolabs.com/#contact"><h2>¿Dudas o sugerencias?, contacta con nosotros aquí</h2></a>
+<br>
+<br>
+
+<p><strong>Fraternalmente I.I. Daniel Rosillo;</strong><br>
+<p>- Project Manager in Rosillo Labs</p>
