@@ -131,5 +131,6 @@ Es una planta muy cómoda porque no necesita demasiada agua y tampoco le importa
 CREDITOS
 </a>
 <br>
+<br>
 <p><strong>Fraternalmente I.I. Daniel Rosillo;</strong><br>
 <p>- Project Manager at Rosillo Labs</p>
