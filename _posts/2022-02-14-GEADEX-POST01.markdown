@@ -4,7 +4,7 @@ title:      "¡Estas son las plantas más resistentes al frio y calor!"
 date:       2022-02-14 00:00:00
 author:     "Daniel Rosillo"
 header-img: "img/GEA-IMG.jpg"
-description: Podar y regar nuestras plantas juega un papel muy importante en el exito o fracaso de las mismas, uno de los problemas es no contar con las herramientas necesarias para poder llevar un registro oportuno de su crecimiento.
+description: Las plantas son algo imprescindible para muchas personas. En la gran mayoría de hogares hay siempre alguna, ya sea de interior o de exterior, ya que, además de suponer un elemento que da más vida y color a una casa, también dan compañía y es precioso verlas crecer y evolucionar con el paso de los meses y los años.
 categories: Quick
 image: img/GEA-IMG.jpg
 
@@ -13,8 +13,6 @@ image: img/GEA-IMG.jpg
 <div style="text-align: justify;">
 <br>
 <p>Las plantas son algo imprescindible para muchas personas. En la gran mayoría de hogares hay siempre alguna, ya sea de interior o de exterior, ya que, además de suponer un elemento que da más vida y color a una casa, también dan compañía y es precioso verlas crecer y evolucionar con el paso de los meses y los años.
-
-Aquí ya hablamos anteriormente de las plantas que te pueden ayudar a purificar el aire en el interior de tu casa. Pero, en esta ocasión, queremos adentrarnos en otro tipo de plantas: las de exterior.
 
 Como no todo el mundo tiene los mismos conocimientos y pericias para cuidarlas y, además, el cambio climático está alterando las estaciones, con calores y fríos más extremos que hace unos años, vamos a proponerte algunas de las plantas de exterior más resistentes al frío y al calor, para que te resulte más fácil cuidarlas y hacer que crezcan sanas y saludables.</p>
 
