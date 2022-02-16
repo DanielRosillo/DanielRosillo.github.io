@@ -111,7 +111,7 @@ Es una planta muy cómoda porque no necesita demasiada agua y tampoco le importa
 <p>¿A veces olvidas regar tus plantas?
 ¿Tus plantas mueren por las plagas?
 </p>
-<p>GEADEX es una increíble aplicación para smartphones Android que te permite llevar el control de plantas y flores del hogar o incluso un jardín completo, todo desde la palma de tu mano con una interfaz simple e intuitiva, todos los cuidados funcionan como una alarma, así que solo basta con configurar una fecha y hora y seras notificado automáticamente en dicha fecha sobre el cuidado configurado.</p>
+<p>GEADEX es una increíble aplicación para smartphones Android que te permite llevar el control de plantas y flores del hogar o incluso un jardín completo, todo desde la palma de tu mano con una interfaz simple e intuitiva.</p>
 
 <h2>DESCARGAR GEADEX GRATIS</h2>
  <div class="badges">
@@ -120,9 +120,6 @@ Es una planta muy cómoda porque no necesita demasiada agua y tampoco le importa
 <br>
 <br>
 
-<a href="https://www.enestadocrudo.com/plantas-resistentes-frio/">
-CREDITOS
-</a>
 <br>
 <br>
 <h2>UNETE A NUESTRO BOLETÍN DE JARDINERÍA EN TELEGRAM </h2>
@@ -132,7 +129,9 @@ CREDITOS
 
 <br>
 <br>
-
+<a href="https://www.enestadocrudo.com/plantas-resistentes-frio/">
+CREDITOS
+</a>
 
 <p><strong>Fraternalmente I.I. Daniel Rosillo;</strong><br>
 <p>- Project Manager in Rosillo Labs</p>
