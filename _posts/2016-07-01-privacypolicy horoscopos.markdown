@@ -29,7 +29,7 @@ categories: Legal
                   </p> <p>
                     The terms used in this Privacy Policy have the same meanings
                     as in our Terms and Conditions, which is accessible at
-                    Horóscopos + unless otherwise defined in this Privacy
+                    Entertainment Apps unless otherwise defined in this Privacy
                     Policy.
                   </p> <p><strong>Information Collection and Use</strong></p> <p>
                    The personal information that you are asked to provide, and the reasons why you are asked to provide it, will be made clear to you at the point we ask you to provide your personal information.</p>
