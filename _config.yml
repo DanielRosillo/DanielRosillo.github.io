@@ -1,15 +1,11 @@
 # Site settings
 title: Rosillo Labs
 email: manager@rosillolabs.com
-description: Rosillo Labs is a software development studio.
+description: Consultoría en desarrollo de software, somos la opinión de los expertos.
 
 baseurl: "" # the subpath of your site, e.g. /blog/ (If you use organization leave empty)
 url: "https://rosillolabs.com" # the base hostname & protocol for your site
 
-#Google Ad Words Data from scripts code (using Google responsive options) and ad client
-data-ad-slot: 2973388149
-data-ad-client: ca-pub-9204963049240271
-google_ad_client: ca-pub-9204963049240271
 
 google_analytics: "UA-143262290-1"
 addthis_id: ra-5d9242279fb8ace7
@@ -18,9 +14,9 @@ disqus_account: highbox
 # Social networks usernames (many more available: flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.) see all icon at fontawesome.io
 social:
   - title: twitter
-    url: https://twitter.com/danielrosillo22
+    url: https://twitter.com/
   - title: facebook
-    url: https://www.facebook.com/HighboxApp
+    url: https://www.facebook.com/
   - title: github
     url: https://github.com/DanielRosillo
 
