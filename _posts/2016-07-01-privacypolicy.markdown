@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Privacy Policy for Rosillo Labs"
-date:       2019-07-03 07:00:00
+date:       2026-03-03 07:00:00
 author:     "Daniel Rosillo"
 header-img: "img/post-bg-02.jpg"
 categories: Legal
